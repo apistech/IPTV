@@ -1,0 +1,353 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="UseeTV",LEJEL REG
+rtp://@239.1.1.3:7992
+#EXTINF:-1 group-title="UseeTV",JTV Surabaya
+rtp://@239.1.1.6:8010
+#EXTINF:-1 group-title="UseeTV",TV 4# Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.15:8064
+rtp://@239.1.1.15:8064
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.17:8076
+rtp://@239.1.1.17:8076
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.19:8088
+rtp://@239.1.1.19:8088
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.21:8100
+rtp://@239.1.1.21:8100
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.27:8136
+rtp://@239.1.1.27:8136
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.29:8148
+rtp://@239.1.1.29:8148
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.31:8160
+rtp://@239.1.1.31:8160
+#EXTINF:-1 group-title="UseeTV",TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 group-title="UseeTV",TV EDUKASI
+rtp://@239.1.1.39:8208
+#EXTINF:-1 group-title="UseeTV",TV5 Monde
+rtp://@239.1.1.55:8300
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.1.61:8340
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.69:8388
+rtp://@239.1.1.69:8388
+#EXTINF:-1 group-title="UseeTV",BALI TV
+rtp://@239.1.1.72:8406
+#EXTINF:-1 group-title="UseeTV",HOPE CHANNEL
+rtp://@239.1.1.78:8442
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.107:8616
+rtp://@239.1.1.107:8616
+#EXTINF:-1 group-title="UseeTV",SA_SDI_ELCX1-6 Ruang Terampil HD
+rtp://@239.1.1.111:8640
+#EXTINF:-1 group-title="UseeTV",!nsert 1#
+rtp://@239.1.1.113:8652
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.115:8664
+rtp://@239.1.1.115:8664
+#EXTINF:-1 group-title="UseeTV",Aniplus
+rtp://@239.1.1.117:8676
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.119:8688
+rtp://@239.1.1.119:8688
+#EXTINF:-1 group-title="UseeTV",ANTARA TV
+rtp://@239.1.1.128:9218
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.1.143:8832
+#EXTINF:-1 group-title="UseeTV",Dunia Lain
+rtp://@239.1.1.149:8868
+#EXTINF:-1 group-title="UseeTV",TV9 Nusantara
+rtp://@239.1.1.150:8874
+#EXTINF:-1 group-title="UseeTV",ZJTV HD
+rtp://@239.1.1.154:8898
+#EXTINF:-1 group-title="UseeTV",SZTV-8 [CCN]
+rtp://@239.1.1.156:8910
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.158:8922
+rtp://@239.1.1.158:8922
+#EXTINF:-1 group-title="UseeTV",MYTV
+rtp://@239.1.1.162:8946
+#EXTINF:-1 group-title="UseeTV",T-Music
+rtp://@239.1.1.163:8952
+#EXTINF:-1 group-title="UseeTV",TV Muhammadiyah
+rtp://@239.1.1.170:8994
+#EXTINF:-1 group-title="UseeTV",DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 group-title="UseeTV",Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 group-title="UseeTV",Al Quran Al kareem
+rtp://@239.1.1.185:9084
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.191:9120
+rtp://@239.1.1.191:9120
+#EXTINF:-1 group-title="UseeTV",Euronews
+rtp://@239.1.1.193:9132
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.195:9144
+rtp://@239.1.1.195:9144
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.197:9156
+rtp://@239.1.1.197:9156
+#EXTINF:-1 group-title="UseeTV",Program 1
+rtp://@239.1.1.208:9502
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.210:9506
+rtp://@239.1.1.210:9506
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.212:9510
+rtp://@239.1.1.212:9510
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.219:9288
+rtp://@239.1.1.219:9288
+#EXTINF:-1 group-title="UseeTV",U Channel
+rtp://@239.1.1.220:9522
+#EXTINF:-1 group-title="UseeTV",TRANS 7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:-1 group-title="UseeTV",Rodja TV
+rtp://@239.1.1.224:9320
+#EXTINF:-1 group-title="UseeTV",Bioskop Indonesia
+rtp://@239.1.1.226:9332
+#EXTINF:-1 group-title="UseeTV",Eat & Go
+rtp://@239.1.1.229:9350
+#EXTINF:-1 group-title="UseeTV",Khazanah
+rtp://@239.1.1.230:9356
+#EXTINF:-1 group-title="UseeTV",NHK World TV
+rtp://@239.1.1.236:9390
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.238:9400
+rtp://@239.1.1.238:9400
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.251:9498
+rtp://@239.1.1.251:9498
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.2:7986
+rtp://@239.1.2.2:7986
+#EXTINF:-1 group-title="UseeTV",LEJEL LIVE
+rtp://@239.1.2.3:7992
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.4:7998
+rtp://@239.1.2.4:7998
+#EXTINF:-1 group-title="UseeTV",Startup Channel
+rtp://@239.1.2.6:8000
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.8:8022
+rtp://@239.1.2.8:8022
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.10:8306
+rtp://@239.1.2.10:8306
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.14:8058
+rtp://@239.1.2.14:8058
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.22:8106
+rtp://@239.1.2.22:8106
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.23:8112
+rtp://@239.1.2.23:8112
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.2.24:8118
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.25:8124
+rtp://@239.1.2.25:8124
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.26:8130
+rtp://@239.1.2.26:8130
+#EXTINF:-1 group-title="UseeTV",PLAYOUT USEESPORTS SD
+rtp://@239.1.2.42:8194
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.50:8274
+rtp://@239.1.2.50:8274
+#EXTINF:-1 group-title="UseeTV",TV MUI
+rtp://@239.1.2.52:8286
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.68:8384
+rtp://@239.1.2.68:8384
+#EXTINF:-1 group-title="UseeTV",TVN Movies HD
+rtp://@239.1.2.72:8408
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.212:9208
+rtp://@239.1.2.212:9208
+#EXTINF:-1 group-title="UseeTV",PLAYOUT E Concert 4 HD
+rtp://@239.1.2.213:9210
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.215:9220
+rtp://@239.1.2.215:9220
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.221:9250
+rtp://@239.1.2.221:9250
+#EXTINF:-1 group-title="UseeTV",E-Concert 4
+rtp://@239.1.2.222:9256
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.2.223:9268
+#EXTINF:-1 group-title="UseeTV",FX HD
+rtp://@239.1.2.227:9324
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.233:9348
+rtp://@239.1.2.233:9348
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.234:9374
+rtp://@239.1.2.234:9374
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.2.236:9366
+#EXTINF:-1 group-title="UseeTV",Galaxy Premium SD
+rtp://@239.1.2.240:9390
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.243:9360
+rtp://@239.1.2.243:9360
+#EXTINF:-1 group-title="UseeTV",HBO FAM HD
+rtp://@239.1.2.245:9366
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.2.248:9398
+#EXTINF:-1 group-title="UseeTV",LEJEL LIVE
+rtp://@239.1.3.3:1234
+#EXTINF:-1 group-title="UseeTV",HBO HD
+rtp://@239.1.3.10:1234
+#EXTINF:-1 group-title="UseeTV",Warner TV
+rtp://@239.1.3.9:1234
+#EXTINF:-1 group-title="UseeTV",U Channel
+rtp://@239.1.3.13:1234
+#EXTINF:-1 group-title="UseeTV",ANTV
+rtp://@239.1.3.15:1234
+#EXTINF:-1 group-title="UseeTV",METRO
+rtp://@239.1.3.19:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.17:1234
+rtp://@239.1.3.17:1234
+#EXTINF:-1 group-title="UseeTV",SCTV
+rtp://@239.1.3.21:1234
+#EXTINF:-1 group-title="UseeTV",TRANS TV
+rtp://@239.1.3.27:1234
+#EXTINF:-1 group-title="UseeTV",TRANS 7
+rtp://@239.1.3.29:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.25:1234
+rtp://@239.1.3.25:1234
+#EXTINF:-1 group-title="UseeTV",TV ONE
+rtp://@239.1.3.31:1234
+#EXTINF:-1 group-title="UseeTV",TV EDUKASI
+rtp://@239.1.3.39:1234
+#EXTINF:-1 group-title="UseeTV",Rodja TV
+rtp://@239.1.3.36:1234
+#EXTINF:-1 group-title="UseeTV",TVRI
+rtp://@239.1.3.37:1234
+#EXTINF:-1 group-title="UseeTV",SA_SDI_ELCX1-6 Ruang Terampil HD
+rtp://@239.1.3.50:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.61:1234
+#EXTINF:-1 group-title="UseeTV",HBO FAM HD
+rtp://@239.1.3.62:1234
+#EXTINF:-1 group-title="UseeTV",Rajawali Tv
+rtp://@239.1.3.69:1234
+#EXTINF:-1 group-title="UseeTV",HBO SIG HD
+rtp://@239.1.3.68:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.77:1234
+#EXTINF:-1 group-title="UseeTV",HBO HITS HD
+rtp://@239.1.3.78:1234
+#EXTINF:-1 group-title="UseeTV",CINEMAX HD
+rtp://@239.1.3.86:1234
+#EXTINF:-1 group-title="UseeTV",JAKTV
+rtp://@239.1.3.107:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.111:1234
+#EXTINF:-1 group-title="UseeTV",!nsert 1#
+rtp://@239.1.3.113:1234
+#EXTINF:-1 group-title="UseeTV",NET TV
+rtp://@239.1.3.119:1234
+#EXTINF:-1 group-title="UseeTV",PLAYOUT E Concert 4 HD
+rtp://@239.1.3.134:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.132:1234
+rtp://@239.1.3.132:1234
+#EXTINF:-1 group-title="UseeTV",E! Entertainment
+rtp://@239.1.3.145:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.140:1234
+rtp://@239.1.3.140:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.144:1234
+rtp://@239.1.3.144:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.143:1234
+rtp://@239.1.3.143:1234
+#EXTINF:-1 group-title="UseeTV",NU Channel
+rtp://@239.1.3.152:1234
+#EXTINF:-1 group-title="UseeTV",CNBC Asia
+rtp://@239.1.3.155:1234
+#EXTINF:-1 group-title="UseeTV",E-Concert 2
+rtp://@239.1.3.156:1234
+#EXTINF:-1 group-title="UseeTV",TV9 Nusantara
+rtp://@239.1.3.158:1234
+#EXTINF:-1 group-title="UseeTV",DAAI TV
+rtp://@239.1.3.179:1234
+#EXTINF:-1 group-title="UseeTV",Berita Satu
+rtp://@239.1.3.183:1234
+#EXTINF:-1 group-title="UseeTV",Kompas TV
+rtp://@239.1.3.197:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.202:1234
+#EXTINF:-1 group-title="UseeTV",TV Muhammadiyah
+rtp://@239.1.3.204:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.206:1234
+rtp://@239.1.3.206:1234
+#EXTINF:-1 group-title="UseeTV",CNN INDONESIA
+rtp://@239.1.3.213:1234
+#EXTINF:-1 group-title="UseeTV",JTV Surabaya
+rtp://@239.1.3.214:1234
+#EXTINF:-1 group-title="UseeTV",LEJEL REG
+rtp://@239.1.3.219:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.216:1234
+rtp://@239.1.3.216:1234
+#EXTINF:-1 group-title="UseeTV",Galaxy Premium SD
+rtp://@239.1.3.223:1234
+#EXTINF:-1 group-title="UseeTV",E-Concert 3
+rtp://@239.1.3.227:1234
+#EXTINF:-1 group-title="UseeTV",E-Concert 4
+rtp://@239.1.3.228:1234
+#EXTINF:-1 group-title="UseeTV",HOPE CHANNEL
+rtp://@239.1.3.236:1234
+#EXTINF:-1 group-title="UseeTV",Ex Golf
+rtp://@239.1.3.235:1234
+#EXTINF:-1 group-title="UseeTV",CNN Indonesia SD
+rtp://@239.1.3.241:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.244:1234
+#EXTINF:-1 group-title="UseeTV",TV MUI
+rtp://@239.1.3.245:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.3.246:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.243:1234
+rtp://@239.1.3.243:1234
+#EXTINF:-1 group-title="UseeTV",channel-rtp://@239.1.3.251:1234
+rtp://@239.1.3.251:1234
+#EXTINF:-1 group-title="UseeTV",channel-rtp://@239.1.3.253:1234
+rtp://@239.1.3.253:1234
+#EXTINF:-1 group-title="UseeTV",BALI TV
+rtp://@239.1.3.254:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.3.247:1234
+rtp://@239.1.3.247:1234
+#EXTINF:-1 group-title="UseeTV",Startup Channel
+rtp://@239.1.4.4:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.3:1234
+rtp://@239.1.4.3:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.8:1234
+rtp://@239.1.4.8:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.11:1234
+rtp://@239.1.4.11:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.13:1234
+rtp://@239.1.4.13:1234
+#EXTINF:-1 group-title="UseeTV",NET HD
+rtp://@239.1.4.16:1234
+#EXTINF:-1 group-title="UseeTV",TRANS TV HD
+rtp://@239.1.4.20:1234
+#EXTINF:-1 group-title="UseeTV",TRANS 7 HD
+rtp://@239.1.4.19:1234
+#EXTINF:-1 group-title="UseeTV",NHK World TV
+rtp://@239.1.4.23:1234
+#EXTINF:-1 group-title="UseeTV",ANTARA TV
+rtp://@239.1.4.24:1234
+#EXTINF:-1 group-title="UseeTV",MYTV
+rtp://@239.1.4.28:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.26:1234
+rtp://@239.1.4.26:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.29:1234
+rtp://@239.1.4.29:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.27:1234
+rtp://@239.1.4.27:1234
+#EXTINF:-1 group-title="UseeTV",MNC SHOP
+rtp://@239.1.4.33:1234
+#EXTINF:-1 group-title="UseeTV",MTA TV
+rtp://@239.1.4.37:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.41:1234
+rtp://@239.1.4.41:1234
+#EXTINF:-1 group-title="UseeTV",channel-rtp://@239.1.4.42:1234
+rtp://@239.1.4.42:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.43:1234
+rtp://@239.1.4.43:1234
+#EXTINF:-1 group-title="UseeTV",Channel HD-09 HGTV
+rtp://@239.1.4.47:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.56:1234
+rtp://@239.1.4.56:1234
+#EXTINF:-1 group-title="UseeTV",TVN Movies HD
+rtp://@239.1.4.59:1234
+#EXTINF:-1 group-title="UseeTV",Channel HD-10 SPARE
+rtp://@239.1.4.60:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.61:1234
+rtp://@239.1.4.61:1234
+#EXTINF:-1 group-title="UseeTV",channel-rtp://@239.1.4.69:1234
+rtp://@239.1.4.69:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.70:1234
+rtp://@239.1.4.70:1234
+#EXTINF:-1 group-title="UseeTV",Service01
+rtp://@239.1.4.73:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.71:1234
+rtp://@239.1.4.71:1234
+#EXTINF:-1 group-title="UseeTV",channel-rtp://@239.1.4.77:1234
+rtp://@239.1.4.77:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.230:1234
+rtp://@239.1.4.230:1234
+#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.4.247:1234
+rtp://@239.1.4.247:1234

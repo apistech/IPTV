@@ -1,0 +1,403 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="LOKAL",SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581898714~acl=/hls-p/ingest_204_*/*~hmac=8f15060cfbb2736cce4a39e895e9b4b2ab7bbcbed392aa241c2d9c5496dc19b7/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581898842~acl=/hls-p/ingest_205_*/*~hmac=6701a30707ea3193f118ae09d92232d49457e10d84449ce63717eb03ad91fbeb/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",OCHANNEL HD
+https://etslive-2-vidio-com.akamaized.net/exp=1582010163~acl=/hls-p/ingest_geo_206_*/*~hmac=7fd57f5a128bc498e5d2622c65a87f189642af289397b5d9c1df23b45f070a58/hls-p/ingest_geo_206_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",KOMPASTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581898973~acl=/hls-p/ingest_874_*/*~hmac=cb021ddea1daccef1c5c9f5110df37f825c85b041a9cbe882deacfc0c680b41c/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899018~acl=/hls-p/ingest_783_*/*~hmac=b2c6af5f04b8582547390f06188656dd16f693f3143398c37216ec8f972b76b3/hls-p/ingest_783_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITASATU HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899054~acl=/hls-p/ingest_6165_*/*~hmac=8225269bd2870ce729bd357c310c35704e0ed50a9bbf54cd6a0cc3902d8e071b/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",METROTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899096~acl=/hls-p/ingest_777_*/*~hmac=5f8ca25f1559e49756ccf07ece71ab4588a705c225245922cb355f3a9b26d8d1/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ANTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581989115~acl=/hls-p/ingest_782_*/*~hmac=a62d458dec2a52cb27f802107dd81a4e97643f255295bb35a2c70a6a2e61f914/hls-p/ingest_782_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899153~acl=/hls-p/ingest_733_*/*~hmac=6fe10d7e24c787c0baeb6723c08d32670a93f025d2d3e1ee5dbc33e5b7028856/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899193~acl=/hls-p/ingest_665_*/*~hmac=599280cb90ec107db961340ad525873c7c6d8e512e00af9e9d8c915e6ea63df6/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899222~acl=/hls-p/ingest_734_*/*~hmac=5aa5f4a42a8be64487f4a5d327db38b32daa58b0c291272f1ec4a56f617a7846/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581986778~acl=/hls-p/ingest_870_*/*~hmac=d715fd95301b554cd4f2034cca3a8eb4c054b888911da09526f505edd527162f/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",JAKTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899261~acl=/hls-p/ingest_5415_*/*~hmac=3a96d84d097b4c03820999e17aa9743cfc098dee78cbc34849f364065c8ce7cf/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899286~acl=/hls-p/ingest_778_*/*~hmac=5fde31856d9b2162d48df025a347e384f716d8ed00f1e8ba2c832769473f24bc/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",NET. HD
+https://etslive-2-vidio-com.akamaized.net/exp=1582010028~acl=/hls-p/ingest_875_*/*~hmac=cddff35085e3956df5e0a137b87eb39839e1a9a16a69d9201b57ab4a08551c16/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581986871~acl=/hls-p/ingest_geo_1561_*/*~hmac=f1d70e4da26b706c6b91a472d0891b5a614c42fac66f944b97567b63e54d35dd/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",I News HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899335~acl=/hls-p/ingest_5409_*/*~hmac=34b31a3b9efcd7c7be28b6001818b2432f277816c764eed31b9ce069f1b37366/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",O SHOP HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899372~acl=/hls-p/ingest_6166_*/*~hmac=5898f4487f0c3362e18656263b1b9aa733513724dc56996a7e116939120c8dad/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899403~acl=/hls-p/ingest_6441_*/*~hmac=17665a3a8a8767350a99d320262703a0bb4de6ba14ce34196cae5ceac378f803/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MYTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899432~acl=/hls-p/ingest_6711_*/*~hmac=fe93f7b13b8746f532481ffd4e19bb722091533a27cd49c5ec3b6dd8ee506913/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",DAAITV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581899456~acl=/hls-p/ingest_6482_*/*~hmac=4657c157b9650f6c0b646b61b6e23802f10bd702fd960b7e85fb5cfe28f860ad/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",DWTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581987013~acl=/hls-p/ingest_5075_*/*~hmac=64e4d23bcd9ce11e6e36ea2e1995d3de4adb2f1c886463afbd94b1b5b9459cc5/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI HD
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",I News HD
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",METROTV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",CNBC HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="LOKAL",BandungTV HD
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="LOKAL",The Indonesia Channel
+https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",REDBULL TV FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITASATU WORLD HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITASATU JAKARTA GLOBE NEWS HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",Reformed21 HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",HOME and LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",Hi! Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",MiX Music HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",KARAOKE TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",NET.
+http://rr2.dens.tv/s/s08/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ElshintaTV
+http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTV
+http://rr2.dens.tv/s/s12/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DAAITV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RODJATV
+http://rr2.dens.tv/s/s14/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",EURONEWS
+http://rr2.dens.tv/s/s15/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
+http://rr2.dens.tv/s/s16/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
+http://rr2.dens.tv/s/s17/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CCTV4
+http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CGTN
+http://rr2.dens.tv/s/s20/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",NCP
+http://rr2.dens.tv/s/s21/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",FRANCE24
+http://rr2.dens.tv/s/s22/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RT
+http://rr2.dens.tv/s/s23/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TV5MONDE
+http://rr2.dens.tv/s/s24/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DWTV
+http://rr2.dens.tv/s/s26/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UNKNOWN
+http://rr2.dens.tv/s/s27/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UNKNOWN
+http://rr2.dens.tv/s/s28/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Celestial Movies
+http://rr2.dens.tv/s/s33/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",THRILL
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTP
+http://rr2.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",V CHANNEL
+http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",K DRAMA
+http://rr2.dens.tv/s/s42/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",MYTV
+http://rr2.dens.tv/s/s46/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UNKNOWN
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr2.dens.tv/s/s100/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANS7
+http://rr2.dens.tv/s/s101/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr2.dens.tv/s/s102/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr2.dens.tv/s/s103/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPASTV
+http://rr2.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
+http://rr2.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr3.dens.tv/s/s36/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",JTV Surabaya
+http://rr3.dens.tv/s/s90/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UNKNOWN
+http://rr3.dens.tv/s/s102/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",KIDZ
+http://rr3.dens.tv/s/s113/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",STYLE
+http://rr.dens.tv/h/h01/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr.dens.tv/h/h03/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMA WORLD
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FightSport
+http://rr.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KIX
+http://rr.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",K+
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY GEM
+http://rr.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",EGG
+http://rr.dens.tv/h/h22/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",NHK WORLD
+http://rr.dens.tv/h/h23/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Lifestyle
+http://rr.dens.tv/h/h28/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Channel News Asia
+http://rr.dens.tv/h/h29/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",HITS
+http://rr.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UNKNOWN
+http://rr.dens.tv/h/h41/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVE
+http://rr.dens.tv/h/h42/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AXN
+http://rr.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIPLUS
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIMAX
+http://rr1.dens.tv/h/h144/index.m3u8
+#EXTINF:-1 group-title="MNC",TVRI
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa.m3u8
+#EXTINF:-1 group-title="MNC",TVRI
+https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
+#EXTINF:-1 group-title="MNC",GTV
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
+#EXTINF:-1 group-title="MNC",METROTV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
+#EXTINF:-1 group-title="MNC",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+#EXTINF:-1 group-title="MNC",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:-1 group-title="MNC",Miao Mi
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
+#EXTINF:-1 group-title="MNC",MNCInfotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
+#EXTINF:-1 group-title="MNC",MNC News
+https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
+#EXTINF:-1 group-title="MNC",MNC Comedy
+https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
+#EXTINF:-1 group-title="MNC",MNC Shop Trendy
+https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
+#EXTINF:-1 group-title="MNC",MNC Shop Smart
+https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
+#EXTINF:-1 group-title="MNC",Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:-1 group-title="MNC",FX HD
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+#EXTINF:-1 group-title="MNC",HBO Hits HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+#EXTINF:-1 group-title="MNC",HBO Signature HD
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:-1 group-title="MNC",FOX HD
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+#EXTINF:-1 group-title="MNC",FOX Crime HD
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1 group-title="MNC",FOX Life HD
+http://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+#EXTINF:-1 group-title="MNC",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+#EXTINF:-1 group-title="MNC",Animax HD
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
+#EXTINF:-1 group-title="MNC",Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+#EXTINF:-1 group-title="MNC",tvN HD
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+#EXTINF:-1 group-title="MNC",TvN Movies HD
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+#EXTINF:-1 group-title="MNC",HITS HD
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+#EXTINF:-1 group-title="MNC",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
+#EXTINF:-1 group-title="MNC",Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+#EXTINF:-1 group-title="MNC",KIDS TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
+#EXTINF:-1 group-title="MNC",BabyTV HD
+https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
+#EXTINF:-1 group-title="MNC",MUSLIM TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
+#EXTINF:-1 group-title="MNC",MUSLIM TV
+https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
+#EXTINF:-1 group-title="MNC",VISION PRIME HD
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+#EXTINF:-1 group-title="MNC",MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
+#EXTINF:-1 group-title="MNC",Waku Waku Japan HD
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+#EXTINF:-1 group-title="MNC",France24
+https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
+#EXTINF:-1 group-title="MNC",Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
+#EXTINF:-1 group-title="MNC",ABC Australia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+#EXTINF:-1 group-title="MNC",ZEE TV
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
+#EXTINF:-1 group-title="MNC",ZING
+https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
+#EXTINF:-1 group-title="MNC",Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+#EXTINF:-1 group-title="MNC",ANHUI TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
+#EXTINF:-1 group-title="MNC",JIANGSU TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
+#EXTINF:-1 group-title="MNC",HUNAN TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
+#EXTINF:-1 group-title="MNC",SHANGHAI DRAGON TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
+#EXTINF:-1 group-title="HOOQ",RCTI
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 group-title="HOOQ",MNCTV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1 group-title="HOOQ",GTV
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+#EXTINF:-1 group-title="HOOQ",TRANS7
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
+#EXTINF:-1 group-title="HOOQ",TVONE
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+#EXTINF:-1 group-title="HOOQ",TRANSTV
+https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
+#EXTINF:-1 group-title="HOOQ",RTV
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+#EXTINF:-1 group-title="HOOQ",JTV Surabaya
+https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
+#EXTINF:-1 group-title="HOOQ",KOMPASTV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 group-title="HOOQ",USEE PHOTO
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+#EXTINF:-1 group-title="HOOQ",USEE PRIME
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+#EXTINF:-1 group-title="HOOQ",ID KU
+https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
+#EXTINF:-1 group-title="HOOQ",RUANG TERAMPIL
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
+#EXTINF:-1 group-title="HOOQ",CLUBING TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
+#EXTINF:-1 group-title="HOOQ",MYTV
+https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
+#EXTINF:-1 group-title="HOOQ",AWESOME
+https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
+#EXTINF:-1 group-title="HOOQ",FAIL ARMY
+https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
+#EXTINF:-1 group-title="HOOQ",JAWAPOS TV
+https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
+#EXTINF:-1 group-title="HOOQ",NIFTY
+https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
+#EXTINF:-1 group-title="HOOQ",ENTERTAINMENT
+https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+#EXTINF:-1 group-title="HOOQ",SPORT ILUSTRATED
+https://livetvhooq.akamaized.net/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
+#EXTINF:-1 group-title="HOOQ",B MUSIC SESSION
+https://livetvhooq.akamaized.net/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+#EXTINF:-1 group-title="HOOQ",B MUSIC CONCERT
+https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+#EXTINF:-1 group-title="HOOQ",ZEE BIOSKOP
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF:-1 group-title="HOOQ",OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+#EXTINF:-1 group-title="UseeTV",INDOSIAR
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
+#EXTINF:-1 group-title="UseeTV",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 group-title="UseeTV",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1 group-title="UseeTV",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 group-title="UseeTV",FOX Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+#EXTINF:-1 group-title="UseeTV",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 group-title="UseeTV",HBO HD
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
+#EXTINF:-1 group-title="UseeTV",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1 group-title="UseeTV",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 group-title="UseeTV",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 group-title="UseeTV",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 group-title="UseeTV",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
+#EXTINF:-1 group-title="UseeTV",Nickelodeon
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3DE847863636D558FBE78F&profile=pass
+#EXTINF:-1 group-title="UseeTV",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 group-title="UseeTV",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 group-title="UseeTV",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 group-title="UseeTV",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 group-title="UseeTV",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 group-title="UseeTV",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 group-title="UseeTV",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
+#EXTINF:-1 group-title="UseeTV",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1 group-title="UseeTV",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
+#EXTINF:-1 group-title="UseeTV",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
+#EXTINF:-1 group-title="UseeTV",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+#EXTINF:-1 group-title="UseeTV",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
+#EXTINF:-1 group-title="UseeTV",SETANTA SPORT
+http://203.153.218.28:9981/stream/channelid/981299476?ticket=3A4FD3607BE4AAC6DAA7E01E60F3218471B987DD&profile=pass

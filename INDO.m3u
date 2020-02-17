@@ -87,22 +87,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582064353~acl=/hls-p/ingest_6711_
 https://etslive-2-vidio-com.akamaized.net/exp=1582064304~acl=/hls-p/ingest_6482_*/*~hmac=70171ed8c5aeb3319a5d4b1bb661b3c85f75ba95f1d90509a5ea182f8fca8927/hls-p/ingest_6482_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",DWTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1582064223~acl=/hls-p/ingest_5075_*/*~hmac=96aa2f04cf39356d45514b2b5498e944d33ecff621abdb0ab11ab2a3e26ca3fe/hls-p/ingest_5075_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",HOREE! HD
-https://etslive-2-vidio-com.akamaized.net/exp=1581906470~acl=/hls-b/ingest_geo_6397_*/*~hmac=223dfd180dae58a60c4606f17ec8d05576b84ba884f1bddf6f2af98bb2055e2f/hls-b/ingest_geo_6397_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CHAMPIONSTV 1 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1581906266~acl=/hls-p/ingest_geo_6685_*/*~hmac=ab9b10fd82e0ea74badb834f414b76c8b8d49131c8a2e92841cd4ed88751bab8/hls-p/ingest_geo_6685_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CHAMPIONSTV 2 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1581906308~acl=/hls-p/ingest_geo_6686_*/*~hmac=85f76e7741d3c2738c8e2619aa8e655581c8cf196a9edc98cd2138b2a205c2d0/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",ZEE BIOSKOP HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579752580~acl=/hls-p/ingest_geo_6399_*/*~hmac=ce83c411ee1ce3b673c2e108585b62dec702fa6ccae2a0037c4c431983353852/hls-p/ingest_geo_6399_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CITRA DRAMA HD
-https://etslive-2-vidio-com.akamaized.net/exp=1581906367~acl=/hls-b/ingest_geo_6401_*/*~hmac=b2c472187cdd23368ab9426762bccce063ec567b6041d0bcd038ebc6fb3efd46/hls-b/ingest_geo_6401_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CITRA BIOSKOP HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579759420~acl=/hls-p/ingest_geo_6684_*/*~hmac=6e3f3928ce3edc97e7168cffc8b7820cf05afef8e044b563e63c295b96832a01/hls-p/ingest_geo_6684_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CITRA DANGDUT HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579759471~acl=/hls-b/ingest_geo_6587_*/*~hmac=09b70f7d025be84f514a443cee2e654946514daab2b7bffd7570a8d6b49ec743/hls-b/ingest_geo_6587_720p/index.m3u8
-#EXTINF:-1 group-title="VIDIO HD",CITRA ENTERTAINMENT HD
-https://etslive-2-vidio-com.akamaized.net/exp=1579759526~acl=/hls-p/ingest_geo_6402_*/*~hmac=2a2b1df1c5d57baacfa2506c26605c84836a456063a267250d8db703bc05ce5b/hls-p/ingest_geo_6402_720p/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",NET.
@@ -235,30 +219,10 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 #EXTINF:-1 group-title="MNC",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-#EXTINF:-1 group-title="MNC",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #EXTINF:-1 group-title="MNC",BabyTV HD
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
-#EXTINF:-1 group-title="MNC",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-#EXTINF:-1 group-title="MNC",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:-1 group-title="MNC",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-#EXTINF:-1 group-title="MNC",Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
-#EXTINF:-1 group-title="MNC",Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 #EXTINF:-1 group-title="MNC",Cinemax HD
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1 group-title="MNC",CNBC World
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:-1 group-title="MNC",Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-#EXTINF:-1 group-title="MNC",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-#EXTINF:-1 group-title="MNC",Disney Jr
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 group-title="MNC",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 #EXTINF:-1 group-title="MNC",FOX Crime HD
@@ -273,26 +237,14 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 group-title="MNC",GTV
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
-#EXTINF:-1 group-title="MNC",HBO
-https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 group-title="MNC",HBO Family
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 #EXTINF:-1 group-title="MNC",HBO Hits HD
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1 group-title="MNC",HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 group-title="MNC",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-#EXTINF:-1 group-title="MNC",History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1 group-title="MNC",HITS HD
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-#EXTINF:-1 group-title="MNC",HITS Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 #EXTINF:-1 group-title="MNC",HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-#EXTINF:-1 group-title="MNC",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="MNC",JIANGSU TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
 #EXTINF:-1 group-title="MNC",KIDS TV
@@ -323,18 +275,8 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1 group-title="MNC",MUSLIM TV
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
-#EXTINF:-1 group-title="MNC",NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-#EXTINF:-1 group-title="MNC",Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-#EXTINF:-1 group-title="MNC",Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1 group-title="MNC",SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-#EXTINF:-1 group-title="MNC",Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-#EXTINF:-1 group-title="MNC",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:-1 group-title="MNC",tvN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 #EXTINF:-1 group-title="MNC",TvN Movies HD
@@ -345,8 +287,6 @@ https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:-1 group-title="MNC",Waku Waku Japan HD
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 group-title="MNC",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1 group-title="MNC",Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:-1 group-title="MNC",ZEE TV
@@ -413,14 +353,10 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 group-title="Surfindo",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 group-title="Surfindo",AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 group-title="Surfindo",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 #EXTINF:-1 group-title="Surfindo",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 group-title="Surfindo",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 group-title="Surfindo",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 group-title="Surfindo",Cinemax

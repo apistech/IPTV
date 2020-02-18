@@ -1,22 +1,14 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="LOKAL",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 group-title="LOKAL",MNCTV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 group-title="LOKAL",GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 group-title="LOKAL",I News
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",TVONE
-https://www.youtube.com/embed/dBCN4POjkgs?autoplay=1
-#EXTINF:-1 group-title="LOKAL",BandungTV
-http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 group-title="LOKAL",JTV Surabaya
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+https://www.youtube.com/embed/rok7ejmoaCk?autoplay=1
+#EXTINF:-1 group-title="LOKAL",KOMPASTV
+https://www.youtube.com/embed/qiS7ddYkU9g?autoplay=1
+#EXTINF:-1 group-title="LOKAL",NET.
+https://www.youtube.com/embed/F2oDhhbDXIg?autoplay=1
 #EXTINF:-1 group-title="LOKAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",CNBC
@@ -25,6 +17,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",The Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",BandungTV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="LOKAL",JTV Surabaya
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITASATU WORLD
@@ -235,6 +231,8 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="MNC",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
+#EXTINF:-1 group-title="MNC",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1 group-title="MNC",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 #EXTINF:-1 group-title="MNC",Asian Food Channel
@@ -243,18 +241,30 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 #EXTINF:-1 group-title="MNC",BabyTV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
+#EXTINF:-1 group-title="MNC",Bali TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 #EXTINF:-1 group-title="MNC",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+#EXTINF:-1 group-title="MNC",BBC World News
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
+#EXTINF:-1 group-title="MNC",Be Smart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 #EXTINF:-1 group-title="MNC",BeIN 1
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
 #EXTINF:-1 group-title="MNC",BeIN 2
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
+#EXTINF:-1 group-title="MNC",Berita Satu News
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 #EXTINF:-1 group-title="MNC",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1 group-title="MNC",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 #EXTINF:-1 group-title="MNC",CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
+#EXTINF:-1 group-title="MNC",Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
+#EXTINF:-1 group-title="MNC",Celestial Movies
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 #EXTINF:-1 group-title="MNC",Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1 group-title="MNC",Cinema World
@@ -263,8 +273,12 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1 group-title="MNC",CNBC World
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
+#EXTINF:-1 group-title="MNC",CNN International
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
 #EXTINF:-1 group-title="MNC",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+#EXTINF:-1 group-title="MNC",DAAITV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
 #EXTINF:-1 group-title="MNC",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1 group-title="MNC",Disney Channel
@@ -273,6 +287,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 group-title="MNC",Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+#EXTINF:-1 group-title="MNC",EuroNews
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
+#EXTINF:-1 group-title="MNC",EWTN
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
 #EXTINF:-1 group-title="MNC",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
 #EXTINF:-1 group-title="MNC",FMN
@@ -285,6 +303,8 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 #EXTINF:-1 group-title="MNC",FOX Movies Premium
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+#EXTINF:-1 group-title="MNC",FOX News
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
 #EXTINF:-1 group-title="MNC",FOX Sports
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 #EXTINF:-1 group-title="MNC",FOX Sports 2
@@ -319,22 +339,36 @@ https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="MNC",INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
+#EXTINF:-1 group-title="MNC",iNewsTV
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
+#EXTINF:-1 group-title="MNC",JAK TV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
 #EXTINF:-1 group-title="MNC",JIANGSU TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
+#EXTINF:-1 group-title="MNC",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 group-title="MNC",KIDS TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 group-title="MNC",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+#EXTINF:-1 group-title="MNC",KOMPASTV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
+#EXTINF:-1 group-title="MNC",Life
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 group-title="MNC",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 group-title="MNC",METROTV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 #EXTINF:-1 group-title="MNC",Miao Mi
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
+#EXTINF:-1 group-title="MNC",MNC Channel
+https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 #EXTINF:-1 group-title="MNC",MNC Comedy
 https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 group-title="MNC",MNC Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
+#EXTINF:-1 group-title="MNC",MNC Lifestyle
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
 #EXTINF:-1 group-title="MNC",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 #EXTINF:-1 group-title="MNC",MNC Shop Smart
@@ -345,6 +379,8 @@ https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 group-title="MNC",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:-1 group-title="MNC",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 #EXTINF:-1 group-title="MNC",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1 group-title="MNC",MUSLIM TV
@@ -359,34 +395,66 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #EXTINF:-1 group-title="MNC",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
+#EXTINF:-1 group-title="MNC",NHK World TV
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
 #EXTINF:-1 group-title="MNC",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 group-title="MNC",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+#EXTINF:-1 group-title="MNC",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
+#EXTINF:-1 group-title="MNC",RT English
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
+#EXTINF:-1 group-title="MNC",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 #EXTINF:-1 group-title="MNC",SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 #EXTINF:-1 group-title="MNC",SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
+#EXTINF:-1 group-title="MNC",SKY News
+https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
+#EXTINF:-1 group-title="MNC",STAR CM
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+#EXTINF:-1 group-title="MNC",STAR CM Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
+#EXTINF:-1 group-title="MNC",Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 #EXTINF:-1 group-title="MNC",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 group-title="MNC",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+#EXTINF:-1 group-title="MNC",Trans 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
+#EXTINF:-1 group-title="MNC",Trans TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
+#EXTINF:-1 group-title="MNC",TRT World
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
+#EXTINF:-1 group-title="MNC",TV Muhammadiyah
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 #EXTINF:-1 group-title="MNC",TV9
 https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
 #EXTINF:-1 group-title="MNC",tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 #EXTINF:-1 group-title="MNC",TvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+#EXTINF:-1 group-title="MNC",TVONE
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 #EXTINF:-1 group-title="MNC",TVRI
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
+#EXTINF:-1 group-title="MNC",TVRI SPORT
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa.m3u8
 #EXTINF:-1 group-title="MNC",VISION PRIME
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:-1 group-title="MNC",Waku Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #EXTINF:-1 group-title="MNC",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 group-title="MNC",Zee Bioskop
+#EXTINF:-1 group-title="MNC",ZEE Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_hls/ZeeBIOSKOP.m3u8
+#EXTINF:-1 group-title="MNC",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+#EXTINF:-1 group-title="MNC",ZEE Cinema
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 #EXTINF:-1 group-title="MNC",ZEE TV
 https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 #EXTINF:-1 group-title="MNC",ZING

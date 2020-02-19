@@ -21,6 +21,10 @@ https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 group-title="LOKAL",JTV Surabaya
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITASATU WORLD
@@ -41,188 +45,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",KARAOKE Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 group-title="Vidio.com",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582101943~acl=/hls-p/ingest_204_*/*~hmac=0429e273861b7b769a5576082e70f216875cd24f5251bad8db4d7797ee761e3a/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1582101958~acl=/hls-p/ingest_205_*/*~hmac=19cb391b2dbc3add4aac8090a7da1468d946f29e8f41e7ad141ee83e9f975ecf/hls-p/ingest_205_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",O CHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1582101973~acl=/hls-p/ingest_206_*/*~hmac=cb795f08df054ee6d7f9af55692999422ec3919d6547022a569c228ea99579fd/hls-p/ingest_206_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",KOMPASTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582101991~acl=/hls-p/ingest_874_*/*~hmac=05206a1243c71bb2d5f1e133065cb168f65c480a523f2a52d97cda06b0614fa6/hls-p/ingest_874_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",TVONE
-https://etslive-2-vidio-com.akamaized.net/exp=1582063990~acl=/hls-p/ingest_783_*/*~hmac=5f4bf13967f5da530db001d7a3018bd8cefe72b03de74da31d3c34a57e418329/hls-p/ingest_783_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",BERITASATU
-https://etslive-2-vidio-com.akamaized.net/exp=1582102359~acl=/hls-p/ingest_6165_*/*~hmac=da8fc8e71a34301f1f6071b029406fc3e3b30425fee6c02285ac65d34721a288/hls-p/ingest_6165_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",METROTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102372~acl=/hls-p/ingest_777_*/*~hmac=52f0f87add86b7b86ce3cc8b0b0f01119e9856107f3e790346c2263e61071870/hls-p/ingest_777_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",ANTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102387~acl=/hls-p/ingest_782_*/*~hmac=d560a4ecdb606471400fdc863956b4d3350b9c8351ad556d804fd0e3c71db958/hls-p/ingest_782_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",TRANSTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102410~acl=/hls-p/ingest_733_*/*~hmac=edc09cac8a85660a776d34b6c710d09ea92368a95bfebaabbdc76f014f2f5d1e/hls-p/ingest_733_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1582064080~acl=/hls-p/ingest_665_*/*~hmac=c6fc364bdf6d1e04f77613e9044228b97fb4e7e704b52fa69c00b13bc1ccf32a/hls-p/ingest_665_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",TRANS7
-https://etslive-2-vidio-com.akamaized.net/exp=1582102438~acl=/hls-p/ingest_734_*/*~hmac=a77f7c861d91ee6107964b50649034b129eac158092e1701c76ea6c0fbfd9082/hls-p/ingest_734_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102459~acl=/hls-p/ingest_870_*/*~hmac=b0ffa8b83b95f43ca9afddfc781cd340ab4fdc77077840fe4569566d2f66da09/hls-p/ingest_870_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",JAKTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102480~acl=/hls-p/ingest_5415_*/*~hmac=c5e2f271cf97c6fc9087b6b34eb897ed837fa7b62989ec97c94835704b5f3d5c/hls-p/ingest_5415_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102501~acl=/hls-p/ingest_778_*/*~hmac=c9afede347f059ef7a16e1ea421d33588eb624bcf1d399412015f053f3960d44/hls-p/ingest_778_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",NET.
-https://etslive-2-vidio-com.akamaized.net/exp=1582102526~acl=/hls-p/ingest_875_*/*~hmac=ae3a43013cc74271ee56441bd0611db8ad79f421748a2ba700868fcd67aef85f/hls-p/ingest_875_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102542~acl=/hls-p/ingest_geo_1561_*/*~hmac=f3a5c54dfc0bd656848c3428cf2acb53e6f9e28d61bf71d05f8bce35cc6b14fb/hls-p/ingest_geo_1561_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",I News
-https://etslive-2-vidio-com.akamaized.net/exp=1582102557~acl=/hls-p/ingest_5409_*/*~hmac=0c0c6296299fc2c03bd2e27e18f19b66462ecea6c1a96c1a96e920932774c925/hls-p/ingest_5409_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",O SHOP
-https://etslive-2-vidio-com.akamaized.net/exp=1582102580~acl=/hls-p/ingest_6166_*/*~hmac=969cd798b16a6505725ac9e604c3fb1aa7a57c772d154bb78a0896b9f205fe01/hls-p/ingest_6166_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",TVRI
-https://etslive-2-vidio-com.akamaized.net/exp=1582102599~acl=/hls-p/ingest_6441_*/*~hmac=13c4977666466bba5f030a783ef695b58b13c21637047ce90ab0e0817f15d397/hls-p/ingest_6441_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",MYTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102623~acl=/hls-p/ingest_6711_*/*~hmac=8acf04ea3b0820baa4385c476dc88a4100be4afefb053b48cabdd55daae52aa9/hls-p/ingest_6711_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",DAAITV
-https://etslive-2-vidio-com.akamaized.net/exp=1582102640~acl=/hls-p/ingest_6482_*/*~hmac=39a973f389ac626bc55ec1c3de5914e7363614a29de8ea93911abe03d8bc010e/hls-p/ingest_6482_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",DWTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582064223~acl=/hls-p/ingest_5075_*/*~hmac=96aa2f04cf39356d45514b2b5498e944d33ecff621abdb0ab11ab2a3e26ca3fe/hls-p/ingest_5075_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",HOREE!
-https://etslive-2-vidio-com.akamaized.net/exp=1581906470~acl=/hls-b/ingest_geo_6397_*/*~hmac=223dfd180dae58a60c4606f17ec8d05576b84ba884f1bddf6f2af98bb2055e2f/hls-b/ingest_geo_6397_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CHAMPIONSTV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1581906266~acl=/hls-p/ingest_geo_6685_*/*~hmac=ab9b10fd82e0ea74badb834f414b76c8b8d49131c8a2e92841cd4ed88751bab8/hls-p/ingest_geo_6685_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CHAMPIONSTV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1581906308~acl=/hls-p/ingest_geo_6686_*/*~hmac=85f76e7741d3c2738c8e2619aa8e655581c8cf196a9edc98cd2138b2a205c2d0/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",ZEE BIOSKOP
-https://etslive-2-vidio-com.akamaized.net/exp=1579752580~acl=/hls-p/ingest_geo_6399_*/*~hmac=ce83c411ee1ce3b673c2e108585b62dec702fa6ccae2a0037c4c431983353852/hls-p/ingest_geo_6399_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CITRA DRAMA
-https://etslive-2-vidio-com.akamaized.net/exp=1581906367~acl=/hls-b/ingest_geo_6401_*/*~hmac=b2c472187cdd23368ab9426762bccce063ec567b6041d0bcd038ebc6fb3efd46/hls-b/ingest_geo_6401_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CITRA BIOSKOP
-https://etslive-2-vidio-com.akamaized.net/exp=1579759420~acl=/hls-p/ingest_geo_6684_*/*~hmac=6e3f3928ce3edc97e7168cffc8b7820cf05afef8e044b563e63c295b96832a01/hls-p/ingest_geo_6684_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CITRA DANGDUT
-https://etslive-2-vidio-com.akamaized.net/exp=1579759471~acl=/hls-b/ingest_geo_6587_*/*~hmac=09b70f7d025be84f514a443cee2e654946514daab2b7bffd7570a8d6b49ec743/hls-b/ingest_geo_6587_720p/index.m3u8
-#EXTINF:-1 group-title="Vidio.com",CITRA ENTERTAINMENT
-https://etslive-2-vidio-com.akamaized.net/exp=1579759526~acl=/hls-p/ingest_geo_6402_*/*~hmac=2a2b1df1c5d57baacfa2506c26605c84836a456063a267250d8db703bc05ce5b/hls-p/ingest_geo_6402_720p/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ElshintaTV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DAAITV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",EURONEWS
-http://rr2.dens.tv/s/s15/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
-http://rr2.dens.tv/s/s16/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
-http://rr2.dens.tv/s/s17/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CCTV4
-http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NCP
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TV5MONDE
-http://rr2.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MADINAH
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MAKAH
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KIDZ
-http://rr3.dens.tv/s/s30/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Celestial Movies
-http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TBN
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",V CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",K DRAMA
-http://rr2.dens.tv/s/s42/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MYTV
-http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",UNKNOWN
-http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",JTV Surabaya
-http://rr3.dens.tv/s/s90/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANSTV
-http://rr2.dens.tv/s/s100/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANTV
-http://rr2.dens.tv/s/s102/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SCTV
-http://rr2.dens.tv/s/s103/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KOMPASTV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KIDZ
-http://rr3.dens.tv/s/s113/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",STYLE
-http://rr.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
-http://rr.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CINEMA WORLD
-http://rr.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FightSport
-http://rr.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KIX
-http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",METROTV
-http://rr.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",EGG
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Lifestyle
-http://rr.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Channel News Asia
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",HITS
-http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",UNKNOWN
-http://rr.dens.tv/h/h41/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVE
-http://rr.dens.tv/h/h42/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",AXN
-http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
 #EXTINF:-1 group-title="MNC",ABC Australia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 #EXTINF:-1 group-title="MNC",ANHUI TV
@@ -271,6 +93,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 #EXTINF:-1 group-title="MNC",Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:-1 group-title="MNC",Clubbing TV
+https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
 #EXTINF:-1 group-title="MNC",CNBC World
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 group-title="MNC",CNN International
@@ -459,61 +283,91 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 #EXTINF:-1 group-title="MNC",ZING
 https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
-#EXTINF:-1 group-title="HOOQ",AWESOME
-https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
-#EXTINF:-1 group-title="HOOQ",B MUSIC CONCERT
+#EXTINF:-1 group-title="HOOQ TV",AL JAZEERA
+https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105071~exp=9007200836846062~acl=/9441d4e7c9db40cba9fb1a3fc986a596/*/profile_1/chunklist.m3u8*~hmac=ad0dda06c30ceaafb15f30ff686a8ef1d58f5322249dc315ebe3033d2c991a4a
+#EXTINF:-1 group-title="HOOQ TV",ARIRANG
+https://livetvhooq.akamaized.net/2d3daea33e7849f4bcd48bb6396cbf2b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575110972~exp=9007200829851963~acl=/2d3daea33e7849f4bcd48bb6396cbf2b/*/profile_2/chunklist.m3u8*~hmac=b1914f2a9a97afe53ac4c78799da86b6af7c32f4715fcbf084f34820046a85e3
+#EXTINF:-1 group-title="HOOQ TV",B MUSIC CONCERT
 https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
-#EXTINF:-1 group-title="HOOQ",B MUSIC SESSION
+#EXTINF:-1 group-title="HOOQ TV",B MUSIC SESSION
 https://livetvhooq.akamaized.net/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
-#EXTINF:-1 group-title="HOOQ",CLUBING TV
+#EXTINF:-1 group-title="HOOQ TV",BERITASATU
+https://livetvhooq.akamaized.net/e23061b584d746ba811292c8e1bc783d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105033~exp=9007200836846024~acl=/e23061b584d746ba811292c8e1bc783d/*/profile_1/chunklist.m3u8*~hmac=e494c7bcf0b152d9eb56457f1b88b0ef00261245f1e2d190907591dc68da6bb8
+#EXTINF:-1 group-title="HOOQ TV",CHANNEL NEWS ASIA
+https://livetvhooq.akamaized.net/1dc93a7fcc294660a094f2c478de1aaf/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574673166~exp=9007200829414157~acl=/1dc93a7fcc294660a094f2c478de1aaf/*/profile_0/chunklist.m3u8*~hmac=5fe6c8bd02d6ac62cb7d0060f716df428e058fb61a6e0d89dee8dd3b9dcda3d4
+#EXTINF:-1 group-title="HOOQ TV",CLUBING TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
-#EXTINF:-1 group-title="HOOQ",DAAI TV
+#EXTINF:-1 group-title="HOOQ TV",DAAI TV
 https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576332179~exp=9007200831073170~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=1cc4baddd9b1a92f5c83b12788db9c6f7fe4c78b79c9bd7406cdbf7d86d6fe44
-#EXTINF:-1 group-title="HOOQ",DWTV
+#EXTINF:-1 group-title="HOOQ TV",DWTV
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1575560426~exp=9007200830301417~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=587ebf4832a5ed23a09f2e7d851d945ae20655c988eda38237f6b6e09e146de6
-#EXTINF:-1 group-title="HOOQ",ENTERTAINMENT
+#EXTINF:-1 group-title="HOOQ TV",ENTERTAINMENT
 https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
-#EXTINF:-1 group-title="HOOQ",FAIL ARMY
+#EXTINF:-1 group-title="HOOQ TV",EURONEWS
+https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575110936~exp=9007200829851927~acl=/10efd311a8054e2d9b96e39460acfa8b/*/profile_2/chunklist.m3u8*~hmac=e6cd676c58c1801016c0cb5933b887e552a67e6e90a92f9a8f1ca6874da79fed
+#EXTINF:-1 group-title="HOOQ TV",FAIL ARMY
 https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 group-title="HOOQ",GTV
+#EXTINF:-1 group-title="HOOQ TV",FOOD COOKING LIGHT
+https://livetvhooq.akamaized.net/afbbb0112e144da19be3d13c5d9b2f96/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582128142~exp=9007200836869133~acl=/afbbb0112e144da19be3d13c5d9b2f96/*/profile_1/chunklist.m3u8*~hmac=4188c958369ce43d69955a9d8dae7aa39849a6729876f7d42f6626021eaf8328
+#EXTINF:-1 group-title="HOOQ TV",FOOD FOOD & WINE
+https://livetvhooq.akamaized.net/8885db27fa464a4d9eb6098d120629b5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582128168~exp=9007200836869159~acl=/8885db27fa464a4d9eb6098d120629b5/*/profile_1/chunklist.m3u8*~hmac=00478a41c494cef5f38440b74d0437834034d25ea1ae7a9a996c65f5f2bff125
+#EXTINF:-1 group-title="HOOQ TV",FOOD MY RECIPES
+https://livetvhooq.akamaized.net/135463756ae94a429ae807ed69919055/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105055~exp=9007200836846046~acl=/135463756ae94a429ae807ed69919055/*/profile_1/chunklist.m3u8*~hmac=f08b8338c4cea8922128fb14787b7657a9d028f8b9e94c04d9ee6f2cecaa3ab6
+#EXTINF:-1 group-title="HOOQ TV",GTV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-#EXTINF:-1 group-title="HOOQ",ID KU
+#EXTINF:-1 group-title="HOOQ TV",ID KU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
-#EXTINF:-1 group-title="HOOQ",JAK TV
+#EXTINF:-1 group-title="HOOQ TV",JAK TV
 https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578503888~exp=9007200833244879~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=6b87dc423f5e70876670e828d9a8c81720caae2522e05ebac2422b72efd6e698
-#EXTINF:-1 group-title="HOOQ",JAWAPOS TV
+#EXTINF:-1 group-title="HOOQ TV",JAWAPOS TV
 https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
-#EXTINF:-1 group-title="HOOQ",JTV Surabaya
+#EXTINF:-1 group-title="HOOQ TV",JTV Surabaya
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67
-#EXTINF:-1 group-title="HOOQ",KOMPASTV
+#EXTINF:-1 group-title="HOOQ TV",K DRAMA
+https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105010~exp=9007200836846001~acl=/8b4f753fdcc94067bfcd243350f36999/*/profile_1/chunklist.m3u8*~hmac=58db279551589e9544ff5900f6aa83d079ebe6c4142eeeef55de9fe1f19814e3
+#EXTINF:-1 group-title="HOOQ TV",KOMPASTV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
-#EXTINF:-1 group-title="HOOQ",MNCTV
+#EXTINF:-1 group-title="HOOQ TV",LEJEL HOME SHOPPING
+https://livetvhooq.akamaized.net/e65856f8b215401fb45a5f4c49a50d9a/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105147~exp=9007200836846138~acl=/e65856f8b215401fb45a5f4c49a50d9a/*/profile_1/chunklist.m3u8*~hmac=67badbef5159db0fcf5dc3b09bb75963b981f5b8e853dc224e1eb45b4f3961ae
+#EXTINF:-1 group-title="HOOQ TV",METROTV
+https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105178~exp=9007200836846169~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_1/chunklist.m3u8*~hmac=2d0b82065daf74e755a63650881b3d4b2a9ab4aebb714b8d4b6779d139d99dfb
+#EXTINF:-1 group-title="HOOQ TV",MNCTV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-#EXTINF:-1 group-title="HOOQ",MYTV
+#EXTINF:-1 group-title="HOOQ TV",MYTV
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
-#EXTINF:-1 group-title="HOOQ",NIFTY
+#EXTINF:-1 group-title="HOOQ TV",NIFTY
 https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
-#EXTINF:-1 group-title="HOOQ",OUTDOOR CHANNEL
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-#EXTINF:-1 group-title="HOOQ",RCTI
+#EXTINF:-1 group-title="HOOQ TV",PEOPLE ARE AWESOME
+https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
+#EXTINF:-1 group-title="HOOQ TV",PTV4
+https://livetvhooq.akamaized.net/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105111~exp=9007200836846102~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_1/chunklist.m3u8*~hmac=635a6c117793526338c2ad79c5ef92fe2b869f6741d82398c3898dd0f553fb3e
+#EXTINF:-1 group-title="HOOQ TV",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-#EXTINF:-1 group-title="HOOQ",RTV
+#EXTINF:-1 group-title="HOOQ TV",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-#EXTINF:-1 group-title="HOOQ",RUANG TERAMPIL
+#EXTINF:-1 group-title="HOOQ TV",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
-#EXTINF:-1 group-title="HOOQ",SPORT ILUSTRATED
+#EXTINF:-1 group-title="HOOQ TV",SPORT ILUSTRATED
 https://livetvhooq.akamaized.net/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
-#EXTINF:-1 group-title="HOOQ",TRANS7
+#EXTINF:-1 group-title="HOOQ TV",TASTY
+https://livetvhooq.akamaized.net/930b6b972ba74d8f8347361bf59e0200/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582104990~exp=9007200836845981~acl=/930b6b972ba74d8f8347361bf59e0200/*/profile_1/chunklist.m3u8*~hmac=0f358ed7fa959adab4eae08dd582dd7ec21be8435276fcfdad2cd095739ae39f
+#EXTINF:-1 group-title="HOOQ TV",THE INDONESIA CHANNEL
+https://livetvhooq.akamaized.net/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582104934~exp=9007200836845925~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_1/chunklist.m3u8*~hmac=c8d5a45eb888d226b01135febc0acfbe8134231dff58cc86599c5e10c134a6a5
+#EXTINF:-1 group-title="HOOQ TV",THE OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582104961~exp=9007200836845952~acl=/4333904e5f68426cae808a645e882206/*/profile_1/chunklist.m3u8*~hmac=fe4acedbe6ad23613dc89c4e6bb76b2812b095799fea0be325a918efa87261ae
+#EXTINF:-1 group-title="HOOQ TV",THE PET COLLECTIVE
+https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582105134~exp=9007200836846125~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_1/chunklist.m3u8*~hmac=c183b1069a9f9ec98d66411281b5ecd8b5d5517902298ad4581a9d5404a21376
+#EXTINF:-1 group-title="HOOQ TV",TRANS7
 https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
-#EXTINF:-1 group-title="HOOQ",TRANSTV
+#EXTINF:-1 group-title="HOOQ TV",TRANSTV
 https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
-#EXTINF:-1 group-title="HOOQ",TVONE
+#EXTINF:-1 group-title="HOOQ TV",TVONE
 https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
-#EXTINF:-1 group-title="HOOQ",USEE PHOTO
+#EXTINF:-1 group-title="HOOQ TV",USEE PHOTO
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
-#EXTINF:-1 group-title="HOOQ",USEE PRIME
+#EXTINF:-1 group-title="HOOQ TV",USEE PRIME
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
-#EXTINF:-1 group-title="HOOQ",ZEE BIOSKOP
+#EXTINF:-1 group-title="HOOQ TV",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1 group-title="Surfindo",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
@@ -575,37 +429,3 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL",REDBULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="INTERNATIONAL",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="INTERNATIONAL",TOM & JERRY
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",LARVA
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DRAGON BALL KAI TV
-http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DRAGON BALL Z TV
-https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",Boruto TV
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",Captain Tsubasa 2019 TV
-http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DETECTIFE CONAN 1 TV
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DETECTIFE CONAN 2 TV
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DETECTIFE CONAN 3 TV
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DORAEMON SERIES
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",DORAEMON MOVIE
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",HUNTER X HUNTER
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",INUYASHA
-http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",ONE PIECE TV
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:-1 group-title="INTERNATIONAL",ONE PUNCH MAN
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv

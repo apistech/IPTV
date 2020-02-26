@@ -3,12 +3,24 @@
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",iNEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 group-title="LOKAL",Spacetoon
+http://95.170.215.109/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1 group-title="LOKAL",TVONE
 https://www.youtube.com/embed/rok7ejmoaCk?autoplay=1
 #EXTINF:-1 group-title="LOKAL",KOMPASTV
 https://www.youtube.com/embed/qiS7ddYkU9g?autoplay=1
 #EXTINF:-1 group-title="LOKAL",NET.
 https://www.youtube.com/embed/F2oDhhbDXIg?autoplay=1
+#EXTINF:-1 group-title="LOKAL",MR BEAN
+https://www.youtube.com/embed/eQHKhg4dBlA?autoplay=1
 #EXTINF:-1 group-title="LOKAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",CNBC
@@ -47,243 +59,243 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",KARAOKE Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 group-title="MNC",ABC Australia
+#EXTINF:-1 group-title="[OFF] MNC",ABC Australia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
-#EXTINF:-1 group-title="MNC",ANHUI TV
+#EXTINF:-1 group-title="[OFF] MNC",ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
-#EXTINF:-1 group-title="MNC",Animal Planet
+#EXTINF:-1 group-title="[OFF] MNC",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-#EXTINF:-1 group-title="MNC",Animax
+#EXTINF:-1 group-title="[OFF] MNC",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-#EXTINF:-1 group-title="MNC",ANTV
+#EXTINF:-1 group-title="[OFF] MNC",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
-#EXTINF:-1 group-title="MNC",Arirang
+#EXTINF:-1 group-title="[OFF] MNC",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-#EXTINF:-1 group-title="MNC",Asian Food Channel
+#EXTINF:-1 group-title="[OFF] MNC",Asian Food Channel
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
-#EXTINF:-1 group-title="MNC",AXN
+#EXTINF:-1 group-title="[OFF] MNC",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
-#EXTINF:-1 group-title="MNC",BabyTV
+#EXTINF:-1 group-title="[OFF] MNC",BabyTV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
-#EXTINF:-1 group-title="MNC",Bali TV
+#EXTINF:-1 group-title="[OFF] MNC",Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
-#EXTINF:-1 group-title="MNC",BBC Earth
+#EXTINF:-1 group-title="[OFF] MNC",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-#EXTINF:-1 group-title="MNC",BBC World News
+#EXTINF:-1 group-title="[OFF] MNC",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
-#EXTINF:-1 group-title="MNC",Be Smart
+#EXTINF:-1 group-title="[OFF] MNC",Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
-#EXTINF:-1 group-title="MNC",BeIN 1
+#EXTINF:-1 group-title="[OFF] MNC",BeIN 1
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
-#EXTINF:-1 group-title="MNC",BeIN 2
+#EXTINF:-1 group-title="[OFF] MNC",BeIN 2
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
-#EXTINF:-1 group-title="MNC",Berita Satu News
+#EXTINF:-1 group-title="[OFF] MNC",Berita Satu News
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
-#EXTINF:-1 group-title="MNC",Boomerang
+#EXTINF:-1 group-title="[OFF] MNC",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:-1 group-title="MNC",Cartoon Network
+#EXTINF:-1 group-title="[OFF] MNC",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-#EXTINF:-1 group-title="MNC",CBeebies
+#EXTINF:-1 group-title="[OFF] MNC",CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
-#EXTINF:-1 group-title="MNC",Celestial Classic Movies
+#EXTINF:-1 group-title="[OFF] MNC",Celestial Classic Movies
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 group-title="MNC",Celestial Movies
+#EXTINF:-1 group-title="[OFF] MNC",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-#EXTINF:-1 group-title="MNC",Channel V
+#EXTINF:-1 group-title="[OFF] MNC",Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
-#EXTINF:-1 group-title="MNC",Cinema World
+#EXTINF:-1 group-title="[OFF] MNC",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-#EXTINF:-1 group-title="MNC",Cinemax
+#EXTINF:-1 group-title="[OFF] MNC",Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1 group-title="MNC",Clubbing TV
+#EXTINF:-1 group-title="[OFF] MNC",Clubbing TV
 https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
-#EXTINF:-1 group-title="MNC",CNBC World
+#EXTINF:-1 group-title="[OFF] MNC",CNBC World
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:-1 group-title="MNC",CNN International
+#EXTINF:-1 group-title="[OFF] MNC",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
-#EXTINF:-1 group-title="MNC",Crime Investigation
+#EXTINF:-1 group-title="[OFF] MNC",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-#EXTINF:-1 group-title="MNC",DAAITV
+#EXTINF:-1 group-title="[OFF] MNC",DAAITV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
-#EXTINF:-1 group-title="MNC",Discovery
+#EXTINF:-1 group-title="[OFF] MNC",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-#EXTINF:-1 group-title="MNC",Disney Channel
+#EXTINF:-1 group-title="[OFF] MNC",Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-#EXTINF:-1 group-title="MNC",Disney Jr
+#EXTINF:-1 group-title="[OFF] MNC",Disney Jr
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 group-title="MNC",Disney XD
+#EXTINF:-1 group-title="[OFF] MNC",Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
-#EXTINF:-1 group-title="MNC",EuroNews
+#EXTINF:-1 group-title="[OFF] MNC",EuroNews
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
-#EXTINF:-1 group-title="MNC",EWTN
+#EXTINF:-1 group-title="[OFF] MNC",EWTN
 https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
-#EXTINF:-1 group-title="MNC",Fight Sports
+#EXTINF:-1 group-title="[OFF] MNC",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-#EXTINF:-1 group-title="MNC",FMN
+#EXTINF:-1 group-title="[OFF] MNC",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-#EXTINF:-1 group-title="MNC",FOX
+#EXTINF:-1 group-title="[OFF] MNC",FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1 group-title="MNC",FOX Crime
+#EXTINF:-1 group-title="[OFF] MNC",FOX Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 group-title="MNC",FOX Life
+#EXTINF:-1 group-title="[OFF] MNC",FOX Life
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 group-title="MNC",FOX Movies Premium
+#EXTINF:-1 group-title="[OFF] MNC",FOX Movies Premium
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-#EXTINF:-1 group-title="MNC",FOX News
+#EXTINF:-1 group-title="[OFF] MNC",FOX News
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
-#EXTINF:-1 group-title="MNC",FOX Sports
+#EXTINF:-1 group-title="[OFF] MNC",FOX Sports
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-#EXTINF:-1 group-title="MNC",FOX Sports 2
+#EXTINF:-1 group-title="[OFF] MNC",FOX Sports 2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#EXTINF:-1 group-title="MNC",FOX Sports 3
+#EXTINF:-1 group-title="[OFF] MNC",FOX Sports 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-#EXTINF:-1 group-title="MNC",France24
+#EXTINF:-1 group-title="[OFF] MNC",France24
 https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-#EXTINF:-1 group-title="MNC",FX
+#EXTINF:-1 group-title="[OFF] MNC",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 group-title="MNC",GTV
+#EXTINF:-1 group-title="[OFF] MNC",GTV
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
-#EXTINF:-1 group-title="MNC",HBO
+#EXTINF:-1 group-title="[OFF] MNC",HBO
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 group-title="MNC",HBO Family
+#EXTINF:-1 group-title="[OFF] MNC",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
-#EXTINF:-1 group-title="MNC",HBO Hits
+#EXTINF:-1 group-title="[OFF] MNC",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1 group-title="MNC",HBO Signature
+#EXTINF:-1 group-title="[OFF] MNC",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 group-title="MNC",HGTV
+#EXTINF:-1 group-title="[OFF] MNC",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-#EXTINF:-1 group-title="MNC",History
+#EXTINF:-1 group-title="[OFF] MNC",History
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
-#EXTINF:-1 group-title="MNC",HITS
+#EXTINF:-1 group-title="[OFF] MNC",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-#EXTINF:-1 group-title="MNC",HITS Movies
+#EXTINF:-1 group-title="[OFF] MNC",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
-#EXTINF:-1 group-title="MNC",HUNAN TV
+#EXTINF:-1 group-title="[OFF] MNC",HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-#EXTINF:-1 group-title="MNC",IDX
+#EXTINF:-1 group-title="[OFF] MNC",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 group-title="MNC",INDOSIAR
+#EXTINF:-1 group-title="[OFF] MNC",INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
-#EXTINF:-1 group-title="MNC",iNewsTV
+#EXTINF:-1 group-title="[OFF] MNC",iNewsTV
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
-#EXTINF:-1 group-title="MNC",JAK TV
+#EXTINF:-1 group-title="[OFF] MNC",JAK TV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
-#EXTINF:-1 group-title="MNC",JIANGSU TV
+#EXTINF:-1 group-title="[OFF] MNC",JIANGSU TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
-#EXTINF:-1 group-title="MNC",JTV
+#EXTINF:-1 group-title="[OFF] MNC",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 group-title="MNC",KIDS TV
+#EXTINF:-1 group-title="[OFF] MNC",KIDS TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
-#EXTINF:-1 group-title="MNC",KIX
+#EXTINF:-1 group-title="[OFF] MNC",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 group-title="MNC",KOMPASTV
+#EXTINF:-1 group-title="[OFF] MNC",KOMPASTV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
-#EXTINF:-1 group-title="MNC",Life
+#EXTINF:-1 group-title="[OFF] MNC",Life
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
-#EXTINF:-1 group-title="MNC",Lifetime
+#EXTINF:-1 group-title="[OFF] MNC",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
-#EXTINF:-1 group-title="MNC",METROTV
+#EXTINF:-1 group-title="[OFF] MNC",METROTV
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
-#EXTINF:-1 group-title="MNC",Miao Mi
+#EXTINF:-1 group-title="[OFF] MNC",Miao Mi
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
-#EXTINF:-1 group-title="MNC",MNC Channel
+#EXTINF:-1 group-title="[OFF] MNC",MNC Channel
 https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-#EXTINF:-1 group-title="MNC",MNC Comedy
+#EXTINF:-1 group-title="[OFF] MNC",MNC Comedy
 https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:-1 group-title="MNC",MNC Infotainment
+#EXTINF:-1 group-title="[OFF] MNC",MNC Infotainment
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
-#EXTINF:-1 group-title="MNC",MNC Lifestyle
+#EXTINF:-1 group-title="[OFF] MNC",MNC Lifestyle
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
-#EXTINF:-1 group-title="MNC",MNC News
+#EXTINF:-1 group-title="[OFF] MNC",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-#EXTINF:-1 group-title="MNC",MNC Shop Smart
+#EXTINF:-1 group-title="[OFF] MNC",MNC Shop Smart
 https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
-#EXTINF:-1 group-title="MNC",MNC Shop Trendy
+#EXTINF:-1 group-title="[OFF] MNC",MNC Shop Trendy
 https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
-#EXTINF:-1 group-title="MNC",MNC Sports
+#EXTINF:-1 group-title="[OFF] MNC",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:-1 group-title="MNC",MNC Sports 2
+#EXTINF:-1 group-title="[OFF] MNC",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="MNC",MNCTV
+#EXTINF:-1 group-title="[OFF] MNC",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
-#EXTINF:-1 group-title="MNC",MUSIC TV
+#EXTINF:-1 group-title="[OFF] MNC",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-#EXTINF:-1 group-title="MNC",MUSLIM TV
+#EXTINF:-1 group-title="[OFF] MNC",MUSLIM TV
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
-#EXTINF:-1 group-title="MNC",Nat Geo People
+#EXTINF:-1 group-title="[OFF] MNC",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
-#EXTINF:-1 group-title="MNC",Nat Geo Wild
+#EXTINF:-1 group-title="[OFF] MNC",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="MNC",National Geographic
+#EXTINF:-1 group-title="[OFF] MNC",National Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
-#EXTINF:-1 group-title="MNC",NET.
+#EXTINF:-1 group-title="[OFF] MNC",NET.
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
-#EXTINF:-1 group-title="MNC",NHK World Premium
+#EXTINF:-1 group-title="[OFF] MNC",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-#EXTINF:-1 group-title="MNC",NHK World TV
+#EXTINF:-1 group-title="[OFF] MNC",NHK World TV
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
-#EXTINF:-1 group-title="MNC",Nick Jr
+#EXTINF:-1 group-title="[OFF] MNC",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-#EXTINF:-1 group-title="MNC",Nickelodeon
+#EXTINF:-1 group-title="[OFF] MNC",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-#EXTINF:-1 group-title="MNC",RCTI
+#EXTINF:-1 group-title="[OFF] MNC",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
-#EXTINF:-1 group-title="MNC",RT English
+#EXTINF:-1 group-title="[OFF] MNC",RT English
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
-#EXTINF:-1 group-title="MNC",RTV
+#EXTINF:-1 group-title="[OFF] MNC",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
-#EXTINF:-1 group-title="MNC",SCTV
+#EXTINF:-1 group-title="[OFF] MNC",SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
-#EXTINF:-1 group-title="MNC",SHANGHAI DRAGON TV
+#EXTINF:-1 group-title="[OFF] MNC",SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-#EXTINF:-1 group-title="MNC",SKY News
+#EXTINF:-1 group-title="[OFF] MNC",SKY News
 https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
-#EXTINF:-1 group-title="MNC",STAR CM
+#EXTINF:-1 group-title="[OFF] MNC",STAR CM
 https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
-#EXTINF:-1 group-title="MNC",STAR CM Legend
+#EXTINF:-1 group-title="[OFF] MNC",STAR CM Legend
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
-#EXTINF:-1 group-title="MNC",Tawaf TV
+#EXTINF:-1 group-title="[OFF] MNC",Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
-#EXTINF:-1 group-title="MNC",Thrill
+#EXTINF:-1 group-title="[OFF] MNC",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-#EXTINF:-1 group-title="MNC",TLC
+#EXTINF:-1 group-title="[OFF] MNC",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-#EXTINF:-1 group-title="MNC",Trans 7
+#EXTINF:-1 group-title="[OFF] MNC",Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
-#EXTINF:-1 group-title="MNC",Trans TV
+#EXTINF:-1 group-title="[OFF] MNC",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
-#EXTINF:-1 group-title="MNC",TRT World
+#EXTINF:-1 group-title="[OFF] MNC",TRT World
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
-#EXTINF:-1 group-title="MNC",TV Muhammadiyah
+#EXTINF:-1 group-title="[OFF] MNC",TV Muhammadiyah
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
-#EXTINF:-1 group-title="MNC",TV9
+#EXTINF:-1 group-title="[OFF] MNC",TV9
 https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
-#EXTINF:-1 group-title="MNC",tvN
+#EXTINF:-1 group-title="[OFF] MNC",TvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 group-title="MNC",TvN Movies
+#EXTINF:-1 group-title="[OFF] MNC",TvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
-#EXTINF:-1 group-title="MNC",TVONE
+#EXTINF:-1 group-title="[OFF] MNC",TVONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
-#EXTINF:-1 group-title="MNC",TVRI
+#EXTINF:-1 group-title="[OFF] MNC",TVRI
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
-#EXTINF:-1 group-title="MNC",TVRI SPORT
+#EXTINF:-1 group-title="[OFF] MNC",TVRI SPORT
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa.m3u8
-#EXTINF:-1 group-title="MNC",VISION PRIME
+#EXTINF:-1 group-title="[OFF] MNC",VISION PRIME
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
-#EXTINF:-1 group-title="MNC",Waku Waku Japan
+#EXTINF:-1 group-title="[OFF] MNC",Waku Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 group-title="MNC",Warner TV
+#EXTINF:-1 group-title="[OFF] MNC",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 group-title="MNC",ZEE Bioskop
+#EXTINF:-1 group-title="[OFF] MNC",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_hls/ZeeBIOSKOP.m3u8
-#EXTINF:-1 group-title="MNC",ZEE Bioskop
+#EXTINF:-1 group-title="[OFF] MNC",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-#EXTINF:-1 group-title="MNC",ZEE Cinema
+#EXTINF:-1 group-title="[OFF] MNC",ZEE Cinema
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
-#EXTINF:-1 group-title="MNC",ZEE TV
+#EXTINF:-1 group-title="[OFF] MNC",ZEE TV
 https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-#EXTINF:-1 group-title="MNC",ZING
+#EXTINF:-1 group-title="[OFF] MNC",ZING
 https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 #EXTINF:-1 group-title="CBN DENS",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
@@ -291,7 +303,7 @@ http://rr2.dens.tv/s/s04/01.m3u8
 http://rr2.dens.tv/s/s08/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
 http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
+#EXTINF:-1 group-title="CBN DENS",TVRI
 http://rr2.dens.tv/s/s11/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",RTV
 http://rr2.dens.tv/s/s12/01.m3u8
@@ -359,7 +371,7 @@ http://rr2.dens.tv/s/s103/01.m3u8
 http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
 http://rr2.dens.tv/s/s107/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",M KIDZ
 http://rr3.dens.tv/s/s30/index.m3u8
@@ -519,59 +531,59 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 #EXTINF:-1 group-title="HOOQ TV",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 group-title="Surfindo",Animal Planet
+#EXTINF:-1 group-title="[OFF] Surfindo",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 group-title="Surfindo",Asian Food Channel
+#EXTINF:-1 group-title="[OFF] Surfindo",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 group-title="Surfindo",AXN
+#EXTINF:-1 group-title="[OFF] Surfindo",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 group-title="Surfindo",BBC World News
+#EXTINF:-1 group-title="[OFF] Surfindo",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:-1 group-title="Surfindo",Bloomberg International
+#EXTINF:-1 group-title="[OFF] Surfindo",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 group-title="Surfindo",Blue Ant Extreme
+#EXTINF:-1 group-title="[OFF] Surfindo",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 group-title="Surfindo",Cartoon Network
+#EXTINF:-1 group-title="[OFF] Surfindo",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:-1 group-title="Surfindo",Cinemax
+#EXTINF:-1 group-title="[OFF] Surfindo",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 group-title="Surfindo",CNBC International
+#EXTINF:-1 group-title="[OFF] Surfindo",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 group-title="Surfindo",CNN International
+#EXTINF:-1 group-title="[OFF] Surfindo",CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
-#EXTINF:-1 group-title="Surfindo",Discovery Channel
+#EXTINF:-1 group-title="[OFF] Surfindo",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 group-title="Surfindo",Disney Channel
+#EXTINF:-1 group-title="[OFF] Surfindo",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 group-title="Surfindo",FOX
+#EXTINF:-1 group-title="[OFF] Surfindo",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 group-title="Surfindo",FOX Family Movies
+#EXTINF:-1 group-title="[OFF] Surfindo",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 group-title="Surfindo",FOX Movies
+#EXTINF:-1 group-title="[OFF] Surfindo",FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 group-title="Surfindo",HBO
+#EXTINF:-1 group-title="[OFF] Surfindo",HBO
 http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
-#EXTINF:-1 group-title="Surfindo",HBO Family
+#EXTINF:-1 group-title="[OFF] Surfindo",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 group-title="Surfindo",HBO Hits
+#EXTINF:-1 group-title="[OFF] Surfindo",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 group-title="Surfindo",HBO Signature
+#EXTINF:-1 group-title="[OFF] Surfindo",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 group-title="Surfindo",History Channel
+#EXTINF:-1 group-title="[OFF] Surfindo",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:-1 group-title="Surfindo",INDOSIAR
+#EXTINF:-1 group-title="[OFF] Surfindo",INDOSIAR
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
-#EXTINF:-1 group-title="Surfindo",NAT GEO People
+#EXTINF:-1 group-title="[OFF] Surfindo",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 group-title="Surfindo",NAT GEO Wild
+#EXTINF:-1 group-title="[OFF] Surfindo",NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 group-title="Surfindo",National Geographic
+#EXTINF:-1 group-title="[OFF] Surfindo",National Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 group-title="Surfindo",Nickelodeon Asia
+#EXTINF:-1 group-title="[OFF] Surfindo",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 group-title="Surfindo",SETANTA SPORT
+#EXTINF:-1 group-title="[OFF] Surfindo",SETANTA SPORT
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=3A4FD3607BE4AAC6DAA7E01E60F3218471B987DD&profile=pass
-#EXTINF:-1 group-title="Surfindo",TLC
+#EXTINF:-1 group-title="[OFF] Surfindo",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 group-title="INTERNATIONAL",NASATV PUBLIC
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
@@ -581,3 +593,9 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL",FAIL ARMY
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL",RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL",RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL",RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8

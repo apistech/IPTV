@@ -11,19 +11,33 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="LOKAL",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 group-title="LOKAL",Spacetoon
-http://95.170.215.109/hls/m3u8/Spacetoon-Backup.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 group-title="LOKAL",TVONE
-https://www.youtube.com/embed/rok7ejmoaCk?autoplay=1
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFP1x4Yw0bz1bjDJrnwUFTM)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 #EXTINF:-1 group-title="LOKAL",KOMPASTV
 https://www.youtube.com/embed/qiS7ddYkU9g?autoplay=1
 #EXTINF:-1 group-title="LOKAL",NET.
 https://www.youtube.com/embed/F2oDhhbDXIg?autoplay=1
-#EXTINF:-1 group-title="LOKAL",MR BEAN
-https://www.youtube.com/embed/eQHKhg4dBlA?autoplay=1
 #EXTINF:-1 group-title="LOKAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",CNBC
+#EXTINF:-1 group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -337,9 +351,9 @@ http://rr2.dens.tv/s/s27/01.m3u8
 http://rr2.dens.tv/s/s28/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
 http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
+#EXTINF:-1 group-title="CBN DENS",DEMO CHANNEL
 http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",MY CINEMA
+#EXTINF:-1 group-title="CBN DENS",DEMO CHANNEL
 http://rr2.dens.tv/s/s31/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
@@ -357,7 +371,7 @@ http://rr2.dens.tv/s/s41/01.m3u8
 http://rr2.dens.tv/s/s42/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",MYTV
 http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
+#EXTINF:-1 group-title="CBN DENS",TOONMAX
 http://rr2.dens.tv/s/s50/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TRANSTV
 http://rr2.dens.tv/s/s100/01.m3u8

@@ -35,7 +35,7 @@ rtp://@239.1.1.72:8406
 rtp://@239.1.1.78:8442
 #EXTINF:-1 group-title="UseeTV",JAK TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 group-title="UseeTV",Ruang Terampil
+#EXTINF:-1 group-title="UseeTV",Ruang Terampil HD
 rtp://@239.1.1.111:8640
 #EXTINF:-1 group-title="UseeTV",!nsert
 rtp://@239.1.1.113:8652
@@ -53,11 +53,11 @@ rtp://@239.1.1.143:8832
 rtp://@239.1.1.149:8868
 #EXTINF:-1 group-title="UseeTV",TV9 Nusantara
 rtp://@239.1.1.150:8874
-#EXTINF:-1 group-title="UseeTV",ZJTV
+#EXTINF:-1 group-title="UseeTV",ZJTV HD
 rtp://@239.1.1.154:8898
 #EXTINF:-1 group-title="UseeTV",SZTV-8 [CCN]
 rtp://@239.1.1.156:8910
-#EXTINF:-1 group-title="UseeTV",NET.
+#EXTINF:-1 group-title="UseeTV",NET. HD
 rtp://@239.1.1.158:8922
 #EXTINF:-1 group-title="UseeTV",MYTV
 rtp://@239.1.1.162:8946
@@ -79,17 +79,17 @@ rtp://@239.1.1.193:9132
 rtp://@239.1.1.195:9144
 #EXTINF:-1 group-title="UseeTV",Kompas TV
 rtp://@239.1.1.197:9156
-#EXTINF:-1 group-title="UseeTV",Panda TV
+#EXTINF:-1 group-title="UseeTV",Panda TV HD
 rtp://@239.1.1.208:9502
 #EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.212:9510
 rtp://@239.1.1.212:9510
 #EXTINF:-1 group-title="UseeTV",Channel HD-30
 rtp://@239.1.1.214:9514
-#EXTINF:-1 group-title="UseeTV",Channel Jowo
+#EXTINF:-1 group-title="UseeTV",Channel Jowo HD
 rtp://@239.1.1.219:9288
 #EXTINF:-1 group-title="UseeTV",U Channel
 rtp://@239.1.1.220:9522
-#EXTINF:-1 group-title="UseeTV",TRANS 7
+#EXTINF:-1 group-title="UseeTV",TRANS 7 HD
 rtp://@239.1.1.222:9306
 #EXTINF:-1 group-title="UseeTV",Rodja TV
 rtp://@239.1.1.224:9320
@@ -105,29 +105,27 @@ rtp://@239.1.1.236:9390
 rtp://@239.1.1.238:9400
 #EXTINF:-1 group-title="UseeTV",Usee Photo
 rtp://@239.1.1.251:9498
-#EXTINF:-1 group-title="UseeTV",Metro TV
+#EXTINF:-1 group-title="UseeTV",Metro TV HD
 rtp://@239.1.2.2:7986
 #EXTINF:-1 group-title="UseeTV",LEJEL LIVE
 rtp://@239.1.2.3:7992
-#EXTINF:-1 group-title="UseeTV",CGTN
+#EXTINF:-1 group-title="UseeTV",CGTN HD
 rtp://@239.1.2.4:7998
 #EXTINF:-1 group-title="UseeTV",Channel Jowo
 rtp://@239.1.2.6:8000
-#EXTINF:-1 group-title="UseeTV",Al Jazeera
+#EXTINF:-1 group-title="UseeTV",Al Jazeera HD
 rtp://@239.1.2.8:8022
-#EXTINF:-1 group-title="UseeTV",Chinese Drama
+#EXTINF:-1 group-title="UseeTV",Chinese Drama HD
 rtp://@239.1.2.10:8306
-#EXTINF:-1 group-title="UseeTV",Telkom Group
+#EXTINF:-1 group-title="UseeTV",Telkom Group HD
 rtp://@239.1.2.14:8058
-#EXTINF:-1 group-title="UseeTV",France24
+#EXTINF:-1 group-title="UseeTV",France24 HD
 rtp://@239.1.2.22:8106
-#EXTINF:-1 group-title="UseeTV",Channel News Asia
+#EXTINF:-1 group-title="UseeTV",Channel News Asia HD
 rtp://@239.1.2.23:8112
-#EXTINF:-1 group-title="UseeTV",Usee Photo
+#EXTINF:-1 group-title="UseeTV",Usee Photo HD
 rtp://@239.1.2.24:8118
-#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.25:8124
-rtp://@239.1.2.25:8124
-#EXTINF:-1 group-title="UseeTV",Sony ONE
+#EXTINF:-1 group-title="UseeTV",Sony ONE HD
 rtp://@239.1.2.26:8130
 #EXTINF:-1 group-title="UseeTV",Usee Sports
 rtp://@239.1.2.42:8194
@@ -137,33 +135,33 @@ rtp://@239.1.2.50:8274
 rtp://@239.1.2.52:8286
 #EXTINF:-1 group-title="UseeTV",.idKU
 rtp://@239.1.2.68:8384
-#EXTINF:-1 group-title="UseeTV",tvN Movies
+#EXTINF:-1 group-title="UseeTV",tvN Movies HD
 rtp://@239.1.2.72:8408
-#EXTINF:-1 group-title="UseeTV",Channel Jowo
+#EXTINF:-1 group-title="UseeTV",Channel Jowo HD
 rtp://@239.1.2.212:9208
-#EXTINF:-1 group-title="UseeTV",Usee Sports 2
+#EXTINF:-1 group-title="UseeTV",Usee Sports 2 HD
 rtp://@239.1.2.213:9210
 #EXTINF:-1 group-title="UseeTV",Usee Sports 2
 rtp://@239.1.2.215:9220
-#EXTINF:-1 group-title="UseeTV",i Konser
+#EXTINF:-1 group-title="UseeTV",i Konser HD
 rtp://@239.1.2.221:9250
 #EXTINF:-1 group-title="UseeTV",i Konser
 rtp://@239.1.2.222:9256
 #EXTINF:-1 group-title="UseeTV",Service01
 rtp://@239.1.2.223:9268
-#EXTINF:-1 group-title="UseeTV",FX
+#EXTINF:-1 group-title="UseeTV",FX HD
 rtp://@239.1.2.227:9324
 #EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.2.233:9348
 rtp://@239.1.2.233:9348
 #EXTINF:-1 group-title="UseeTV",MTATV
 rtp://@239.1.2.234:9374
-#EXTINF:-1 group-title="UseeTV",Tawaf TV
+#EXTINF:-1 group-title="UseeTV",DMI Channel
 rtp://@239.1.2.236:9366
 #EXTINF:-1 group-title="UseeTV",Galaxy Premium
 rtp://@239.1.2.240:9390
-#EXTINF:-1 group-title="UseeTV",DWTV
+#EXTINF:-1 group-title="UseeTV",DWTV HD
 rtp://@239.1.2.243:9360
-#EXTINF:-1 group-title="UseeTV",HBO Family
+#EXTINF:-1 group-title="UseeTV",HBO Family HD
 rtp://@239.1.2.245:9366
 #EXTINF:-1 group-title="UseeTV",IDX
 rtp://@239.1.2.248:9398
@@ -171,7 +169,7 @@ rtp://@239.1.2.248:9398
 rtp://@239.1.3.3:1234
 #EXTINF:-1 group-title="UseeTV",Warner TV
 rtp://@239.1.3.9:1234
-#EXTINF:-1 group-title="UseeTV",HBO
+#EXTINF:-1 group-title="UseeTV",HBO HD
 rtp://@239.1.3.10:1234
 #EXTINF:-1 group-title="UseeTV",U Channel
 rtp://@239.1.3.13:1234
@@ -183,7 +181,7 @@ rtp://@239.1.3.17:1234
 rtp://@239.1.3.19:1234
 #EXTINF:-1 group-title="UseeTV",SCTV
 rtp://@239.1.3.21:1234
-#EXTINF:-1 group-title="UseeTV",Usee Prime
+#EXTINF:-1 group-title="UseeTV",Usee Prime HD
 rtp://@239.1.3.25:1234
 #EXTINF:-1 group-title="UseeTV",TRANS TV
 rtp://@239.1.3.27:1234
@@ -197,21 +195,21 @@ rtp://@239.1.3.36:1234
 rtp://@239.1.3.37:1234
 #EXTINF:-1 group-title="UseeTV",TV EDUKASI
 rtp://@239.1.3.39:1234
-#EXTINF:-1 group-title="UseeTV",Ruang Terampil
+#EXTINF:-1 group-title="UseeTV",Ruang Terampil HD
 rtp://@239.1.3.50:1234
 #EXTINF:-1 group-title="UseeTV",tvN Movies
 rtp://@239.1.3.61:1234
-#EXTINF:-1 group-title="UseeTV",HBO Family
+#EXTINF:-1 group-title="UseeTV",HBO Family HD
 rtp://@239.1.3.62:1234
-#EXTINF:-1 group-title="UseeTV",HBO Signature
+#EXTINF:-1 group-title="UseeTV",HBO Signature HD
 rtp://@239.1.3.68:1234
 #EXTINF:-1 group-title="UseeTV",RTV
 rtp://@239.1.3.69:1234
 #EXTINF:-1 group-title="UseeTV",Citra Dangdut
 rtp://@239.1.3.77:1234
-#EXTINF:-1 group-title="UseeTV",HBO HITS
+#EXTINF:-1 group-title="UseeTV",HBO HITS HD
 rtp://@239.1.3.78:1234
-#EXTINF:-1 group-title="UseeTV",CINEMAX
+#EXTINF:-1 group-title="UseeTV",CINEMAX HD
 rtp://@239.1.3.86:1234
 #EXTINF:-1 group-title="UseeTV",JAK TV
 rtp://@239.1.3.107:1234
@@ -221,15 +219,15 @@ rtp://@239.1.3.111:1234
 rtp://@239.1.3.113:1234
 #EXTINF:-1 group-title="UseeTV",NET.
 rtp://@239.1.3.119:1234
-#EXTINF:-1 group-title="UseeTV",Metro TV
+#EXTINF:-1 group-title="UseeTV",Metro TV HD
 rtp://@239.1.3.132:1234
-#EXTINF:-1 group-title="UseeTV",Usee Sports 2
+#EXTINF:-1 group-title="UseeTV",Usee Sports 2 HD
 rtp://@239.1.3.134:1234
 #EXTINF:-1 group-title="UseeTV",Usee Sports 2
 rtp://@239.1.3.140:1234
-#EXTINF:-1 group-title="UseeTV",SCTV
+#EXTINF:-1 group-title="UseeTV",SCTV HD
 rtp://@239.1.3.143:1234
-#EXTINF:-1 group-title="UseeTV",Champions TV 1
+#EXTINF:-1 group-title="UseeTV",Champions TV 1 HD
 rtp://@239.1.3.144:1234
 #EXTINF:-1 group-title="UseeTV",E! Entertainment
 rtp://@239.1.3.145:1234
@@ -255,11 +253,11 @@ rtp://@239.1.3.202:1234
 rtp://@239.1.3.204:1234
 #EXTINF:-1 group-title="UseeTV",JITV
 rtp://@239.1.3.206:1234
-#EXTINF:-1 group-title="UseeTV",CNN INDONESIA
+#EXTINF:-1 group-title="UseeTV",CNN INDONESIA HD
 rtp://@239.1.3.213:1234
 #EXTINF:-1 group-title="UseeTV",JTV Surabaya
 rtp://@239.1.3.214:1234
-#EXTINF:-1 group-title="UseeTV",Champions TV 2
+#EXTINF:-1 group-title="UseeTV",Champions TV 2 HD
 rtp://@239.1.3.216:1234
 #EXTINF:-1 group-title="UseeTV",LEJEL REG
 rtp://@239.1.3.219:1234
@@ -277,7 +275,7 @@ rtp://@239.1.3.236:1234
 rtp://@239.1.3.241:1234
 #EXTINF:-1 group-title="UseeTV",Usee Today
 rtp://@239.1.3.243:1234
-#EXTINF:-1 group-title="UseeTV",MNC SHOP
+#EXTINF:-1 group-title="UseeTV",MNC SHOP 1
 rtp://@239.1.3.244:1234
 #EXTINF:-1 group-title="UseeTV",TV MUI
 rtp://@239.1.3.245:1234
@@ -297,15 +295,15 @@ rtp://@239.1.4.3:1234
 rtp://@239.1.4.4:1234
 #EXTINF:-1 group-title="UseeTV",Blue ANT Extreme
 rtp://@239.1.4.8:1234
-#EXTINF:-1 group-title="UseeTV",.idKU
+#EXTINF:-1 group-title="UseeTV",.idKU HD
 rtp://@239.1.4.11:1234
-#EXTINF:-1 group-title="UseeTV",NET.
+#EXTINF:-1 group-title="UseeTV",NET. HD
 rtp://@239.1.4.13:1234
-#EXTINF:-1 group-title="UseeTV",NET.
+#EXTINF:-1 group-title="UseeTV",NET. HD
 rtp://@239.1.4.16:1234
-#EXTINF:-1 group-title="UseeTV",TRANS 7
+#EXTINF:-1 group-title="UseeTV",TRANS 7 HD
 rtp://@239.1.4.19:1234
-#EXTINF:-1 group-title="UseeTV",TRANS TV
+#EXTINF:-1 group-title="UseeTV",TRANS TV HD
 rtp://@239.1.4.20:1234
 #EXTINF:-1 group-title="UseeTV",NHK World
 rtp://@239.1.4.23:1234
@@ -319,7 +317,7 @@ rtp://@239.1.4.27:1234
 rtp://@239.1.4.28:1234
 #EXTINF:-1 group-title="UseeTV",Usee Photo
 rtp://@239.1.4.29:1234
-#EXTINF:-1 group-title="UseeTV",MNC SHOP
+#EXTINF:-1 group-title="UseeTV",MNC SHOP 2
 rtp://@239.1.4.33:1234
 #EXTINF:-1 group-title="UseeTV",MTATV
 rtp://@239.1.4.37:1234
@@ -327,29 +325,611 @@ rtp://@239.1.4.37:1234
 rtp://@239.1.4.41:1234
 #EXTINF:-1 group-title="UseeTV",HGTV
 rtp://@239.1.4.42:1234
-#EXTINF:-1 group-title="UseeTV",i Konser
+#EXTINF:-1 group-title="UseeTV",i Konser HD
 rtp://@239.1.4.43:1234
-#EXTINF:-1 group-title="UseeTV",HGTV
+#EXTINF:-1 group-title="UseeTV",HGTV HD
 rtp://@239.1.4.47:1234
-#EXTINF:-1 group-title="UseeTV",Champions TV 1
+#EXTINF:-1 group-title="UseeTV",Champions TV 1 HD
 rtp://@239.1.4.56:1234
-#EXTINF:-1 group-title="UseeTV",tvN Movies
+#EXTINF:-1 group-title="UseeTV",tvN Movies HD
 rtp://@239.1.4.59:1234
-#EXTINF:-1 group-title="UseeTV",Warner TV
+#EXTINF:-1 group-title="UseeTV",Warner TV HD
 rtp://@239.1.4.60:1234
-#EXTINF:-1 group-title="UseeTV",Channel Jowo
+#EXTINF:-1 group-title="UseeTV",Channel Jowo HD
 rtp://@239.1.4.61:1234
-#EXTINF:-1 group-title="UseeTV",NET.
+#EXTINF:-1 group-title="UseeTV",NET. HD
 rtp://@239.1.4.69:1234
-#EXTINF:-1 group-title="UseeTV",Blue ANT Extreme
+#EXTINF:-1 group-title="UseeTV",Blue ANT Extreme HD
 rtp://@239.1.4.70:1234
-#EXTINF:-1 group-title="UseeTV",DWTV
+#EXTINF:-1 group-title="UseeTV",DWTV HD
 rtp://@239.1.4.71:1234
-#EXTINF:-1 group-title="UseeTV",Usee Photo
+#EXTINF:-1 group-title="UseeTV",Usee Photo HD
 rtp://@239.1.4.73:1234
 #EXTINF:-1 group-title="UseeTV",CTI
 rtp://@239.1.4.77:1234
-#EXTINF:-1 group-title="UseeTV",Sony ONE
+#EXTINF:-1 group-title="UseeTV",Sony ONE HD
 rtp://@239.1.4.230:1234
 #EXTINF:-1 group-title="UseeTV",RRI Net
 rtp://@239.1.4.247:1234
+#EXTINF:-1 group-title="UseeTV DRM",FX SD
+rtp://@239.1.1.1:7980
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.5:8004
+rtp://@239.1.1.5:8004
+#EXTINF:-1 group-title="UseeTV DRM",FOX Movies SD
+rtp://@239.1.1.11:8040
+#EXTINF:-1 group-title="UseeTV DRM",KBS World HD
+rtp://@239.1.1.13:8052
+#EXTINF:-1 group-title="UseeTV DRM",Fashion One HD
+rtp://@239.1.1.14:8058
+#EXTINF:-1 group-title="UseeTV DRM",HISTORY HD
+rtp://@239.1.1.23:8112
+#EXTINF:-1 group-title="UseeTV DRM",Lifetime HD
+rtp://@239.1.1.25:8124
+#EXTINF:-1 group-title="UseeTV DRM",JAKTV
+rtp://@239.1.1.33:8172
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo Wild SD
+rtp://@239.1.1.35:8184
+#EXTINF:-1 group-title="UseeTV DRM",MNC SHOP
+rtp://@239.1.1.36:8190
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.41:8220
+rtp://@239.1.1.41:8220
+#EXTINF:-1 group-title="UseeTV DRM",FOX SD
+rtp://@239.1.1.43:8232
+#EXTINF:-1 group-title="UseeTV DRM",Service01
+rtp://@239.1.1.44:8238
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.45:8244
+rtp://@239.1.1.45:8244
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.47:8256
+rtp://@239.1.1.47:8256
+#EXTINF:-1 group-title="UseeTV DRM",NBA HD
+rtp://@239.1.1.49:8268
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.50:8274
+rtp://@239.1.1.50:8274
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.53:8292
+rtp://@239.1.1.53:8292
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.57:8316
+rtp://@239.1.1.57:8316
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.59:8328
+rtp://@239.1.1.59:8328
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.63:8352
+rtp://@239.1.1.63:8352
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.64:8358
+rtp://@239.1.1.64:8358
+#EXTINF:-1 group-title="UseeTV DRM",new CH News Asia
+rtp://@239.1.1.65:8364
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo People SD
+rtp://@239.1.1.67:8376
+#EXTINF:-1 group-title="UseeTV DRM",Horee Channel
+rtp://@239.1.1.68:8382
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 3 SD
+rtp://@239.1.1.71:8400
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.73:8412
+rtp://@239.1.1.73:8412
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.75:8424
+rtp://@239.1.1.75:8424
+#EXTINF:-1 group-title="UseeTV DRM",SBS IN
+rtp://@239.1.1.77:8436
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.79:8448
+rtp://@239.1.1.79:8448
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.81:8460
+rtp://@239.1.1.81:8460
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.83:8472
+rtp://@239.1.1.83:8472
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.86:8154
+rtp://@239.1.1.86:8154
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.87:8496
+rtp://@239.1.1.87:8496
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.89:8508
+rtp://@239.1.1.89:8508
+#EXTINF:-1 group-title="UseeTV DRM",Channel SD-25 HBO HITS
+rtp://@239.1.1.91:8520
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.93:8532
+rtp://@239.1.1.93:8532
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.95:8544
+rtp://@239.1.1.95:8544
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.97:8556
+rtp://@239.1.1.97:8556
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.99:8568
+rtp://@239.1.1.99:8568
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.101:8580
+rtp://@239.1.1.101:8580
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.103:8592
+rtp://@239.1.1.103:8592
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.105:8604
+rtp://@239.1.1.105:8604
+#EXTINF:-1 group-title="UseeTV DRM",Pelangi Backup SD
+rtp://@239.1.1.110:8634
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.112:8646
+rtp://@239.1.1.112:8646
+#EXTINF:-1 group-title="UseeTV DRM",RED SD
+rtp://@239.1.1.114:8658
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.121:8700
+rtp://@239.1.1.121:8700
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.123:8712
+rtp://@239.1.1.123:8712
+#EXTINF:-1 group-title="UseeTV DRM",FOX Action Movies SD
+rtp://@239.1.1.125:8724
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.126:8730
+rtp://@239.1.1.126:8730
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.127:8736
+rtp://@239.1.1.127:8736
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.129:8748
+rtp://@239.1.1.129:8748
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Movies SD
+rtp://@239.1.1.131:8760
+#EXTINF:-1 group-title="UseeTV DRM",HBO SIG HD
+rtp://@239.1.1.132:8768
+#EXTINF:-1 group-title="UseeTV DRM",RED HD
+rtp://@239.1.1.133:8772
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.134:8778
+rtp://@239.1.1.134:8778
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.135:8784
+rtp://@239.1.1.135:8784
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.137:8796
+rtp://@239.1.1.137:8796
+#EXTINF:-1 group-title="UseeTV DRM",Dreamworks SD
+rtp://@239.1.1.139:8808
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.140:8814
+rtp://@239.1.1.140:8814
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.141:8820
+rtp://@239.1.1.141:8820
+#EXTINF:-1 group-title="UseeTV DRM",E! Entertainment
+rtp://@239.1.1.145:8844
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.147:8856
+rtp://@239.1.1.147:8856
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Legend Sd
+rtp://@239.1.1.151:8880
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Channel SD
+rtp://@239.1.1.153:8892
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.155:8904
+rtp://@239.1.1.155:8904
+#EXTINF:-1 group-title="UseeTV DRM",new Baby First
+rtp://@239.1.1.157:8916
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.159:8928
+rtp://@239.1.1.159:8928
+#EXTINF:-1 group-title="UseeTV DRM",FOX Crime SD
+rtp://@239.1.1.161:8940
+#EXTINF:-1 group-title="UseeTV DRM",new NHK World Prem
+rtp://@239.1.1.165:8964
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.167:8976
+rtp://@239.1.1.167:8976
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo Channel SD
+rtp://@239.1.1.169:8988
+#EXTINF:-1 group-title="UseeTV DRM",Fox Life SD
+rtp://@239.1.1.171:9000
+#EXTINF:-1 group-title="UseeTV DRM",S-ONE
+rtp://@239.1.1.172:9006
+#EXTINF:-1 group-title="UseeTV DRM",Channel V SD
+rtp://@239.1.1.173:9012
+#EXTINF:-1 group-title="UseeTV DRM",NHK WORLD HD
+rtp://@239.1.1.174:9018
+#EXTINF:-1 group-title="UseeTV DRM",FOX Family Movies SD
+rtp://@239.1.1.175:9024
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.177:9036
+rtp://@239.1.1.177:9036
+#EXTINF:-1 group-title="UseeTV DRM",CNN INDONESIA
+rtp://@239.1.1.180:9054
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.181:9266
+rtp://@239.1.1.181:9266
+#EXTINF:-1 group-title="UseeTV DRM",Galaxy SD
+rtp://@239.1.1.184:8778
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.187:9096
+rtp://@239.1.1.187:9096
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.189:9108
+rtp://@239.1.1.189:9108
+#EXTINF:-1 group-title="UseeTV DRM",Fox Action Movies HD
+rtp://@239.1.1.190:9116
+#EXTINF:-1 group-title="UseeTV DRM",TRANS TV HD
+rtp://@239.1.1.194:9138
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.199:9168
+rtp://@239.1.1.199:9168
+#EXTINF:-1 group-title="UseeTV DRM",Disney HD
+rtp://@239.1.1.201:9180
+#EXTINF:-1 group-title="UseeTV DRM",KPlus HD
+rtp://@239.1.1.202:9186
+#EXTINF:-1 group-title="UseeTV DRM",HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 group-title="UseeTV DRM",HBO SIG HD
+rtp://@239.1.1.205:9204
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 group-title="UseeTV DRM",Fox Life HD
+rtp://@239.1.1.209:9228
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.210:9506
+rtp://@239.1.1.210:9506
+#EXTINF:-1 group-title="UseeTV DRM",Fox Movies HD
+rtp://@239.1.1.211:9240
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.213:9252
+rtp://@239.1.1.213:9252
+#EXTINF:-1 group-title="UseeTV DRM",HBO HITS HD
+rtp://@239.1.1.215:9264
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.216:9270
+rtp://@239.1.1.216:9270
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 1 SD
+rtp://@239.1.1.217:9204
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 2 SD
+rtp://@239.1.1.221:9300
+#EXTINF:-1 group-title="UseeTV DRM",Prambors
+rtp://@239.1.1.227:9336
+#EXTINF:-1 group-title="UseeTV DRM",HI Indo
+rtp://@239.1.1.240:9348
+#EXTINF:-1 group-title="UseeTV DRM",CNN Indonesia SD
+rtp://@239.1.1.241:9362
+#EXTINF:-1 group-title="UseeTV DRM",Kplus SD
+rtp://@239.1.1.242:9426
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.9:8028
+rtp://@239.1.2.9:8028
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.12:8046
+rtp://@239.1.2.12:8046
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.13:8052
+rtp://@239.1.2.13:8052
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.16:8070
+rtp://@239.1.2.16:8070
+#EXTINF:-1 group-title="UseeTV DRM",new IMC
+rtp://@239.1.2.20:8094
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo Wild HD
+rtp://@239.1.2.28:8064
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.30:8154
+rtp://@239.1.2.30:8154
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-09 HGTV
+rtp://@239.1.2.34:8178
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.36:8190
+rtp://@239.1.2.36:8190
+#EXTINF:-1 group-title="UseeTV DRM",SZTV
+rtp://@239.1.2.38:8202
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.40:8206
+rtp://@239.1.2.40:8206
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.44:8122
+rtp://@239.1.2.44:8122
+#EXTINF:-1 group-title="UseeTV DRM",Service01
+rtp://@239.1.2.54:8298
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.58:8324
+rtp://@239.1.2.58:8324
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.70:8396
+rtp://@239.1.2.70:8396
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.74:8420
+rtp://@239.1.2.74:8420
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-31
+rtp://@239.1.2.114:9428
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-32
+rtp://@239.1.2.116:9404
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.118:9410
+rtp://@239.1.2.118:9410
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.196:9406
+rtp://@239.1.2.196:9406
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.198:9386
+rtp://@239.1.2.198:9386
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.200:9168
+rtp://@239.1.2.200:9168
+#EXTINF:-1 group-title="UseeTV DRM",FOX Sports 1 HD
+rtp://@239.1.2.201:9174
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-33
+rtp://@239.1.2.202:9176
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.203:9180
+rtp://@239.1.2.203:9180
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-34
+rtp://@239.1.2.204:9182
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.205:9186
+rtp://@239.1.2.205:9186
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-35
+rtp://@239.1.2.206:9186
+#EXTINF:-1 group-title="UseeTV DRM",KIX HD
+rtp://@239.1.2.207:9190
+#EXTINF:-1 group-title="UseeTV DRM",Fight Sport HD
+rtp://@239.1.2.209:9196
+#EXTINF:-1 group-title="UseeTV DRM",NBA HD
+rtp://@239.1.2.210:9444
+#EXTINF:-1 group-title="UseeTV DRM",TVN HD
+rtp://@239.1.2.211:9202
+#EXTINF:-1 group-title="UseeTV DRM",GOLF+ HD
+rtp://@239.1.2.214:9214
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.216:9226
+rtp://@239.1.2.216:9226
+#EXTINF:-1 group-title="UseeTV DRM",E-Concert 2
+rtp://@239.1.2.217:9232
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.218:9238
+rtp://@239.1.2.218:9238
+#EXTINF:-1 group-title="UseeTV DRM",E-Concert 3
+rtp://@239.1.2.219:9244
+#EXTINF:-1 group-title="UseeTV DRM",Fox Crime HD
+rtp://@239.1.2.225:9318
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo People HD
+rtp://@239.1.2.229:9330
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Movies HD
+rtp://@239.1.2.231:9336
+#EXTINF:-1 group-title="UseeTV DRM",Channel V HD
+rtp://@239.1.2.235:9342
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.237:9348
+rtp://@239.1.2.237:9348
+#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.2.239:9354
+rtp://@239.1.2.239:9354
+#EXTINF:-1 group-title="UseeTV DRM",Channel HD-10 SPARE
+rtp://@239.1.2.244:9078
+#EXTINF:-1 group-title="UseeTV DRM",CINEMAX HD
+rtp://@239.1.2.247:9372
+#EXTINF:-1 group-title="UseeTV DRM",HBO SIG HD
+rtp://@239.1.2.249:9378
+#EXTINF:-1 group-title="UseeTV DRM",FX SD
+rtp://@239.1.3.1:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.5:1234
+rtp://@239.1.3.5:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Movies SD
+rtp://@239.1.3.11:1234
+#EXTINF:-1 group-title="UseeTV DRM",NBA HD
+rtp://@239.1.3.23:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.26:1234
+rtp://@239.1.3.26:1234
+#EXTINF:-1 group-title="UseeTV DRM",JAKTV
+rtp://@239.1.3.33:1234
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo Wild SD
+rtp://@239.1.3.35:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.41:1234
+rtp://@239.1.3.41:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX SD
+rtp://@239.1.3.43:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Family Movies HD
+rtp://@239.1.3.44:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.45:1234
+rtp://@239.1.3.45:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.47:1234
+rtp://@239.1.3.47:1234
+#EXTINF:-1 group-title="UseeTV DRM",AFC HD
+rtp://@239.1.3.49:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.53:1234
+rtp://@239.1.3.53:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Crime HD
+rtp://@239.1.3.55:1234
+#EXTINF:-1 group-title="UseeTV DRM",FX HD
+rtp://@239.1.3.56:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.57:1234
+rtp://@239.1.3.57:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.59:1234
+rtp://@239.1.3.59:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.63:1234
+rtp://@239.1.3.63:1234
+#EXTINF:-1 group-title="UseeTV DRM",new CH News Asia
+rtp://@239.1.3.65:1234
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo People SD
+rtp://@239.1.3.67:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.71:1234
+rtp://@239.1.3.71:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.73:1234
+rtp://@239.1.3.73:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.75:1234
+rtp://@239.1.3.75:1234
+#EXTINF:-1 group-title="UseeTV DRM",FASHION TV
+rtp://@239.1.3.79:1234
+#EXTINF:-1 group-title="UseeTV DRM",TV 4# Dunia Anak
+rtp://@239.1.3.7:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.81:1234
+rtp://@239.1.3.81:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.83:1234
+rtp://@239.1.3.83:1234
+#EXTINF:-1 group-title="UseeTV DRM",new IMC
+rtp://@239.1.3.85:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.87:1234
+rtp://@239.1.3.87:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.89:1234
+rtp://@239.1.3.89:1234
+#EXTINF:-1 group-title="UseeTV DRM",Channel SD-25 HBO HITS
+rtp://@239.1.3.91:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.93:1234
+rtp://@239.1.3.93:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.95:1234
+rtp://@239.1.3.95:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.97:1234
+rtp://@239.1.3.97:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.99:1234
+rtp://@239.1.3.99:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.101:1234
+rtp://@239.1.3.101:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.103:1234
+rtp://@239.1.3.103:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.105:1234
+rtp://@239.1.3.105:1234
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Movies HD
+rtp://@239.1.3.109:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.110:1234
+rtp://@239.1.3.110:1234
+#EXTINF:-1 group-title="UseeTV DRM",ANTARA TV
+rtp://@239.1.3.115:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.117:1234
+rtp://@239.1.3.117:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.121:1234
+rtp://@239.1.3.121:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.123:1234
+rtp://@239.1.3.123:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Action Movies SD
+rtp://@239.1.3.125:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.127:1234
+rtp://@239.1.3.127:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.129:1234
+rtp://@239.1.3.129:1234
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Movies SD
+rtp://@239.1.3.131:1234
+#EXTINF:-1 group-title="UseeTV DRM",RED HD
+rtp://@239.1.3.133:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.135:1234
+rtp://@239.1.3.135:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.137:1234
+rtp://@239.1.3.137:1234
+#EXTINF:-1 group-title="UseeTV DRM",DREAMWORKS HD
+rtp://@239.1.3.139:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.141:1234
+rtp://@239.1.3.141:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.147:1234
+rtp://@239.1.3.147:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.149:1234
+rtp://@239.1.3.149:1234
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Legend Sd
+rtp://@239.1.3.151:1234
+#EXTINF:-1 group-title="UseeTV DRM",Star Chinese Channel SD
+rtp://@239.1.3.153:1234
+#EXTINF:-1 group-title="UseeTV DRM",new Baby First
+rtp://@239.1.3.157:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.159:1234
+rtp://@239.1.3.159:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Crime SD
+rtp://@239.1.3.161:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Sports 1 HD
+rtp://@239.1.3.162:1234
+#EXTINF:-1 group-title="UseeTV DRM",new T Music
+rtp://@239.1.3.163:1234
+#EXTINF:-1 group-title="UseeTV DRM",new NHK World Prem
+rtp://@239.1.3.165:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.167:1234
+rtp://@239.1.3.167:1234
+#EXTINF:-1 group-title="UseeTV DRM",NatGeo Channel SD
+rtp://@239.1.3.169:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Sports 2 HD
+rtp://@239.1.3.170:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Life SD
+rtp://@239.1.3.171:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Sports 3 HD
+rtp://@239.1.3.172:1234
+#EXTINF:-1 group-title="UseeTV DRM",Channel V SD
+rtp://@239.1.3.173:1234
+#EXTINF:-1 group-title="UseeTV DRM",KIX HD
+rtp://@239.1.3.174:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX Family Movies SD
+rtp://@239.1.3.175:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fight Sport HD
+rtp://@239.1.3.176:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.177:1234
+rtp://@239.1.3.177:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.181:1234
+rtp://@239.1.3.181:1234
+#EXTINF:-1 group-title="UseeTV DRM",Channel SD-19 AL QURAN ALKARIM
+rtp://@239.1.3.185:1234
+#EXTINF:-1 group-title="UseeTV DRM",DW TV
+rtp://@239.1.3.187:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.189:1234
+rtp://@239.1.3.189:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.191:1234
+rtp://@239.1.3.191:1234
+#EXTINF:-1 group-title="UseeTV DRM",EURONEWS
+rtp://@239.1.3.193:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.199:1234
+rtp://@239.1.3.199:1234
+#EXTINF:-1 group-title="UseeTV DRM",Disney HD
+rtp://@239.1.3.201:1234
+#EXTINF:-1 group-title="UseeTV DRM",HBO HD
+rtp://@239.1.3.203:1234
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo Wild HD
+rtp://@239.1.3.207:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fashion TV HD
+rtp://@239.1.3.208:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Life HD
+rtp://@239.1.3.209:1234
+#EXTINF:-1 group-title="UseeTV DRM",PLAYOUT USEESPORTS SD
+rtp://@239.1.3.210:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Movies HD
+rtp://@239.1.3.211:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.212:1234
+rtp://@239.1.3.212:1234
+#EXTINF:-1 group-title="UseeTV DRM",HBO HITS HD
+rtp://@239.1.3.215:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 1 SD
+rtp://@239.1.3.218:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 3 SD
+rtp://@239.1.3.220:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 2 SD
+rtp://@239.1.3.221:1234
+#EXTINF:-1 group-title="UseeTV DRM",Spacetoon Plus
+rtp://@239.1.3.222:1234
+#EXTINF:-1 group-title="UseeTV DRM",RED SD
+rtp://@239.1.3.224:1234
+#EXTINF:-1 group-title="UseeTV DRM",Galaxy SD
+rtp://@239.1.3.225:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.226:1234
+rtp://@239.1.3.226:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.3.229:1234
+rtp://@239.1.3.229:1234
+#EXTINF:-1 group-title="UseeTV DRM",new Eat & Go
+rtp://@239.1.3.231:1234
+#EXTINF:-1 group-title="UseeTV DRM",Channel V HD
+rtp://@239.1.3.232:1234
+#EXTINF:-1 group-title="UseeTV DRM",new Khazanah
+rtp://@239.1.3.233:1234
+#EXTINF:-1 group-title="UseeTV DRM",Dreamworks SD
+rtp://@239.1.3.234:1234
+#EXTINF:-1 group-title="UseeTV DRM",TVN HD
+rtp://@239.1.3.237:1234
+#EXTINF:-1 group-title="UseeTV DRM",KPlus HD
+rtp://@239.1.3.238:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 3 HD
+rtp://@239.1.3.239:1234
+#EXTINF:-1 group-title="UseeTV DRM",HI Indo
+rtp://@239.1.3.240:1234
+#EXTINF:-1 group-title="UseeTV DRM",Kplus SD
+rtp://@239.1.3.242:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 1 HD
+rtp://@239.1.3.248:1234
+#EXTINF:-1 group-title="UseeTV DRM",BEIN 2 HD
+rtp://@239.1.3.249:1234
+#EXTINF:-1 group-title="UseeTV DRM",Prambors
+rtp://@239.1.3.250:1234
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo People HD
+rtp://@239.1.3.252:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.2:1234
+rtp://@239.1.4.2:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.5:1234
+rtp://@239.1.4.5:1234
+#EXTINF:-1 group-title="UseeTV DRM",S-ONE
+rtp://@239.1.4.6:1234
+#EXTINF:-1 group-title="UseeTV DRM",Discovery SD
+rtp://@239.1.4.7:1234
+#EXTINF:-1 group-title="UseeTV DRM",Natgeo HD
+rtp://@239.1.4.14:1234
+#EXTINF:-1 group-title="UseeTV DRM",FOX HD
+rtp://@239.1.4.15:1234
+#EXTINF:-1 group-title="UseeTV DRM",Pelangi Backup SD
+rtp://@239.1.4.17:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fox Action Movies HD
+rtp://@239.1.4.21:1234
+#EXTINF:-1 group-title="UseeTV DRM",NHK WORLD HD
+rtp://@239.1.4.22:1234
+#EXTINF:-1 group-title="UseeTV DRM",Horee Channel
+rtp://@239.1.4.30:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.31:1234
+rtp://@239.1.4.31:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.34:1234
+rtp://@239.1.4.34:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.35:1234
+rtp://@239.1.4.35:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.36:1234
+rtp://@239.1.4.36:1234
+#EXTINF:-1 group-title="UseeTV DRM",HBO FAM HD
+rtp://@239.1.4.38:1234
+#EXTINF:-1 group-title="UseeTV DRM",CINEMAX HD
+rtp://@239.1.4.39:1234
+#EXTINF:-1 group-title="UseeTV DRM",HBO SIG HD
+rtp://@239.1.4.40:1234
+#EXTINF:-1 group-title="UseeTV DRM",KBS World HD
+rtp://@239.1.4.44:1234
+#EXTINF:-1 group-title="UseeTV DRM",Fashion One HD
+rtp://@239.1.4.45:1234
+#EXTINF:-1 group-title="UseeTV DRM",HISTORY HD
+rtp://@239.1.4.46:1234
+#EXTINF:-1 group-title="UseeTV DRM",Lifetime HD
+rtp://@239.1.4.48:1234
+#EXTINF:-1 group-title="UseeTV DRM",Wakuwaku HD
+rtp://@239.1.4.51:1234
+#EXTINF:-1 group-title="UseeTV DRM",AXN HD
+rtp://@239.1.4.52:1234
+#EXTINF:-1 group-title="UseeTV DRM",CNN INT HD
+rtp://@239.1.4.53:1234
+#EXTINF:-1 group-title="UseeTV DRM",NBA
+rtp://@239.1.4.55:1234
+#EXTINF:-1 group-title="UseeTV DRM",GOLF+ HD
+rtp://@239.1.4.58:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.64:1234
+rtp://@239.1.4.64:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.65:1234
+rtp://@239.1.4.65:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.66:1234
+rtp://@239.1.4.66:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.67:1234
+rtp://@239.1.4.67:1234
+#EXTINF:-1 group-title="UseeTV DRM",channel-rtp://@239.1.4.68:1234
+rtp://@239.1.4.68:1234

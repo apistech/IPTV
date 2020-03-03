@@ -81,7 +81,7 @@ rtp://@239.1.1.195:9144
 rtp://@239.1.1.197:9156
 #EXTINF:-1 group-title="UseeTV",Panda TV HD
 rtp://@239.1.1.208:9502
-#EXTINF:-1 group-title="UseeTV",New channel - rtp://@239.1.1.212:9510
+#EXTINF:-1 group-title="UseeTV",iCNTV
 rtp://@239.1.1.212:9510
 #EXTINF:-1 group-title="UseeTV",Channel HD-30
 rtp://@239.1.1.214:9514
@@ -353,7 +353,7 @@ rtp://@239.1.4.230:1234
 rtp://@239.1.4.247:1234
 #EXTINF:-1 group-title="UseeTV DRM",FX SD
 rtp://@239.1.1.1:7980
-#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.5:8004
+#EXTINF:-1 group-title="UseeTV DRM",MTV
 rtp://@239.1.1.5:8004
 #EXTINF:-1 group-title="UseeTV DRM",FOX Movies SD
 rtp://@239.1.1.11:8040
@@ -377,7 +377,7 @@ rtp://@239.1.1.41:8220
 rtp://@239.1.1.43:8232
 #EXTINF:-1 group-title="UseeTV DRM",Service01
 rtp://@239.1.1.44:8238
-#EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.45:8244
+#EXTINF:-1 group-title="UseeTV DRM",Disney Channel
 rtp://@239.1.1.45:8244
 #EXTINF:-1 group-title="UseeTV DRM",New channel - rtp://@239.1.1.47:8256
 rtp://@239.1.1.47:8256

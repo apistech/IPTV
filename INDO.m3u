@@ -19,12 +19,16 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 group-title="LOKAL",JTV Surabaya
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",TVONE
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybO3da6Bk8PJ2Ns03Gl9qO6U)/dm/3/x619221/s/live-3.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV
+https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?hdnts=exp=1608972507~hmac=79305b664166a5977efc2614c6fd1a3028812273ea9fd061d39bac5113f18b01
+#EXTINF:-1 group-title="LOKAL",RCTI
+https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?hdnts=exp=1608980669~hmac=d97cb256990988ead7200fe89a30ddbe7fda57fdec46913c3cd09146761e16c1
+#EXTINF:-1 group-title="LOKAL",GTV
+https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8?hdnts=exp=1608972614~hmac=59183e6c2fa1cb70dfe3315d2259d1eda7a604ae6bec3a87406bf351639d02e8
+#EXTINF:-1 group-title="LOKAL",INEWS
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?hdnts=exp=1608972637~hmac=c39884b290942dce18f2f4a897cbb6f7b63861cf311649cf1f89b3724ab6bebb
 #EXTINF:-1 group-title="LOKAL",KOMPASTV
 https://www.youtube.com/embed/gIB2egm7tL8?autoplay=1
-#EXTINF:-1 group-title="LOKAL",NET.
-https://www.youtube.com/embed/MSQhwpYQbtQ?autoplay=1
 #EXTINF:-1 group-title="CBN DENS",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",BLOOMBERG
@@ -51,32 +55,10 @@ http://rr.dens.tv/h/h28/01.m3u8
 http://rr.dens.tv/h/h29/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",HITS
 http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",AXN
 http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",SONY ONE
 http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SunnaTV
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRTWORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
-http://rr.dens.tv/h/h157/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",ANIPLUS
 http://rr1.dens.tv/h/h02/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
@@ -121,16 +103,12 @@ http://rr2.dens.tv/s/s23/01.m3u8
 http://rr2.dens.tv/s/s24/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",DWTV
 http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AL QURAN AL KAREEM MADINAH
+#EXTINF:-1 group-title="CBN DENS",Sunna TV
 http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AL QURAN AL KAREEM MAKAH
+#EXTINF:-1 group-title="CBN DENS",Quran TV
 http://rr2.dens.tv/s/s28/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
 http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DEMO
-http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",DEMO
-http://rr2.dens.tv/s/s31/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",CELESTIAL MOVIES
@@ -157,267 +135,235 @@ http://rr2.dens.tv/s/s104/01.m3u8
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TVRI SPORT
 http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr3.dens.tv/s/s72/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANS7
+http://rr3.dens.tv/s/s73/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr3.dens.tv/s/s81/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr3.dens.tv/s/s82/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr3.dens.tv/s/s83/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr3.dens.tv/s/s84/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr3.dens.tv/s/s85/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr3.dens.tv/s/s86/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr3.dens.tv/s/s87/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",STYLE
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr.dens.tv/h/h03/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
+http://rr.dens.tv/h/h04/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
+http://rr.dens.tv/h/h22/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",NHK WORLD
+http://rr.dens.tv/h/h23/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",HITS
+http://rr.dens.tv/h/h37/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyCINEMA
+http://rr.dens.tv/h/h90/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY ONE
+http://rr.dens.tv/h/h143/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TESTHD
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TELENOVELA
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",FILMY
+http://rr.dens.tv/h/h154/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRT WORLD
+http://rr.dens.tv/h/h156/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TESTHD
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",BALI TV
+http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
+http://rr2.dens.tv/s/s10/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
+http://rr2.dens.tv/s/s16/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
+http://rr2.dens.tv/s/s17/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",CCTV4
+http://rr2.dens.tv/s/s19/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX
+http://rr2.dens.tv/s/s21/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",FRANCE24
+http://rr2.dens.tv/s/s22/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",RT
+http://rr2.dens.tv/s/s23/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",DWTV
+http://rr2.dens.tv/s/s26/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",THRILL
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr2.dens.tv/s/s39/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",U CHANNEL
+http://rr2.dens.tv/s/s41/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",LEJEL
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyTV
+http://rr2.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TOONMAX
+http://rr2.dens.tv/s/s50/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
+http://rr2.dens.tv/s/s107/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s35/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr3.dens.tv/s/s36/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",Live Streaming
+http://rr3.dens.tv/s/s37/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr3.dens.tv/s/s69/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",JTV
+http://rr3.dens.tv/s/s91/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",STAR
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",STYLE
+http://rr.dens.tv/h/h01/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr.dens.tv/h/h03/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
+http://rr.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",FIGHT SPORTS
+http://rr.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",KIX
+http://rr.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",K+
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY GEM
+http://rr.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
+http://rr.dens.tv/h/h22/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",NHK WORLD
+http://rr.dens.tv/h/h23/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
+http://rr.dens.tv/h/h28/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",HITS
+http://rr.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyCINEMA
+http://rr.dens.tv/h/h90/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",MKIDZ
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AXN
+http://rr.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIPLUS
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIMAX
+http://rr1.dens.tv/h/h144/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",NET.
+http://rr2.dens.tv/s/s08/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
+http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DAAI TV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RODJATV
+http://rr2.dens.tv/s/s14/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
+http://rr2.dens.tv/s/s16/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
+http://rr2.dens.tv/s/s17/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CCTV4
+http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX
+http://rr2.dens.tv/s/s21/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",FRANCE24
+http://rr2.dens.tv/s/s22/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RT
+http://rr2.dens.tv/s/s23/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TV5MONDE
+http://rr2.dens.tv/s/s24/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DWTV
+http://rr2.dens.tv/s/s26/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Sunna TV
+http://rr2.dens.tv/s/s27/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Quran TV
+http://rr2.dens.tv/s/s28/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",THRILL
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTP
+http://rr2.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",U CHANNEL
+http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",LEJEL
+http://rr2.dens.tv/s/s42/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyTV
+http://rr2.dens.tv/s/s46/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TOONMAX
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANS7
+http://rr2.dens.tv/s/s101/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr2.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
+http://rr2.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
 http://rr3.dens.tv/s/s35/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
 http://rr3.dens.tv/s/s36/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",Live Streaming
 http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",JTV
-http://rr3.dens.tv/s/s91/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",STAR CHINESE
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",Live Streaming1
-http://rr3.dens.tv/s/s100/live.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS PLAY
-http://rr3.dens.tv/s/s101/live.m3u8
-#EXTINF:-1 group-title="CBN DENS",Live Streaming2
-http://rr.dens.tv/h/h998/live.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s102/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
 http://rr3.dens.tv/s/s113/index.m3u8
 #EXTINF:-1 group-title="CBN DENS",MOLATV FREE TRIAL
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
-#EXTINF:-1 group-title="INTERNATIONAL",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="INTERNATIONAL",FAIL ARMY
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ABC Australia
-https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ANHUI TV
-https://anevia115.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Animal Planet
-https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Animax
-https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ANTV
-https://anevia115.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Arirang
-https://anevia115.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Asian Food Channel
-https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",AXN
-https://anevia115.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",BabyTV
-https://anevia115.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Bali TV
-https://anevia115.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",BBC Earth
-https://anevia115.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",BBC World News
-https://anevia115.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Be Smart
-https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",BeIN 1
-https://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",BeIN 2
-https://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Berita Satu News
-https://anevia115.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Boomerang
-https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Cartoon Network
-https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",CBeebies
-https://anevia115.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Celestial Classic Movies
-https://anevia115.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Celestial Movies
-https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Channel V
-https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Cinema World
-https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Cinemax
-https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Clubbing TV
-https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",CNBC World
-https://anevia115.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",CNN International
-https://anevia115.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Crime Investigation
-https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",DAAITV
-https://anevia115.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Discovery
-https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Disney Channel
-https://anevia115.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Disney Jr
-https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Disney XD
-https://anevia115.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",EuroNews
-https://anevia115.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",EWTN
-https://anevia115.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Fight Sports
-https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FMN
-https://anevia115.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX
-https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Crime
-https://anevia115.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Life
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Movies Premium
-https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX News
-https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Sports
-https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Sports 2
-https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FOX Sports 3
-https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",France24
-https://anevia115.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",FX
-https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",GTV
-https://anevia115.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HBO
-https://anevia115.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HBO Family
-https://anevia115.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HBO Hits
-https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HBO Signature
-https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HGTV
-https://anevia115.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",History
-https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HITS
-https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HITS Movies
-https://anevia115.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",HUNAN TV
-https://anevia115.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",IDX
-https://anevia115.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",INDOSIAR
-https://anevia115.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",iNewsTV
-https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",JAK TV
-https://anevia115.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",JIANGSU TV
-https://anevia115.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",JTV
-https://anevia115.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",KIDS TV
-https://anevia115.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",KIX
-https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",KOMPASTV
-https://anevia115.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Life
-https://anevia115.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Lifetime
-https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",METROTV
-https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Miao Mi
-https://anevia115.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Channel
-https://anevia115.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Comedy
-https://anevia115.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Infotainment
-https://anevia115.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Lifestyle
-https://anevia115.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC News
-https://anevia115.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Shop Smart
-https://anevia115.mncnow.id/live/eds/MNCShopSmart/sa_hls/MNCShopSmart.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Shop Trendy
-https://anevia115.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Sports
-https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNC Sports 2
-https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MNCTV
-https://anevia115.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MUSIC TV
-https://anevia115.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",MUSLIM TV
-https://anevia115.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Nat Geo People
-https://anevia115.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Nat Geo Wild
-https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",National Geographic
-https://anevia115.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",NET.
-https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",NHK World Premium
-https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",NHK World TV
-https://anevia115.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Nick Jr
-https://anevia115.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Nickelodeon
-https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",RCTI
-https://anevia115.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",RT English
-https://anevia115.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",RTV
-https://anevia115.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",SCTV
-https://anevia115.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",SHANGHAI DRAGON TV
-https://anevia115.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",SKY News
-https://anevia115.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",STAR CM
-https://anevia115.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",STAR CM Legend
-https://anevia115.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Tawaf TV
-https://anevia115.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Thrill
-https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TLC
-https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Trans 7
-https://anevia115.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Trans TV
-https://anevia115.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TRT World
-https://anevia115.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TV Muhammadiyah
-https://anevia115.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TV9
-https://anevia115.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TvN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TvN Movies
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TVONE
-https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TVRI
-https://anevia115.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",TVRI SPORT
-https://anevia115.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",VISION PRIME
-https://anevia115.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Waku Waku Japan
-https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",Warner TV
-https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ZEE Bioskop
-https://anevia115.mncnow.id/live/eds/ZeeBIOSKOP/sa_hls/ZeeBIOSKOP.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ZEE Bioskop
-https://anevia115.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ZEE Cinema
-https://anevia115.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ZEE TV
-https://anevia115.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-#EXTINF:-1 group-title="[OFF] MNC",ZING
-https://anevia115.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8

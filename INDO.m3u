@@ -15,18 +15,16 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",MOLATV TRIAL
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
-#EXTINF:-1 group-title="LOKAL",NET.
-https://www.youtube.com/embed/FWa92qKiY5M?autoplay=1
-#EXTINF:-1 group-title="LOKAL",KOMPASTV
-https://www.youtube.com/embed/gIB2egm7tL8?autoplay=1
-#EXTINF:-1 group-title="LOKAL",iNEWS
-https://www.youtube.com/embed/d1a3UeANkR0?autoplay=1
 #EXTINF:-1 group-title="LOKAL",KARAOKE Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BandungTV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 group-title="LOKAL",JTV Surabaya
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",iNEWS
+https://inews.unregister.xyz/live/inews_fta.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI
+https://alicaur.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="CBN DENS",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",BLOOMBERG
@@ -39,8 +37,14 @@ http://rr.dens.tv/h/h05/01.m3u8
 http://rr.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",K+
 http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr.dens.tv/h/h11/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",METROTV
 http://rr.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAEUROPE
+http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",SONY GEM
 http://rr.dens.tv/h/h19/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",EGG NETWORK
@@ -139,8 +143,6 @@ http://rr3.dens.tv/s/s72/01.m3u8
 http://rr3.dens.tv/s/s73/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TVONE
 http://rr3.dens.tv/s/s81/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",METROTV
-http://rr3.dens.tv/s/s82/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",SCTV
 http://rr3.dens.tv/s/s83/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",INDOSIAR
@@ -171,6 +173,8 @@ http://rr3.dens.tv/s/s113/index.m3u8
 http://rr.dens.tv/h/h101/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",TESTHD
 http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",DUBAI
+http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",TELENOVELA
 http://rr.dens.tv/h/h153/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",FILMY
@@ -187,8 +191,6 @@ http://rr.dens.tv/h/h158/index2.m3u8
 http://rr.dens.tv/h/h159/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",RAI ITALIA
 http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",METROTV
-http://rr3.dens.tv/s/s69/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",JTV
 http://rr3.dens.tv/s/s91/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",STAR

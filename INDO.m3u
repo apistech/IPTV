@@ -1,30 +1,40 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="LOKAL",TRANSTV
+#EXTINF:-1 group-title="LOKAL",RCTI HD
+https://alicaur.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV HD
+https://alicaur.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV HD
+https://alicaur.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+#EXTINF:-1 group-title="LOKAL",iNEWS HD
+https://alicaur.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS7
+#EXTINF:-1 group-title="LOKAL",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",MetroTV
+#EXTINF:-1 group-title="LOKAL",MetroTV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/index.m3u8
-#EXTINF:-1 group-title="LOKAL",CNN Indonesia
+#EXTINF:-1 group-title="LOKAL",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",CNBC Indonesia
+#EXTINF:-1 group-title="LOKAL",CNBC Indonesia HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",BERITASATU
+#EXTINF:-1 group-title="LOKAL",BERITASATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",BERITASATU JAKARTA GLOBE NEWS
+#EXTINF:-1 group-title="LOKAL",BERITASATU JAKARTA GLOBE NEWS HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",MOLATV TRIAL
+#EXTINF:-1 group-title="LOKAL",MOLATV TRIAL HD
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 group-title="LOKAL",Biznet Adventure HD
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w174775220_b5256000_slen.m3u8
+#EXTINF:-1 group-title="LOKAL",Biznet Kids HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w15086595_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="LOKAL",Biznet Lifestyle HD
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w1142476716_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="LOKAL",KARAOKE Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",BandungTV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 group-title="LOKAL",JTV Surabaya
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",iNEWS
-https://inews.unregister.xyz/live/inews_fta.m3u8
-#EXTINF:-1 group-title="LOKAL",RCTI
-https://alicaur.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="CBN DENS",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",BLOOMBERG
@@ -195,127 +205,127 @@ http://rr3.dens.tv/s/s63/index2.m3u8
 http://rr3.dens.tv/s/s91/index2.m3u8
 #EXTINF:-1 group-title="CBN DENS",STAR
 http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="MKCTV",Oxygen TV
+#EXTINF:-1 group-title="Oxygen",Oxygen TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=oxygentv
-#EXTINF:-1 group-title="MKCTV",NET.
+#EXTINF:-1 group-title="Oxygen",NET.
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nettv
-#EXTINF:-1 group-title="MKCTV",METRO TV
+#EXTINF:-1 group-title="Oxygen",METRO TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=metrotv
-#EXTINF:-1 group-title="MKCTV",TVRI
+#EXTINF:-1 group-title="Oxygen",TVRI
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvri
-#EXTINF:-1 group-title="MKCTV",SCTV
+#EXTINF:-1 group-title="Oxygen",SCTV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sctv
-#EXTINF:-1 group-title="MKCTV",TRANS TV
+#EXTINF:-1 group-title="Oxygen",TRANS TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=transtv
-#EXTINF:-1 group-title="MKCTV",INDOSIAR
+#EXTINF:-1 group-title="Oxygen",INDOSIAR
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=indosiar
-#EXTINF:-1 group-title="MKCTV",ANTV
+#EXTINF:-1 group-title="Oxygen",ANTV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=antv
-#EXTINF:-1 group-title="MKCTV",TV ONE
+#EXTINF:-1 group-title="Oxygen",TV ONE
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvone
-#EXTINF:-1 group-title="MKCTV",JAKTV
+#EXTINF:-1 group-title="Oxygen",JAKTV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=jaktv
-#EXTINF:-1 group-title="MKCTV",MATRIX TV
+#EXTINF:-1 group-title="Oxygen",MATRIX TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=matrixtv
-#EXTINF:-1 group-title="MKCTV",LEJEL HS
+#EXTINF:-1 group-title="Oxygen",LEJEL HS
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lejelhs
-#EXTINF:-1 group-title="MKCTV",NUSANTARA TV
+#EXTINF:-1 group-title="Oxygen",NUSANTARA TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nusantaratv
-#EXTINF:-1 group-title="MKCTV",KOMPAS TV
+#EXTINF:-1 group-title="Oxygen",KOMPAS TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=kompastv
-#EXTINF:-1 group-title="MKCTV",RTV
+#EXTINF:-1 group-title="Oxygen",RTV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rtv
-#EXTINF:-1 group-title="MKCTV",O CHANNEL
+#EXTINF:-1 group-title="Oxygen",O CHANNEL
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=ochannel
-#EXTINF:-1 group-title="MKCTV",NHK WORLD
+#EXTINF:-1 group-title="Oxygen",NHK WORLD
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nhkworld
-#EXTINF:-1 group-title="MKCTV",PHOENIX HK
+#EXTINF:-1 group-title="Oxygen",PHOENIX HK
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixhongkong
-#EXTINF:-1 group-title="MKCTV",DW TV ASIA
+#EXTINF:-1 group-title="Oxygen",DW TV ASIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=dwenglish
-#EXTINF:-1 group-title="MKCTV",FRANCE 24
+#EXTINF:-1 group-title="Oxygen",FRANCE 24
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=france24
-#EXTINF:-1 group-title="MKCTV",ARIRANG
+#EXTINF:-1 group-title="Oxygen",ARIRANG
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=arirangworld
-#EXTINF:-1 group-title="MKCTV",CCTV4
+#EXTINF:-1 group-title="Oxygen",CCTV4
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cctv4asia
-#EXTINF:-1 group-title="MKCTV",VOA
+#EXTINF:-1 group-title="Oxygen",VOA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=voa
-#EXTINF:-1 group-title="MKCTV",RAI ITALIA
+#EXTINF:-1 group-title="Oxygen",RAI ITALIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=raiitalia
-#EXTINF:-1 group-title="MKCTV",CETV 1
+#EXTINF:-1 group-title="Oxygen",CETV 1
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cetv1
-#EXTINF:-1 group-title="MKCTV",TVE ASIA
+#EXTINF:-1 group-title="Oxygen",TVE ASIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tveasia
-#EXTINF:-1 group-title="MKCTV",TV5MONDE
+#EXTINF:-1 group-title="Oxygen",TV5MONDE
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tv5monde
-#EXTINF:-1 group-title="MKCTV",CGTN DOCUMENTARY
+#EXTINF:-1 group-title="Oxygen",CGTN DOCUMENTARY
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtndocumentary
-#EXTINF:-1 group-title="MKCTV",SALAM TV
+#EXTINF:-1 group-title="Oxygen",SALAM TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=salamtv
-#EXTINF:-1 group-title="MKCTV",RODJA TV
+#EXTINF:-1 group-title="Oxygen",RODJA TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rodjatv
-#EXTINF:-1 group-title="MKCTV",DAAI TV
+#EXTINF:-1 group-title="Oxygen",DAAI TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=daaitv
-#EXTINF:-1 group-title="MKCTV",QUR'AN TV
+#EXTINF:-1 group-title="Oxygen",QUR'AN TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=qurantv
-#EXTINF:-1 group-title="MKCTV",TAWAF TV
+#EXTINF:-1 group-title="Oxygen",TAWAF TV
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tawaftv
-#EXTINF:-1 group-title="MKCTV",BERITA SATU
+#EXTINF:-1 group-title="Oxygen",BERITA SATU
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=beritasatu
-#EXTINF:-1 group-title="MKCTV",iNews
+#EXTINF:-1 group-title="Oxygen",iNews
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=inews
-#EXTINF:-1 group-title="MKCTV",CNBC INDONESIA
+#EXTINF:-1 group-title="Oxygen",CNBC INDONESIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbcindonesia
-#EXTINF:-1 group-title="MKCTV",AL JAZEERA
+#EXTINF:-1 group-title="Oxygen",AL JAZEERA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=aljazeera
-#EXTINF:-1 group-title="MKCTV",PHOENIX CHINESE
+#EXTINF:-1 group-title="Oxygen",PHOENIX CHINESE
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixchinese
-#EXTINF:-1 group-title="MKCTV",CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="Oxygen",CHANNEL NEWS ASIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=channelnewsasia
-#EXTINF:-1 group-title="MKCTV",RUSSIA TODAY
+#EXTINF:-1 group-title="Oxygen",RUSSIA TODAY
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=russiatoday
-#EXTINF:-1 group-title="MKCTV",PHOENIX INFO NEWS
+#EXTINF:-1 group-title="Oxygen",PHOENIX INFO NEWS
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixnews
-#EXTINF:-1 group-title="MKCTV",EURONEWS
+#EXTINF:-1 group-title="Oxygen",EURONEWS
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=euronewsasia
-#EXTINF:-1 group-title="MKCTV",CGTN
+#EXTINF:-1 group-title="Oxygen",CGTN
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtn
-#EXTINF:-1 group-title="MKCTV",TVB NEWS
+#EXTINF:-1 group-title="Oxygen",TVB NEWS
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvbnews
-#EXTINF:-1 group-title="MKCTV",BLOOMBERG
+#EXTINF:-1 group-title="Oxygen",BLOOMBERG
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=bloomberg
-#EXTINF:-1 group-title="MKCTV",CNBC
+#EXTINF:-1 group-title="Oxygen",CNBC
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbc
-#EXTINF:-1 group-title="MKCTV",SINEMA INDONESIA
+#EXTINF:-1 group-title="Oxygen",SINEMA INDONESIA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia
-#EXTINF:-1 group-title="MKCTV",SINEMA INDONESIA X
+#EXTINF:-1 group-title="Oxygen",SINEMA INDONESIA X
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia-x
-#EXTINF:-1 group-title="MKCTV",B4U MOVIES
+#EXTINF:-1 group-title="Oxygen",B4U MOVIES
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umovieindia
-#EXTINF:-1 group-title="MKCTV",XING KONG CHINA
+#EXTINF:-1 group-title="Oxygen",XING KONG CHINA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=xingkong
-#EXTINF:-1 group-title="MKCTV",LOTUS MACAU
+#EXTINF:-1 group-title="Oxygen",LOTUS MACAU
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lotusmacau
-#EXTINF:-1 group-title="MKCTV",Drakor Plus
+#EXTINF:-1 group-title="Oxygen",Drakor Plus
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=drakorplus
-#EXTINF:-1 group-title="MKCTV",K DRAMA
+#EXTINF:-1 group-title="Oxygen",K DRAMA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=k-drama
-#EXTINF:-1 group-title="MKCTV",GO TO LUXE
+#EXTINF:-1 group-title="Oxygen",GO TO LUXE
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=gotoluxe
-#EXTINF:-1 group-title="MKCTV",CHANNEL V CHINA
+#EXTINF:-1 group-title="Oxygen",CHANNEL V CHINA
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=vchina
-#EXTINF:-1 group-title="MKCTV",B4U MUSIC
+#EXTINF:-1 group-title="Oxygen",B4U MUSIC
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umusicindia
-#EXTINF:-1 group-title="MKCTV",SPACETOON
+#EXTINF:-1 group-title="Oxygen",SPACETOON
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=spacetoon
-#EXTINF:-1 group-title="MKCTV",TV EDUKASI
+#EXTINF:-1 group-title="Oxygen",TV EDUKASI
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvedukasi
-#EXTINF:-1 group-title="MKCTV",TOONMAX
+#EXTINF:-1 group-title="Oxygen",TOONMAX
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=toonmax
-#EXTINF:-1 group-title="MKCTV",TVRI SPORT
+#EXTINF:-1 group-title="Oxygen",TVRI SPORT
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvrisport
-#EXTINF:-1 group-title="MKCTV",SPORT ONE
+#EXTINF:-1 group-title="Oxygen",SPORT ONE
 http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sportone
 #EXTINF:-1 group-title="MAXSTREAM",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
@@ -367,259 +377,347 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 group-title="MAXSTREAM",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 group-title="UseeTVGO",Usee Info
-https://cdngb196.useetv.com/joss/15/useeinfo/chunklist_w1008093548_b1344100_sleng_apistech.m3u8?enc=uCfcMQ6OOugboQm1rm955Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641672
-#EXTINF:-1 group-title="UseeTVGO",Usee Photo
-https://cdngb196.useetv.com/joss/15/useephoto/chunklist_w1697663709_b1344100_sleng_apistech.m3u8?enc=Nn_1XLc7hBbm8mdbChjJ1Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641673
-#EXTINF:-1 group-title="UseeTVGO",Usee Prime
-https://cdngb196.useetv.com/joss/15/useeprime/chunklist_w2064043868_b894100_sleng_apistech.m3u8?enc=8z4A05r41pWl0kLt26FXCQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639810
-#EXTINF:-1 group-title="UseeTVGO",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1612643409~acl=/hls-b/ingest_665_*/*~hmac=797b7d7a2cbb353ee3cd618f51e5075f9823980a4d2af8773d922dd16264ffd8/hls-b/ingest_665_480p/index.m3u8
-#EXTINF:-1 group-title="UseeTVGO",MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1612643404~acl=/hls-p/ingest_870_*/*~hmac=43b988dfe30da4290b3d2cbafe4eeb074334d4868f63dba96487b69d4fc2b015/hls-p/ingest_870_360p/index.m3u8
-#EXTINF:-1 group-title="UseeTVGO",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1612643411~acl=/hls-p/ingest_778_*/*~hmac=2b27365fc954b7890abc5e89f33686b7ce5ac7c8d858c5a8ec07b371d3fe4c50/hls-p/ingest_778_360p/index.m3u8
-#EXTINF:-1 group-title="UseeTVGO",iNews
-https://etslive-2-vidio-com.akamaized.net/exp=1612643205~acl=/hls-p/ingest_5409_*/*~hmac=b3f2cf9027794d261bc2af3d37010d9597714ab8a3db8dd002ecc38791be0446/hls-p/ingest_5409_360p/index.m3u8
-#EXTINF:-1 group-title="UseeTVGO",MYTV
-https://etslive-2-vidio-com.akamaized.net/exp=1612643410~acl=/hls-p/ingest_6711_*/*~hmac=f1ab79baa0964f194fa7cb7225ddd2951b1233afd02eebfe6380952049dafc34/hls-p/ingest_6711_360p/index.m3u8
-#EXTINF:-1 group-title="UseeTVGO",TVRI
-https://cdngb196.useetv.com/joss/15/tvri/chunklist_w1942555451_b684100_sleng_apistech.m3u8?enc=e29qzi5U_3qPoCVrKZGmLg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639810
-#EXTINF:-1 group-title="UseeTVGO",Indosiar
-https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w92787258_b684100_sleng_apistech.m3u8?enc=roUwjLYZGXRC89NMCHi9KQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641677
-#EXTINF:-1 group-title="UseeTVGO",JITV
-https://cdngb196.useetv.com/joss/14/jitv/chunklist_w48939163_b684100_sleng_apistech.m3u8?enc=PBZ81Zbur_xv7cOqFhqWHw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639812
-#EXTINF:-1 group-title="UseeTVGO",Kompas TV
-https://cdngb196.useetv.com/joss/15/kompastv/chunklist_w1517849731_b684100_sleng_apistech.m3u8?enc=gzPc1_fbjNasKH1NIRQ0Vw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639812
-#EXTINF:-1 group-title="UseeTVGO",ANTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=antv
-#EXTINF:-1 group-title="UseeTVGO",TVOne
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvone
-#EXTINF:-1 group-title="UseeTVGO",Net.
-https://cdngb196.useetv.com/joss/15/net/chunklist_w774577483_b1344100_sleng_apistech.m3u8?enc=6btU6SqBCnz_RX8LeXbHOQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639813
-#EXTINF:-1 group-title="UseeTVGO",Rajawali TV
-https://cdngb196.useetv.com/joss/14/rtv/chunklist_w1909364158_b684100_sleng_apistech.m3u8?enc=_jmseHmBzYnFBOUAKzI1RQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641679
-#EXTINF:-1 group-title="UseeTVGO",RRI NET
-https://cdngb196.useetv.com/joss/14/rrinet/chunklist_w1863087158_b684100_sleng_apistech.m3u8?enc=JKKRtFCPFg88E3vCUrfOQg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641679
-#EXTINF:-1 group-title="UseeTVGO",SCTV
-https://cdngb196.useetv.com/joss/15/sctv/chunklist_w1972172637_b1344100_sleng_apistech.m3u8?enc=uiDKkelU4NMklfoUuI_pnw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639814
-#EXTINF:-1 group-title="UseeTVGO",Trans7
-https://cdngb196.useetv.com/joss/15/trans7/chunklist_w472806688_b1344100_sleng_apistech.m3u8?enc=LAxwaO2IOad-CZX0FY3oZA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639815
-#EXTINF:-1 group-title="UseeTVGO",TransTV
-https://cdngb196.useetv.com/joss/15/transtv/chunklist_w1007521486_b1344100_sleng_apistech.m3u8?enc=n6aZoSdS62L-0f1OsKZ0VQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639816
-#EXTINF:-1 group-title="UseeTVGO",Antara
-https://cdngb196.useetv.com/joss/14/antara/chunklist_w1234694153_b684100_sleng_apistech.m3u8?enc=dFPEHfLaaXvXjQdSQtv8EA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639816
-#EXTINF:-1 group-title="UseeTVGO",Bali TV
-https://cdngb196.useetv.com/joss/14/balitv/chunklist_w536571699_b684100_sleng_apistech.m3u8?enc=oTW-KuQ2o8_isjEv-6othw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639818
-#EXTINF:-1 group-title="UseeTVGO",Berita Satu
-https://cdngb196.useetv.com/joss/14/beritasatu/chunklist_w387471569_b684100_sleng_apistech.m3u8?enc=AMm0GoazHT5pnGBPqsE64Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639819
-#EXTINF:-1 group-title="UseeTVGO",JakTV
-https://cdngb196.useetv.com/joss/14/jaktv/chunklist_w1243937668_b684100_sleng_apistech.m3u8?enc=DA5_xPhY_L5Ljo1sacAbow&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641685
-#EXTINF:-1 group-title="UseeTVGO",JTV
-https://cdngb196.useetv.com/joss/14/jtv/chunklist_w1061715289_b684100_sleng_apistech.m3u8?enc=xCcIrafn-E91k92SDzFDKQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639820
-#EXTINF:-1 group-title="UseeTVGO",TV Edukasi
-https://cdngb196.useetv.com/joss/14/tvedukasi/chunklist_w1732170199_b684100_sleng_apistech.m3u8?enc=W3N-Kk3HtlsOwnp1yODq1Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639820
-#EXTINF:-1 group-title="UseeTVGO",Daai TV
-https://cdngb196.useetv.com/joss/14/daaitv/chunklist_w1581719617_b684100_sleng_apistech.m3u8?enc=Y5getc58L9PFST1AoX4nqw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639821
-#EXTINF:-1 group-title="UseeTVGO",Insert
-https://cdngb196.useetv.com/joss/14/insert/chunklist_w437678384_b684100_sleng_apistech.m3u8?enc=o29ROlgunaIxXBx9UVeffw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639822
-#EXTINF:-1 group-title="UseeTVGO",NusantaraTV
-https://cdngb196.useetv.com/joss/194/nusantaratv/chunklist_w564530379_b894100_sleng_apistech.m3u8?enc=2CGLja_c5e--nQAqQKuG1g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639822
-#EXTINF:-1 group-title="UseeTVGO",beIN Sport 1
-https://cdngb196.useetv.com/joss/15/bein1/chunklist_w997613785_b1344100_sleng_apistech.m3u8?enc=wEP5pfJ3AlkR2blOdgZ9-Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639823
-#EXTINF:-1 group-title="UseeTVGO",beIN Sport 2
-https://cdngb196.useetv.com/joss/15/bein2/chunklist_w1322565957_b1344100_sleng_apistech.m3u8?enc=wQh_fm52ZfXps3wy5qI0xA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641689
-#EXTINF:-1 group-title="UseeTVGO",NBA
-https://cdngb196.useetv.com/joss/15/nba/chunklist_w111750170_b1344100_sleng_apistech.m3u8?enc=saoTTyb32wuCgHaShv6F8A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639823
-#EXTINF:-1 group-title="UseeTVGO",Champion TV 1
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w108685953_b1344100_sleng_apistech.m3u8?enc=Y3gEURVEx6kzzqVFnMUG8A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639824
-#EXTINF:-1 group-title="UseeTVGO",Champion TV 2
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w1758913736_b1344100_sleng_apistech.m3u8?enc=x5hErOh3qoMESjd174py8w&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639826
-#EXTINF:-1 group-title="UseeTVGO",Fox Sport 1
-https://cdngb196.useetv.com/joss/15/foxsport1/chunklist_w1161476353_b1344100_sleng_apistech.m3u8?enc=mAqfuwyIdXoLaAHHH8E65g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641692
-#EXTINF:-1 group-title="UseeTVGO",Fox Sport 2
-https://cdngb196.useetv.com/joss/15/foxsport2/chunklist_w1120865321_b1344100_sleng_apistech.m3u8?enc=hxolfIxxjYDI7XyCJhogoA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639827
-#EXTINF:-1 group-title="UseeTVGO",Fox Sport 3
-https://cdngb196.useetv.com/joss/15/foxsport3/chunklist_w1993825683_b1344100_sleng_apistech.m3u8?enc=_pvL6cjshlYuQuIgt7iVpw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639827
-#EXTINF:-1 group-title="UseeTVGO",Golf
-https://cdngb196.useetv.com/joss/15/golfplus/chunklist_w168785332_b1344100_sleng_apistech.m3u8?enc=SwJRChiF-nJIlyOEt4QU9Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639828
-#EXTINF:-1 group-title="UseeTVGO",Useesports 1
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1142836785_b1344100_sleng_apistech.m3u8?enc=ONWouvFAIwxzypDvqcvOVQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639829
-#EXTINF:-1 group-title="UseeTVGO",Useesports 2
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w197043172_b1344100_sleng_apistech.m3u8?enc=k9PsvFPxbokRJMSsQX3txw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641695
-#EXTINF:-1 group-title="UseeTVGO",eGG TV
-https://cdngb196.useetv.com/joss/14/egg/chunklist_w559778016_b684100_sleng_apistech.m3u8?enc=i0DD6GHb-ehjYWC-RP4HJw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639838
-#EXTINF:-1 group-title="UseeTVGO",SEA TODAY
-https://cdngb196.useetv.com/joss/15/seatoday/chunklist_w2139811684_b1344100_sleng_apistech.m3u8?enc=etvFNkNDTTKnxmJpr7P56w&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641697
-#EXTINF:-1 group-title="UseeTVGO",Metro TV
-https://cdngb196.useetv.com/joss/15/metrotv/chunklist_w1866627880_b1344100_sleng_apistech.m3u8?enc=B2dpyBjbqhDDUhvxrjJlUw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641698
-#EXTINF:-1 group-title="UseeTVGO",CNBC Indonesia
-https://cdngb196.useetv.com/joss/15/cnbcindonesia/chunklist_w1412626970_b1344100_sleng_apistech.m3u8?enc=GqHzy6xv-zOf-JDTLjp1mQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639833
-#EXTINF:-1 group-title="UseeTVGO",CNBC Asia
-https://cdngb196.useetv.com/joss/14/cnbcasia/chunklist_w676752329_b894100_sleng_apistech.m3u8?enc=NhEfXhOTM_XNolkchQBJ7A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639833
-#EXTINF:-1 group-title="UseeTVGO",Aljazeera
-https://cdngb196.useetv.com/joss/14/aljazeera/chunklist_w918191706_b684100_sleng_apistech.m3u8?enc=31c2kusXg9xtESQtu0Rtvw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641700
-#EXTINF:-1 group-title="UseeTVGO",IDX
-https://cdngb196.useetv.com/joss/14/idx/chunklist_w1703583389_b684100_sleng_apistech.m3u8?enc=Tlc6jaby0DIVqUyC7eIl3Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639835
-#EXTINF:-1 group-title="UseeTVGO",DW (English)
-https://cdngb196.useetv.com/joss/14/dwtv/chunklist_w1056799945_b684100_sleng_apistech.m3u8?enc=cS9ga77ff_8IsDx8MfWihQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639835
-#EXTINF:-1 group-title="UseeTVGO",France 24
-https://cdngb196.useetv.com/joss/14/france24/chunklist_w2104714831_b684100_sleng_apistech.m3u8?enc=67utExs9wYxLaJpNdtbjAw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639836
-#EXTINF:-1 group-title="UseeTVGO",CNA
-https://cdngb196.useetv.com/joss/14/newsasia/chunklist_w1751281402_b684100_sleng_apistech.m3u8?enc=LY-YbAiWkQePPhSNizTL-Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639840
-#EXTINF:-1 group-title="UseeTVGO",TRT World
-https://cdngb196.useetv.com/joss/14/trtworld/chunklist_w1973418488_b894100_sleng_apistech.m3u8?enc=_ovvPtutmbfh3US2d2lqnQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641702
-#EXTINF:-1 group-title="UseeTVGO",CNN Indonesia
-https://cdngb196.useetv.com/joss/15/cnnindonesia/chunklist_w278065125_b1344100_sleng_apistech.m3u8?enc=qG5uoB7S_03AYbj8IuTX-w&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639837
-#EXTINF:-1 group-title="UseeTVGO",CNN International
-error
-#EXTINF:-1 group-title="UseeTVGO",Bloomberg
-https://cdngb196.useetv.com/joss/14/bloomberg/chunklist_w285779772_b684100_sleng_apistech.m3u8?enc=rTm_jmD6stejwGkoDIBauA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639838
-#EXTINF:-1 group-title="UseeTVGO",Euro News
-https://cdngb196.useetv.com/joss/14/euronews/chunklist_w755897048_b684100_sleng_apistech.m3u8?enc=VEK60xXrLbZHdl9NSeQQfw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639839
-#EXTINF:-1 group-title="UseeTVGO",ZBioskop
-https://cdngb196.useetv.com/joss/14/zbioskop/chunklist_w2052947628_b684100_sleng_apistech.m3u8?enc=GyCDxp-iaLWKxEnR4X5g3g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641706
-#EXTINF:-1 group-title="UseeTVGO",Thrill
-https://cdngb196.useetv.com/joss/14/thrill/chunklist_w403320985_b684100_sleng_apistech.m3u8?enc=_AoNTU6nfTXvIlibADwRdg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639841
-#EXTINF:-1 group-title="UseeTVGO",TVN Movies
-https://cdngb196.useetv.com/joss/15/tvnmovies/chunklist_w987650038_b1344100_sleng_apistech.m3u8?enc=iNcJJJVpiSzu1brAHj2TGw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639841
-#EXTINF:-1 group-title="UseeTVGO",Bioskop Indonesia
-https://cdngb196.useetv.com/joss/14/bioskopindonesia/chunklist_w1510579417_b684100_sleng_apistech.m3u8?enc=Ng_8W71-7CqhEzOWJxyuBQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639842
-#EXTINF:-1 group-title="UseeTVGO",Celestial Movie
-https://cdngb196.useetv.com/joss/14/celestialmovie/chunklist_w1013527501_b684100_sleng_apistech.m3u8?enc=pdpsQm5FlwV_v-a_-fer7g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641708
-#EXTINF:-1 group-title="UseeTVGO",Cinema World
-https://cdngb196.useetv.com/joss/14/cinemaworld/chunklist_w1039590498_b684100_sleng_apistech.m3u8?enc=02hG5ZNrKY4jBaZDXPZ9aQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639843
-#EXTINF:-1 group-title="UseeTVGO",Flik
-https://cdngb196.useetv.com/joss/15/flik/chunklist_w194435361_b1344100_sleng_apistech.m3u8?enc=yObACrKkU510ReK1QLh6XQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639845
-#EXTINF:-1 group-title="UseeTVGO",Galaxy Premium
-https://cdngb196.useetv.com/joss/15/galaxypremium/chunklist_w1934884043_b684100_sleng_apistech.m3u8?enc=HW087KH4xVZg9a5YJ-y9uQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641711
-#EXTINF:-1 group-title="UseeTVGO",Galaxy
-https://cdngb196.useetv.com/joss/15/galaxy/chunklist_w1145737703_b684100_sleng_apistech.m3u8?enc=lrGNfaWvOSIec9T73q88zw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639846
-#EXTINF:-1 group-title="UseeTVGO",IMC
-https://cdngb196.useetv.com/joss/14/imc/chunklist_w1313019836_b684100_sleng_apistech.m3u8?enc=Oj3SqbBr2__YTX8Ajw8nsQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641712
-#EXTINF:-1 group-title="UseeTVGO",iKONSER
-https://cdngb196.useetv.com/joss/14/ikonser/chunklist_w456606000_b684100_sleng_apistech.m3u8?enc=cE_JUyz9KuSS6qQKQaXkHQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639805
-#EXTINF:-1 group-title="UseeTVGO",MTV Live
-https://cdngb196.useetv.com/joss/15/mtvlive/chunklist_w1137409033_b1344100_sleng_apistech.m3u8?enc=y9Zkkr2eB48TTggnD8wL7g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639806
-#EXTINF:-1 group-title="UseeTVGO",Citra Dangdut
-https://cdngb196.useetv.com/joss/14/citradangdut/chunklist_w691712712_b684100_sleng_apistech.m3u8?enc=MwMhMF4g8V370KUIBsYcwg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641672
-#EXTINF:-1 group-title="UseeTVGO",Prambors
-https://cdngb196.useetv.com/joss/14/pramborstv/chunklist_w2116387586_b684100_sleng_apistech.m3u8?enc=CU8kQFNLgJFlkOa_y-tW7A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641673
-#EXTINF:-1 group-title="UseeTVGO",Baby First
-https://cdngb196.useetv.com/joss/14/babyfirst/chunklist_w653791738_b684100_sleng_apistech.m3u8?enc=LnNFcKwnsRPLqgFLVYH3DA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639808
-#EXTINF:-1 group-title="UseeTVGO",Horee
-https://cdngb196.useetv.com/joss/14/horee/chunklist_w1449337945_b684100_sleng_apistech.m3u8?enc=K0ZK9mbUNMaho-rk40ZpUQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639812
-#EXTINF:-1 group-title="UseeTVGO",Duck TV
-https://cdngb196.useetv.com/joss/14/ducktv/chunklist_w1784076864_b684100_sleng_apistech.m3u8?enc=a2BAW4QsP81h2sjXDU4Q7Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639812
-#EXTINF:-1 group-title="UseeTVGO",Boomerang
-https://cdngb196.useetv.com/joss/14/boomerang/chunklist_w1531688946_b684100_sleng_apistech.m3u8?enc=F0S18SD8iTr3sb7rotXcgA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639813
-#EXTINF:-1 group-title="UseeTVGO",Cartoon Network
-https://cdngb196.useetv.com/joss/14/cartoonnetwork/chunklist_w207347221_b684100_sleng_apistech.m3u8?enc=7rHb11oCObifltua6XHq3Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639813
-#EXTINF:-1 group-title="UseeTVGO",Dunia Anak
-https://cdngb196.useetv.com/joss/14/duniaanak/chunklist_w1205257234_b684100_sleng_apistech.m3u8?enc=Y87wEQlOETzSwN9LgbZWJw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639814
-#EXTINF:-1 group-title="UseeTVGO",Nick Junior
-https://cdngb196.useetv.com/joss/14/nickjr/chunklist_w1668375217_b684100_sleng_apistech.m3u8?enc=HmCtrb6mOJ3M96WdNgBFiQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639815
-#EXTINF:-1 group-title="UseeTVGO",Nickelodeon
-https://cdngb196.useetv.com/joss/14/nickelodeon/chunklist_w1895169783_b684100_sleng_apistech.m3u8?enc=pelv7rXfe00baq_5a41KyQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639815
-#EXTINF:-1 group-title="UseeTVGO",Da Vinci Learning
-https://cdngb196.useetv.com/joss/14/davinci/chunklist_w356700043_b684100_sleng_apistech.m3u8?enc=RDkToVhLYbNpof4U7SH7TA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639816
-#EXTINF:-1 group-title="UseeTVGO",M Kidz
-https://cdngb196.useetv.com/joss/14/mykids/chunklist_w1108713586_b894100_sleng_apistech.m3u8?enc=eHy2E_y6Zquwr7cVHD3NUw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639817
-#EXTINF:-1 group-title="UseeTVGO",Dreamworks
-https://cdngb196.useetv.com/joss/15/dreamworks/chunklist_w566333526_b1344100_sleng_apistech.m3u8?enc=jmWpSCzxa28d3b1PNJ64Ww&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641683
-#EXTINF:-1 group-title="UseeTVGO",National Geographic
-https://cdngb196.useetv.com/joss/15/natgeo/chunklist_w1693650428_b1344100_sleng_apistech.m3u8?enc=X4cPxScTkc4KrZUcDETk4g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639819
-#EXTINF:-1 group-title="UseeTVGO",Nat Geo People
-https://cdngb196.useetv.com/joss/15/natgeopeople/chunklist_w331185884_b1344100_sleng_apistech.m3u8?enc=SmW9_11VDJMFG6ZcHqyXBw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639820
-#EXTINF:-1 group-title="UseeTVGO",Nat Geo Wild
-https://cdngb196.useetv.com/joss/15/natgeowild/chunklist_w83880233_b1344100_sleng_apistech.m3u8?enc=BcPdkmvmJILICBSFF2WCWQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639820
-#EXTINF:-1 group-title="UseeTVGO",Discovery Channel
-https://cdngb196.useetv.com/joss/15/disco/chunklist_w1174582040_b1344100_sleng_apistech.m3u8?enc=GCMlSbej3udekFhUpLLQWA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639821
-#EXTINF:-1 group-title="UseeTVGO",Crime Investigation
-error
-#EXTINF:-1 group-title="UseeTVGO",CGTN Documentary
-error
-#EXTINF:-1 group-title="UseeTVGO",Lingua
-https://cdngb196.useetv.com/joss/15/lingua/chunklist_w1787173375_b684100_sleng_apistech.m3u8?enc=TFfGoraDWhWOU8QpNok9OQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639821
-#EXTINF:-1 group-title="UseeTVGO",Indihome Shopping
-https://cdngb196.useetv.com/joss/14/indishopping/chunklist_w1820423829_b894100_sleng_apistech.m3u8?enc=twhr8QUN-yhu0UrxbEFSsg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639822
-#EXTINF:-1 group-title="UseeTVGO",M Shop
-https://cdngb196.useetv.com/joss/14/mncshop/chunklist_w914803777_b684100_sleng_apistech.m3u8?enc=-WTAxl6wvRf62HSXL5JBlQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639823
-#EXTINF:-1 group-title="UseeTVGO",Eat & Go
-https://cdngb196.useetv.com/joss/14/eatgo/chunklist_w484747625_b684100_sleng_apistech.m3u8?enc=5MZpskwqCxioEGLvPd1_jw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639824
-#EXTINF:-1 group-title="UseeTVGO",HGTV
-https://cdngb196.useetv.com/joss/15/hgtv/chunklist_w427671833_b1344100_sleng_apistech.m3u8?enc=8AWnzZLT7eOHEHlVueiYnw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639825
-#EXTINF:-1 group-title="UseeTVGO",Asian Food Network
-https://cdngb196.useetv.com/joss/15/afc/chunklist_w172189861_b1344100_sleng_apistech.m3u8?enc=awNDTho68WwD2B7m_Ra7Qw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639827
-#EXTINF:-1 group-title="UseeTVGO",AXN
-https://cdngb196.useetv.com/joss/15/axn/chunklist_w156889101_b1344100_sleng_apistech.m3u8?enc=fEDPENq9_O1Pf7TyFQ52qw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641696
-#EXTINF:-1 group-title="UseeTVGO",Citra Drama
-https://cdngb196.useetv.com/joss/14/cdrama/chunklist_w1490505487_b684100_sleng_apistech.m3u8?enc=W6poh4caEVvrXqdCsHD3Rw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639828
-#EXTINF:-1 group-title="UseeTVGO",Dunia Lain
-https://cdngb196.useetv.com/joss/14/dunialain/chunklist_w1321844316_b684100_sleng_apistech.m3u8?enc=bzqKLqfa8kZWIE6u6q68hg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641694
-#EXTINF:-1 group-title="UseeTVGO",Arirang
-https://cdngb196.useetv.com/joss/14/arirang/chunklist_w1006493919_b684100_sleng_apistech.m3u8?enc=5IU_T70X6iWQNc0PAGe2jg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641694
-#EXTINF:-1 group-title="UseeTVGO",Animax
-https://cdngb196.useetv.com/joss/14/animax/chunklist_w1933135149_b684100_sleng_apistech.m3u8?enc=OQ-dod14al2X11ErgmZHZg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639829
-#EXTINF:-1 group-title="UseeTVGO",TVN
-https://cdngb196.useetv.com/joss/15/tvn/chunklist_w542979647_b1344100_sleng_apistech.m3u8?enc=qnwYbWQECEehX2pSn7Qmvw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639832
-#EXTINF:-1 group-title="UseeTVGO",KBS World
-https://cdngb196.useetv.com/joss/15/kbsworld/chunklist_w1745517964_b1344100_sleng_apistech.m3u8?enc=r9M21h7yMK34AAXTr2HCvA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639833
-#EXTINF:-1 group-title="UseeTVGO",Blue Ant
-error
-#EXTINF:-1 group-title="UseeTVGO",Blue Ant Extreme
-https://cdngb196.useetv.com/joss/14/blueantextreme/chunklist_w1804593259_b684100_sleng_apistech.m3u8?enc=Q5b1VoxZEjj5KfOrhl4_cA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639833
-#EXTINF:-1 group-title="UseeTVGO",ABC Australia
-https://cdngb196.useetv.com/joss/15/abcaustralia/chunklist_w640805946_b684100_sleng_apistech.m3u8?enc=rKAifmjwHVVY6P7YcN0eTQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639834
-#EXTINF:-1 group-title="UseeTVGO",NHK World Premium
-error
-#EXTINF:-1 group-title="UseeTVGO",Chinese Drama
-https://cdngb196.useetv.com/joss/14/chinesedrama/chunklist_w356987254_b684100_sleng_apistech.m3u8?enc=iqfgES_T7Neg3OWaxLwD0A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639834
-#EXTINF:-1 group-title="UseeTVGO",Lifetime
-https://cdngb196.useetv.com/joss/14/lifetime/chunklist_w1671182293_b684100_sleng_apistech.m3u8?enc=iJrdtagsM9kVOEkRouChwA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639835
-#EXTINF:-1 group-title="UseeTVGO",History
-https://cdngb196.useetv.com/joss/15/history/chunklist_w2112989384_b1344100_sleng_apistech.m3u8?enc=UNCHiLv5eB0NYs-m5qYARA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641701
-#EXTINF:-1 group-title="UseeTVGO",Kix
-https://cdngb196.useetv.com/joss/15/kix/chunklist_w2131580544_b1344100_sleng_apistech.m3u8?enc=pCRSrQq6oj6WplDhc-W3gg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639837
-#EXTINF:-1 group-title="UseeTVGO",Waku Waku Japan
-https://cdngb196.useetv.com/joss/15/wakuwaku/chunklist_w784626433_b1344100_sleng_apistech.m3u8?enc=LyM1rDDXtpO6_NfsxvJYBg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639837
-#EXTINF:-1 group-title="UseeTVGO",Warner
-https://cdngb196.useetv.com/joss/15/warner/chunklist_w521453865_b1344100_sleng_apistech.m3u8?enc=zLF4bs0jiU6i4-mqv-Qn2w&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639838
-#EXTINF:-1 group-title="UseeTVGO",Aniplus
-https://cdngb196.useetv.com/joss/14/aniplus/chunklist_w174737114_b684100_sleng_apistech.m3u8?enc=5A6uIjeTNZU78FX-XroZ8A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639838
-#EXTINF:-1 group-title="UseeTVGO",CCTV4
-https://cdngb196.useetv.com/joss/14/cctv4/chunklist_w648627364_b684100_sleng_apistech.m3u8?enc=Voq5lIADzIr-6d2VKVdDkQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639839
-#EXTINF:-1 group-title="UseeTVGO",NHK World Japan
-https://cdngb196.useetv.com/joss/14/nhkworld/chunklist_w2140583331_b684100_sleng_apistech.m3u8?enc=KZk47uGbpXDPvZGMaOVZIw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639841
-#EXTINF:-1 group-title="UseeTVGO",Sony GEM TV
-https://cdngb196.useetv.com/joss/15/sgem/chunklist_w1798871721_b684100_sleng_apistech.m3u8?enc=eTsnwFKdEXe-yBJaiqIWiw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639842
-#EXTINF:-1 group-title="UseeTVGO",Sony One
-https://cdngb196.useetv.com/joss/15/sone/chunklist_w777215818_b684100_sleng_apistech.m3u8?enc=d_kvH4DxiGHo6rSMasRJEA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639843
-#EXTINF:-1 group-title="UseeTVGO",K+
-https://cdngb196.useetv.com/joss/15/kplus/chunklist_w159311828_b1344100_sleng_apistech.m3u8?enc=lXTIs1gPztv0hciQrFddNg&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641706
-#EXTINF:-1 group-title="UseeTVGO",TV5Monde
-https://cdngb196.useetv.com/joss/14/tv5monde/chunklist_w942766972_b684100_sleng_apistech.m3u8?enc=AVb3xOYXZZxSloEh2Soz6A&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639843
-#EXTINF:-1 group-title="UseeTVGO",CTI ASIA
-error
-#EXTINF:-1 group-title="UseeTVGO",EBC ASIA
-error
-#EXTINF:-1 group-title="UseeTVGO",Outdoor CHANNEL
-https://cdngb196.useetv.com/joss/14/outdoor/chunklist_w465660452_b944100_sleng_apistech.m3u8?enc=9ekaEsi1Ot8BO6Mtc2pEdA&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641709
-#EXTINF:-1 group-title="UseeTVGO",El John TV
-https://cdngb196.useetv.com/joss/14/eljohn/chunklist_w1599773152_b944100_sleng_apistech.m3u8?enc=rG8f8KMCkq9ugYsm9vGP0g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639844
-#EXTINF:-1 group-title="UseeTVGO",Rodja TV
-https://cdngb196.useetv.com/joss/14/rodjatv/chunklist_w1739463971_b684100_sleng_apistech.m3u8?enc=BjyvuQ7kG8WVBx2HE15E8g&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639849
-#EXTINF:-1 group-title="UseeTVGO",Tawaf TV
-https://cdngb196.useetv.com/joss/14/tawaftv/chunklist_w825604147_b684100_sleng_apistech.m3u8?enc=yhW4CZmIZGT9Xy5l2bbOoQ&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639847
-#EXTINF:-1 group-title="UseeTVGO",MTA TV
-https://cdngb196.useetv.com/joss/14/mtatv/chunklist_w1839928216_b684100_sleng_apistech.m3u8?enc=IpjqV0pIsHk2sOf6MLgIXw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639848
-#EXTINF:-1 group-title="UseeTVGO",MUI TV
-https://cdngb196.useetv.com/joss/14/muitv/chunklist_w559823173_b684100_sleng_apistech.m3u8?enc=wmOIak7Fzk-0eigWqm-h-Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639845
-#EXTINF:-1 group-title="UseeTVGO",AL Quran AL Kareem
-https://cdngb196.useetv.com/joss/14/alquran/chunklist_w1428650311_b684100_sleng_apistech.m3u8?enc=AeuJZ8xXy-dhJoNW60Qs5Q&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639846
-#EXTINF:-1 group-title="UseeTVGO",MQTV
-https://cdngb196.useetv.com/joss/14/mqtv/chunklist_w69758701_b684100_sleng_apistech.m3u8?enc=dJjyp8k9bggKxSnPQiSORw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612641713
-#EXTINF:-1 group-title="UseeTVGO",TV9 NU
-https://cdngb196.useetv.com/joss/14/tv9/chunklist_w150576314_b684100_sleng_apistech.m3u8?enc=BSNthkByIT_fPjz7yHk73w&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639846
-#EXTINF:-1 group-title="UseeTVGO",Muhammadiyah TV
-https://cdngb196.useetv.com/joss/14/muhammadiyahtv/chunklist_w761977627_b684100_sleng_apistech.m3u8?enc=x1HXgjV48iIOe0ERxrDKSw&uid=NWVmZDg1ZTQ1OTQ0NGQ3OGMwOTVkMGFjZTI5YTE0MjQ=&exp=1612639848
+#EXTINF:-1 group-title="MKCTV",TRANS 7
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7
+#EXTINF:-1 group-title="MKCTV",TRANS TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-transtv
+#EXTINF:-1 group-title="MKCTV",Indosiar
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar
+#EXTINF:-1 group-title="MKCTV",SCTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv
+#EXTINF:-1 group-title="MKCTV",Metro TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-metrotv
+#EXTINF:-1 group-title="MKCTV",NET TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net
+#EXTINF:-1 group-title="MKCTV",Rajawali TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rtv
+#EXTINF:-1 group-title="MKCTV",Berita Satu
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-beritasatu
+#EXTINF:-1 group-title="MKCTV",Kompas TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kompastv
+#EXTINF:-1 group-title="MKCTV",JITV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jitv
+#EXTINF:-1 group-title="MKCTV",Insert
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-insert
+#EXTINF:-1 group-title="MKCTV",ANTARA TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-antara
+#EXTINF:-1 group-title="MKCTV",Ruang Terampil
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeinfo
+#EXTINF:-1 group-title="MKCTV",Usee Photo
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useephoto
+#EXTINF:-1 group-title="MKCTV",Usee Prime
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeprime
+#EXTINF:-1 group-title="MKCTV",BALI TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-balitv
+#EXTINF:-1 group-title="MKCTV",JAK TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jaktv
+#EXTINF:-1 group-title="MKCTV",JTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jtv
+#EXTINF:-1 group-title="MKCTV",TV Edukasi
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi
+#EXTINF:-1 group-title="MKCTV",TVRI
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvri
+#EXTINF:-1 group-title="MKCTV",DAAI TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-daaitv
+#EXTINF:-1 group-title="MKCTV",RRI NET
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rrinet
+#EXTINF:-1 group-title="MKCTV",SCTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-204
+#EXTINF:-1 group-title="MKCTV",Indosiar
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-205
+#EXTINF:-1 group-title="MKCTV",RCTI
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-665
+#EXTINF:-1 group-title="MKCTV",O Channel
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-206
+#EXTINF:-1 group-title="MKCTV",Kompas
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-874
+#EXTINF:-1 group-title="MKCTV",Berita Satu
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6165
+#EXTINF:-1 group-title="MKCTV",MetroTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-777
+#EXTINF:-1 group-title="MKCTV",NET.
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-875
+#EXTINF:-1 group-title="MKCTV",TransTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-733
+#EXTINF:-1 group-title="MKCTV",Trans7
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-734
+#EXTINF:-1 group-title="MKCTV",TVRI
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6441
+#EXTINF:-1 group-title="MKCTV",MNC TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870
+#EXTINF:-1 group-title="MKCTV",Jaktv
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5415
+#EXTINF:-1 group-title="MKCTV",Global TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-778
+#EXTINF:-1 group-title="MKCTV",Rajawali TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-1561
+#EXTINF:-1 group-title="MKCTV",Inews
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5409
+#EXTINF:-1 group-title="MKCTV",O Shop
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6166
+#EXTINF:-1 group-title="MKCTV",MyTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6711
+#EXTINF:-1 group-title="MKCTV",Nusantara TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7432
+#EXTINF:-1 group-title="MKCTV",Daai TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6482
+#EXTINF:-1 group-title="MKCTV",HBO
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hbo
+#EXTINF:-1 group-title="MKCTV",HBO SIGNATURE
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-sig
+#EXTINF:-1 group-title="MKCTV",HBO FAMILY
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-fam
+#EXTINF:-1 group-title="MKCTV",HBO HITS
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hits
+#EXTINF:-1 group-title="MKCTV",HBO RED
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-red
+#EXTINF:-1 group-title="MKCTV",CINEMAX by HBO
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-max
+#EXTINF:-1 group-title="MKCTV",FOX ID
+http://62.210.127.9:25461/SAGNNvCMRU/dbHtEvEDXY/28777?play_token=hq8eRTQGDV&token=GUAKVkRYR1wXUFdTUwBeV1cBVAYEVgUDDgMFUAEDAQdRW1tTVVVUUwQRH0ZEEUpQB19vXQISCgAPAgVUSRVCFwcQPV5TEl9EBAICUQZdDBdKEERdC1USCAYDA1FVBw5SW1tOFUdZAUQPEQpUBFcaGURXSEADQl5TW2pWBhNeVAFAWAxCW1xJRFpdbABSCFlbAhAKFlcSHBBeRkJBX1lCCA5OQFVeRBcHQVYRXhVUCQxfEBwWBV9FXENHS0FfFX4gQE5AUk9EAAhGWlwKFV8aQRUQHBYPQ29AUkZGEQBWWgEQQFgVBxJJRFhSSztUClZbA1FEXQleQxANFwNBSRVaCwwLFlhFbxUPUREJRgVcCgBWEE0=
+#EXTINF:-1 group-title="MKCTV",FOX ACTION MOVIES ID
+http://62.210.127.9:25461/SAGNNvCMRU/dbHtEvEDXY/28775?play_token=DcBDWUdULL&token=GUAKVkRYR1wXAgAHAlAODVUKBAMECQQEVlFTWwYHVFJUBwNRBQQABQERH0ZEEUpQB19vXQISCgAPAgVWSRVCFwcQPV5TEl9EBAICUQZdDBdKEERdC1USCAYDA1FVBw5TUFFOFUdZAUQPEQBWAFQIF0oQVUwSVUJcVlltBwBBXgcHQFhZQlwJShdcXTtTAFVUCFYSDkQBEh4VXEETRw1ZEQ4OThVVWREUVEdWRg1HDAVTBhIYRFNfR1lBQBpHDRUtJkBOFVJIEQNbQFoLWUcCFxJBEhhEWUNtRVBBFxdSVgkHEEANFQBHShdeUhxoBldbCFdTQA9fXkEVDxBSRxsVCQ0MC0NYQjoWXFcRXhVWCgNQBxJJ
+#EXTINF:-1 group-title="MKCTV",FOX MOVIES ID
+http://62.210.127.9:25461/SAGNNvCMRU/dbHtEvEDXY/28774?play_token=FCsWcKY9Wv&token=GUAKVkRYR1wXCgYBD1ZdVAMGAFcHCFUGBQ1QAVJWUVwDUAEFUgddXwURH0ZEEUpQB19vXQISCgAPAgVXSRVCFwcQPV5TEl9EBAICUQZdDBdKEERdC1USCAYDA1FVBw5TUVFOFUdZAUQPEQVTAl0aGURXSEADQl5TW2pWBhNeVAFAWAxCW1xJRFpdbABSCFlbAhAKFlcSHBBeRkJBX1lCCA5OQFVeRBcHQVYRXhVUCQxREBwWBV9FXENHS0FfFX4gQE5AUk9EAAhGWlwKFV8aQRUQHBYPQ29AUkZGEQBWWgEQQFgVBxJJRFhSSztUClZbA1FEXQleQxANFwNBSRVaCwwLFlhFbxUPUREJRgFSCAJETw==
+#EXTINF:-1 group-title="MKCTV",FOX LIFE ID
+http://62.210.127.9:25461/SAGNNvCMRU/dbHtEvEDXY/28776?play_token=H0VbJc59Lp&token=GUAKVkRYR1wXVwNTVVVZVFdXA1JfBVNXUQ0EAAcDA1JVAVQPDgJVVAYRH0ZEEUpQB19vXQISCgAPAgVVSRVCFwcQPV5TEl9EBAICUQZdDBdKEERdC1USCAYDA1FVBw5TU1NOFUdZAUQPEQBWBFABF0oQVUwSVUJcVlltBwBBXgcHQFhZQlwJShdcXTtTAFVUCFYSDkQBEh4VXEETRw1ZEQ4OThVVWREUVEdWRg1HCgJfCxIYRFNfR1lBQBpHDRUtJkBOFVJIEQNbQFoLWUcCFxJBEhhEWUNtRVBBFxdSVgkHEEANFQBHShdeUhxoBldbCFdTQA9fXkEVDxBSRxsVCQ0MC0NYQjoWXFcRXhVWAAVSEE0=
+#EXTINF:-1 group-title="MKCTV",FOX CRIME ID
+http://62.210.127.9:25461/SAGNNvCMRU/dbHtEvEDXY/28779?play_token=bY69Ic6JZP&token=GUAKVkRYR1wXB1VWD1RdVgNRUgJXBlEGVAAHU1UFBVcAAFNWAgVSVQIRH0ZEEUpQB19vXQISCgAPAgVaSRVCFwcQPV5TEl9EBAICUQZdDBdKEERdC1USCAYDA1FVBw5SVFZOFUdZAUQPEQFRAF0aGURXSEADQl5TW2pWBhNeVAFAWAxCW1xJRFpdbABSCFlbAhAKFlcSHBBeRkJBX1lCCA5OQFVeRBcHQVYRXhVXAAdTEBwWBV9FXENHS0FfFX4gQE5AUk9EAAhGWlwKFV8aQRUQHBYPQ29AUkZGEQBWWgEQQFgVBxJJRFhSSztUClZbA1FEXQleQxANFwNBSRVaCwwLFlhFbxUPUREJRgBWCgRETw==
+#EXTINF:-1 group-title="MKCTV",FOX FAMILY MOVIES MY
+http://62.210.127.217:8080/b18StMWnpN/x0sywMTQKc/28678?play_token=uWJWEHd8xj&token=GUAKVkRYR1wXUgAABlQAAl4CCQRTB1ZUBg1QVlQFVlZUUQMAAgZVUAQRH0ZEEUpQB19vXQISCgAPAwVbSRVCFwcQPV5TEl9EAAABVwFQGhlERllZAxIKAwEEAFNUBgZUUU5AR15UR1wXAgdXD1MaGURXSEADQl5TW2pWBhNeVAFAWAxCW1xJRFpdbABSCFlbAhAKFlcSHBBeRkJBX1lCCA5OQFVeRBcHQVYRXhVUCQxfEBwWBV9FXENHS0FfFX4gQE5AUk9EAAhGWlwKFV8aQRUQHBYPQ29AUkZGEQBWWgEQQFgVBxJJRFhSSztUClZbA1FEXQleQxANFwNBSRVaCwwLFlhFbxUPUREJRgZRCwJfEE0=
+#EXTINF:-1 group-title="MKCTV",Citra Bioskop (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6684
+#EXTINF:-1 group-title="MKCTV",Vidio Entertainment (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7352
+#EXTINF:-1 group-title="MKCTV",Citra Entertainment (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6402
+#EXTINF:-1 group-title="MKCTV",Dunia Lain
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dunialain
+#EXTINF:-1 group-title="MKCTV",Citra Drama
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cdrama
+#EXTINF:-1 group-title="MKCTV",Citra Drama (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6401
+#EXTINF:-1 group-title="MKCTV",Citra Dangdut (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6587
+#EXTINF:-1 group-title="MKCTV",Warner
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner
+#EXTINF:-1 group-title="MKCTV",Blue ant entertainmet
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueant
+#EXTINF:-1 group-title="MKCTV",Blue ant extreme
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueantextreme
+#EXTINF:-1 group-title="MKCTV",AXN
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-axn
+#EXTINF:-1 group-title="MKCTV",Chinese Drama
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-chinesedrama
+#EXTINF:-1 group-title="MKCTV",Kix
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kix
+#EXTINF:-1 group-title="MKCTV",Waku Waku Japan
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-wakuwaku
+#EXTINF:-1 group-title="MKCTV",K+
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kplus
+#EXTINF:-1 group-title="MKCTV",Sony GEM TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sgem
+#EXTINF:-1 group-title="MKCTV",Sony One
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sone
+#EXTINF:-1 group-title="MKCTV",Outdoor CHANNEL
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-outdoor
+#EXTINF:-1 group-title="MKCTV",Aniplus
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-aniplus
+#EXTINF:-1 group-title="MKCTV",Animax
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-animax
+#EXTINF:-1 group-title="MKCTV",KBS World
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kbsworld
+#EXTINF:-1 group-title="MKCTV",ABC Australia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-abcaustralia
+#EXTINF:-1 group-title="MKCTV",Lifetime
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lifetime
+#EXTINF:-1 group-title="MKCTV",Ctiasia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ctiasia
+#EXTINF:-1 group-title="MKCTV",CCTV4
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cctv4
+#EXTINF:-1 group-title="MKCTV",NHK World Japan
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nhkworld
+#EXTINF:-1 group-title="MKCTV",Arirang
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-arirang
+#EXTINF:-1 group-title="MKCTV",TV5Monde
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tv5monde
+#EXTINF:-1 group-title="MKCTV",ZBioskop
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-zbioskop
+#EXTINF:-1 group-title="MKCTV",TVN
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvn
+#EXTINF:-1 group-title="MKCTV",TVN MOVIES
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvnmovies
+#EXTINF:-1 group-title="MKCTV",Thrill
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-thrill
+#EXTINF:-1 group-title="MKCTV",Bioskop Indonesia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia
+#EXTINF:-1 group-title="MKCTV",Celestial Movie
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-celestialmovie
+#EXTINF:-1 group-title="MKCTV",Cinema World
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld
+#EXTINF:-1 group-title="MKCTV",Flik
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx
+#EXTINF:-1 group-title="MKCTV",Galaxy
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy
+#EXTINF:-1 group-title="MKCTV",Galaxy Premium
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium
+#EXTINF:-1 group-title="MKCTV",IMC
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc
+#EXTINF:-1 group-title="MKCTV",Smithsonian (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6550
+#EXTINF:-1 group-title="MKCTV",Love Nature (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6635
+#EXTINF:-1 group-title="MKCTV",National Geographic
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeo
+#EXTINF:-1 group-title="MKCTV",Nat Geo People
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeopeople
+#EXTINF:-1 group-title="MKCTV",Nat Geo Wild
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeowild
+#EXTINF:-1 group-title="MKCTV",Discovery Channel
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-disco
+#EXTINF:-1 group-title="MKCTV",CGTN Documentary
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cgtndocumentary
+#EXTINF:-1 group-title="MKCTV",Crime Investigation
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-crimeinvestigation
+#EXTINF:-1 group-title="MKCTV",History
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-history
+#EXTINF:-1 group-title="MKCTV",Lingua
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lingua
+#EXTINF:-1 group-title="MKCTV",Indihome Shopping
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indishopping
+#EXTINF:-1 group-title="MKCTV",M Shop
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mncshop
+#EXTINF:-1 group-title="MKCTV",Eat & Go
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-eatgo
+#EXTINF:-1 group-title="MKCTV",Asian Food Network
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-afc
+#EXTINF:-1 group-title="MKCTV",FASHION TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-fashiontv
+#EXTINF:-1 group-title="MKCTV",FASHION ONE
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-fashionone
+#EXTINF:-1 group-title="MKCTV",HGTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-hgtv
+#EXTINF:-1 group-title="MKCTV",M Kidz
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mykids
+#EXTINF:-1 group-title="MKCTV",HipHip Horee (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7052
+#EXTINF:-1 group-title="MKCTV",Baby First
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-babyfirst
+#EXTINF:-1 group-title="MKCTV",Horee
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-horee
+#EXTINF:-1 group-title="MKCTV",Duck TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ducktv
+#EXTINF:-1 group-title="MKCTV",Boomerang
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-boomerang
+#EXTINF:-1 group-title="MKCTV",Cartoon Network
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cartoonnetwork
+#EXTINF:-1 group-title="MKCTV",Dunia Anak
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-duniaanak
+#EXTINF:-1 group-title="MKCTV",Nick Junior
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickjr
+#EXTINF:-1 group-title="MKCTV",Nickelodeon
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nickelodeon
+#EXTINF:-1 group-title="MKCTV",Da Vinci Learning
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-davinci
+#EXTINF:-1 group-title="MKCTV",Dreamworks
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dreamworks
+#EXTINF:-1 group-title="MKCTV",Zoo Moo (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6533
+#EXTINF:-1 group-title="MKCTV",DaVinci (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6549
+#EXTINF:-1 group-title="MKCTV",Citra Dangdut
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-citradangdut
+#EXTINF:-1 group-title="MKCTV",iKONSER
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-ikonser
+#EXTINF:-1 group-title="MKCTV",MTV Live
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mtvlive
+#EXTINF:-1 group-title="MKCTV",Prambors
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-pramborstv
+#EXTINF:-1 group-title="MKCTV",CNBC Indonesia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnbcindonesia
+#EXTINF:-1 group-title="MKCTV",CNBC Asia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnbcasia
+#EXTINF:-1 group-title="MKCTV",CNN Indonesia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnnindonesia
+#EXTINF:-1 group-title="MKCTV",CNN International
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cnninternational
+#EXTINF:-1 group-title="MKCTV",Aljazeera
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-aljazeera
+#EXTINF:-1 group-title="MKCTV",IDX
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-idx
+#EXTINF:-1 group-title="MKCTV",abc australia
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-abcaustralia
+#EXTINF:-1 group-title="MKCTV",DW (English)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dwtv
+#EXTINF:-1 group-title="MKCTV",France 24
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-france24
+#EXTINF:-1 group-title="MKCTV",TRT World
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trtworld
+#EXTINF:-1 group-title="MKCTV",Bloomberg
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blomberg
+#EXTINF:-1 group-title="MKCTV",EuroNews
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-euronews
+#EXTINF:-1 group-title="MKCTV",Aljazeera (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6410
+#EXTINF:-1 group-title="MKCTV",EuroNews (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6412
+#EXTINF:-1 group-title="MKCTV",DW (English) (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-5075
+#EXTINF:-1 group-title="MKCTV",ABC Australia (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7150
+#EXTINF:-1 group-title="MKCTV",Citra Muslim (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6678
+#EXTINF:-1 group-title="MKCTV",Rodja TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rodjatv
+#EXTINF:-1 group-title="MKCTV",Tawaf TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tawaftv
+#EXTINF:-1 group-title="MKCTV",MTA TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mtatv
+#EXTINF:-1 group-title="MKCTV",MUI TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-muitv
+#EXTINF:-1 group-title="MKCTV",AL Quran AL Kareem
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-alquran
+#EXTINF:-1 group-title="MKCTV",MQTV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-mqtv
+#EXTINF:-1 group-title="MKCTV",TV9 NU
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tv9
+#EXTINF:-1 group-title="MKCTV",Muhammadiyah TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-muhammadiyahtv
+#EXTINF:-1 group-title="MKCTV",Ajwa TV (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-7464
+#EXTINF:-1 group-title="MKCTV",AL Quran AL Kareem (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6852
+#EXTINF:-1 group-title="MKCTV",Reformed 21 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6853
+#EXTINF:-1 group-title="MKCTV",U Channel (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6898
+#EXTINF:-1 group-title="MKCTV",ChampionTV 1 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685
+#EXTINF:-1 group-title="MKCTV",ChampionTV 2 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686
+#EXTINF:-1 group-title="MKCTV",ChampionTV 3 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6786
+#EXTINF:-1 group-title="MKCTV",Champion TV 1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion1
+#EXTINF:-1 group-title="MKCTV",Champion TV 2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion2
+#EXTINF:-1 group-title="MKCTV",UseeSports 1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesport
+#EXTINF:-1 group-title="MKCTV",UseeSports 2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesports2
+#EXTINF:-1 group-title="MKCTV",Bein Sport 1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1
+#EXTINF:-1 group-title="MKCTV",bein Sport 2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2
+#EXTINF:-1 group-title="MKCTV",Fox Sport 1
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport1
+#EXTINF:-1 group-title="MKCTV",Fox Sport 2
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport2
+#EXTINF:-1 group-title="MKCTV",Fox Sport 3
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport3
+#EXTINF:-1 group-title="MKCTV",Golf
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-golfplus
+#EXTINF:-1 group-title="MKCTV",NBA
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nba
+#EXTINF:-1 group-title="MKCTV",eGG TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-egg

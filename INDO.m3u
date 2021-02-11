@@ -1,12 +1,12 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="LOKAL",RCTI HD
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL",MNCTV HD
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL",GTV HD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL",iNEWS HD
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS7 HD
@@ -29,12 +29,6 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w15086595_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="LOKAL",Biznet Lifestyle HD
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w1142476716_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="LOKAL",KARAOKE Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",BandungTV
-http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 group-title="LOKAL",JTV Surabaya
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CBN DENS",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",BLOOMBERG
@@ -255,3 +249,569 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 group-title="MAXSTREAM",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 group-title="Vidio",Indosiar
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",MNC
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",RCTI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",GTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",SCTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Ochannel
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Kompas TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",BeritaSatu
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Metro TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",NET TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",TRANS TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",AJWA TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",TVRI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Trans7
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Jaktv
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",RTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",iNews
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",OShop
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",MyTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",DAAI TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Nusantara TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Champions TV 1
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Champions TV 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Champions TV 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Vidio Entertainment
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",TVN
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Zee Bioskop
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Citra Bioskop
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Citra Drama
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Citra Dangdut
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",ZING
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Citra Entertainment
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Aljazeera
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Euro News
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",DW English
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",ABC Australia
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c20bb2d9a50d5ac1f713f8b34d9aac5a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Hip Hip Horee!
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Zoomoo
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Da Vinci
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Horee
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Smithsonian
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Love Nature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",TV Edukasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Citra Muslim
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Al Quran Al Kareem TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",Reformed 21 TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="Vidio",U-Channel TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="UseeTV",Ruang Trampil
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Usee Photo
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",UseePrime
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",TVRI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97bafc1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",JITV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d1c38a09acc34845c6be3a127a5aacafc1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Kompas TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Net.
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Rajawali TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",RRI NET
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6ac1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Trans7
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefcc1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",TransTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Antara
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Bali TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Berita Satu
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655fc1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",JakTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",JTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21bc1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",TV Edukasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Daai TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="UseeTV",Nusantara TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9c1d12de20210d8c1b35c367536e1c255
+#EXTINF:-1 group-title="VOD",The Reef
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Eiffel I'm in Love
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb699c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Bridge to Terabithia
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33e99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Gerbang Neraka
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fda99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Stand By Me Doraemon
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Kartini
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Soekarno
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Red Cobex
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a2e709146ef3fac9d94e090de6934f9099c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Si Jago Merah
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Tanah Surga... Katanya
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=773b764edf78ca824aa88973530f022799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Calon Bini
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d62199c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Laskar Pelangi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf1803348649299c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Yowis Ben
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab39799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Susah Sinyal
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Sesuai Aplikasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Ngenest
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d5999c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Generasi Micin vs. Kevin
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace81393399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Orang Kaya Baru
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf59999c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Raid
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed5599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Raid 2: Berandal
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f3699c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Underdogs
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Warkop DKI - Godain Kita Dong
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Train to Busan
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Warkop DKI - Malu Malu Mau
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Warkop DKI - Saya Suka Kamu Punya
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Kawin Kontrak
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529ab99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Kawin Kontrak Lagi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9ac99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Kawin Kontrak 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa400270299c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Warkop DKI - Itu Bisa Diatur
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Warkop DKI - Bebas Aturan Main
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Tarix Jabrix
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Tarix Jabrix 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Tarix Jabrix 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",Get Married 5 – 99% Muhrim
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="VOD",The Tarix Jabrix 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="NONTON",& Picture
+https://nonton.site:8443/novi/novi123/31875
+#EXTINF:-1 group-title="NONTON",& Picture HD
+https://nonton.site:8443/novi/novi123/2553
+#EXTINF:-1 group-title="NONTON",&TV HD
+https://nonton.site:8443/novi/novi123/31876
+#EXTINF:-1 group-title="NONTON",&TV HD India
+https://nonton.site:8443/novi/novi123/2554
+#EXTINF:-1 group-title="NONTON",.idku
+https://nonton.site:8443/novi/novi123/36730
+#EXTINF:-1 group-title="NONTON",AFN HD
+https://nonton.site:8443/novi/novi123/807
+#EXTINF:-1 group-title="NONTON",Aljazeera EN
+https://nonton.site:8443/novi/novi123/89
+#EXTINF:-1 group-title="NONTON",Animal Planet HD
+https://nonton.site:8443/novi/novi123/358
+#EXTINF:-1 group-title="NONTON",Animax
+https://nonton.site:8443/novi/novi123/3
+#EXTINF:-1 group-title="NONTON",Aniplus
+https://nonton.site:8443/novi/novi123/2
+#EXTINF:-1 group-title="NONTON",ANTARA TV
+https://nonton.site:8443/novi/novi123/32586
+#EXTINF:-1 group-title="NONTON",ANTV
+https://nonton.site:8443/novi/novi123/31
+#EXTINF:-1 group-title="NONTON",ATV
+https://nonton.site:8443/novi/novi123/29899
+#EXTINF:-1 group-title="NONTON",AXN
+https://nonton.site:8443/novi/novi123/9
+#EXTINF:-1 group-title="NONTON",B4U Movies
+https://nonton.site:8443/novi/novi123/2557
+#EXTINF:-1 group-title="NONTON",B4U Music
+https://nonton.site:8443/novi/novi123/2558
+#EXTINF:-1 group-title="NONTON",Baby First
+https://nonton.site:8443/novi/novi123/1204
+#EXTINF:-1 group-title="NONTON",Baby TV
+https://nonton.site:8443/novi/novi123/296
+#EXTINF:-1 group-title="NONTON",Bali TV
+https://nonton.site:8443/novi/novi123/889
+#EXTINF:-1 group-title="NONTON",BBC Earth
+https://nonton.site:8443/novi/novi123/385
+#EXTINF:-1 group-title="NONTON",BBC Lifestyle HD
+https://nonton.site:8443/novi/novi123/36766
+#EXTINF:-1 group-title="NONTON",BBC World News HD
+https://nonton.site:8443/novi/novi123/789
+#EXTINF:-1 group-title="NONTON",Berita Satu News
+https://nonton.site:8443/novi/novi123/136
+#EXTINF:-1 group-title="NONTON",Bioskop Indonesia
+https://nonton.site:8443/novi/novi123/908
+#EXTINF:-1 group-title="NONTON",Bloomberg
+https://nonton.site:8443/novi/novi123/788
+#EXTINF:-1 group-title="NONTON",Bloomberg TV Asia
+https://nonton.site:8443/novi/novi123/137
+#EXTINF:-1 group-title="NONTON",Blue Ant Entertainment HD
+https://nonton.site:8443/novi/novi123/1506
+#EXTINF:-1 group-title="NONTON",Blue Ant Extreme HD
+https://nonton.site:8443/novi/novi123/811
+#EXTINF:-1 group-title="NONTON",Boomerang ID
+https://nonton.site:8443/novi/novi123/305
+#EXTINF:-1 group-title="NONTON",Cartoon Network ID HD
+https://nonton.site:8443/novi/novi123/680
+#EXTINF:-1 group-title="NONTON",CBeebies
+https://nonton.site:8443/novi/novi123/491
+#EXTINF:-1 group-title="NONTON",CCM
+https://nonton.site:8443/novi/novi123/2118
+#EXTINF:-1 group-title="NONTON",Celestial Movies
+https://nonton.site:8443/novi/novi123/5
+#EXTINF:-1 group-title="NONTON",CGTN News
+https://nonton.site:8443/novi/novi123/15070
+#EXTINF:-1 group-title="NONTON",Channel News Asia
+https://nonton.site:8443/novi/novi123/1191
+#EXTINF:-1 group-title="NONTON",Channel V HD
+https://nonton.site:8443/novi/novi123/766
+#EXTINF:-1 group-title="NONTON",Chinese Drama
+https://nonton.site:8443/novi/novi123/36733
+#EXTINF:-1 group-title="NONTON",Cinema World
+https://nonton.site:8443/novi/novi123/1194
+#EXTINF:-1 group-title="NONTON",Cinemax FHD
+https://nonton.site:8443/novi/novi123/30185
+#EXTINF:-1 group-title="NONTON",Cinemax ID
+https://nonton.site:8443/novi/novi123/2156
+#EXTINF:-1 group-title="NONTON",Cinemax SD
+https://nonton.site:8443/novi/novi123/26599
+#EXTINF:-1 group-title="NONTON",Citra Dangdut
+https://nonton.site:8443/novi/novi123/2207
+#EXTINF:-1 group-title="NONTON",Citra Drama
+https://nonton.site:8443/novi/novi123/905
+#EXTINF:-1 group-title="NONTON",CNBC Indonesia
+https://nonton.site:8443/novi/novi123/1512
+#EXTINF:-1 group-title="NONTON",CNN Indonesia
+https://nonton.site:8443/novi/novi123/44
+#EXTINF:-1 group-title="NONTON",CNN Int
+https://nonton.site:8443/novi/novi123/1200
+#EXTINF:-1 group-title="NONTON",Colors HD
+https://nonton.site:8443/novi/novi123/2548
+#EXTINF:-1 group-title="NONTON",Crime Investigation
+https://nonton.site:8443/novi/novi123/332
+#EXTINF:-1 group-title="NONTON",CTI Asia
+https://nonton.site:8443/novi/novi123/29602
+#EXTINF:-1 group-title="NONTON",Da Vinci Learning
+https://nonton.site:8443/novi/novi123/36729
+#EXTINF:-1 group-title="NONTON",DAAI TV
+https://nonton.site:8443/novi/novi123/21
+#EXTINF:-1 group-title="NONTON",Discovery Asia
+https://nonton.site:8443/novi/novi123/779
+#EXTINF:-1 group-title="NONTON",Discovery Channel HD
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:-1 group-title="NONTON",Discovery Science HD
+https://nonton.site:8443/novi/novi123/408
+#EXTINF:-1 group-title="NONTON",Discovery Shed
+https://nonton.site:8443/novi/novi123/333
+#EXTINF:-1 group-title="NONTON",Discovery Turbo
+https://nonton.site:8443/novi/novi123/462
+#EXTINF:-1 group-title="NONTON",Disney Channel
+https://nonton.site:8443/novi/novi123/306
+#EXTINF:-1 group-title="NONTON",Disney Channel ID
+https://nonton.site:8443/novi/novi123/3479
+#EXTINF:-1 group-title="NONTON",Disney Junior
+https://nonton.site:8443/novi/novi123/213
+#EXTINF:-1 group-title="NONTON",Disney UK
+https://nonton.site:8443/novi/novi123/2336
+#EXTINF:-1 group-title="NONTON",Disney XD
+https://nonton.site:8443/novi/novi123/104
+#EXTINF:-1 group-title="NONTON",DMAX
+https://nonton.site:8443/novi/novi123/483
+#EXTINF:-1 group-title="NONTON",Dream Works HD
+https://nonton.site:8443/novi/novi123/32529
+#EXTINF:-1 group-title="NONTON",Duck TV
+https://nonton.site:8443/novi/novi123/1854
+#EXTINF:-1 group-title="NONTON",Dunia Anak
+https://nonton.site:8443/novi/novi123/907
+#EXTINF:-1 group-title="NONTON",Dunia Lain
+https://nonton.site:8443/novi/novi123/910
+#EXTINF:-1 group-title="NONTON",DW TV Asia
+https://nonton.site:8443/novi/novi123/205
+#EXTINF:-1 group-title="NONTON",Eat & Go
+https://nonton.site:8443/novi/novi123/26979
+#EXTINF:-1 group-title="NONTON",ETTV Asia
+https://nonton.site:8443/novi/novi123/29597
+#EXTINF:-1 group-title="NONTON",Every Good Game
+https://nonton.site:8443/novi/novi123/921
+#EXTINF:-1 group-title="NONTON",Fashion TV
+https://nonton.site:8443/novi/novi123/280
+#EXTINF:-1 group-title="NONTON",FLIK HD
+https://nonton.site:8443/novi/novi123/29592
+#EXTINF:-1 group-title="NONTON",FMN
+https://nonton.site:8443/novi/novi123/11489
+#EXTINF:-1 group-title="NONTON",Formosa
+https://nonton.site:8443/novi/novi123/29601
+#EXTINF:-1 group-title="NONTON",FOX Action Movies FHD
+https://nonton.site:8443/novi/novi123/1478
+#EXTINF:-1 group-title="NONTON",FOX Action Movies HD
+https://nonton.site:8443/novi/novi123/99
+#EXTINF:-1 group-title="NONTON",FOX Crime HD
+https://nonton.site:8443/novi/novi123/763
+#EXTINF:-1 group-title="NONTON",FOX Family Movies ID
+https://nonton.site:8443/novi/novi123/14994
+#EXTINF:-1 group-title="NONTON",FOX HD
+https://nonton.site:8443/novi/novi123/95
+#EXTINF:-1 group-title="NONTON",FOX Life HD
+https://nonton.site:8443/novi/novi123/94
+#EXTINF:-1 group-title="NONTON",FOX Movies HD
+https://nonton.site:8443/novi/novi123/98
+#EXTINF:-1 group-title="NONTON",France 24
+https://nonton.site:8443/novi/novi123/787
+#EXTINF:-1 group-title="NONTON",Galaxy Premium SD
+https://nonton.site:8443/novi/novi123/29603
+#EXTINF:-1 group-title="NONTON",Galaxy SD
+https://nonton.site:8443/novi/novi123/29604
+#EXTINF:-1 group-title="NONTON",HBO Family FHD
+https://nonton.site:8443/novi/novi123/30184
+#EXTINF:-1 group-title="NONTON",HBO Family HD
+https://nonton.site:8443/novi/novi123/592
+#EXTINF:-1 group-title="NONTON",HBO Family SD
+https://nonton.site:8443/novi/novi123/26598
+#EXTINF:-1 group-title="NONTON",HBO FHD
+https://nonton.site:8443/novi/novi123/1496
+#EXTINF:-1 group-title="NONTON",HBO HD
+https://nonton.site:8443/novi/novi123/210
+#EXTINF:-1 group-title="NONTON",HBO Hits FHD
+https://nonton.site:8443/novi/novi123/11492
+#EXTINF:-1 group-title="NONTON",HBO Hits HD
+https://nonton.site:8443/novi/novi123/591
+#EXTINF:-1 group-title="NONTON",HBO Hits SD
+https://nonton.site:8443/novi/novi123/26596
+#EXTINF:-1 group-title="NONTON",HBO SD
+https://nonton.site:8443/novi/novi123/26595
+#EXTINF:-1 group-title="NONTON",HBO Signature FHD
+https://nonton.site:8443/novi/novi123/1498
+#EXTINF:-1 group-title="NONTON",HBO Signature HD
+https://nonton.site:8443/novi/novi123/873
+#EXTINF:-1 group-title="NONTON",HBO Signature SD
+https://nonton.site:8443/novi/novi123/26597
+#EXTINF:-1 group-title="NONTON",HGTV
+https://nonton.site:8443/novi/novi123/537
+#EXTINF:-1 group-title="NONTON",History FHD
+https://nonton.site:8443/novi/novi123/8131
+#EXTINF:-1 group-title="NONTON",History HD
+https://nonton.site:8443/novi/novi123/718
+#EXTINF:-1 group-title="NONTON",HITS HD
+https://nonton.site:8443/novi/novi123/1195
+#EXTINF:-1 group-title="NONTON",Hits Movie SD
+https://nonton.site:8443/novi/novi123/957
+#EXTINF:-1 group-title="NONTON",Hope Channel
+https://nonton.site:8443/novi/novi123/30183
+#EXTINF:-1 group-title="NONTON",Horee
+https://nonton.site:8443/novi/novi123/14106
+#EXTINF:-1 group-title="NONTON",i konser
+https://nonton.site:8443/novi/novi123/29594
+#EXTINF:-1 group-title="NONTON",IMC SD
+https://nonton.site:8443/novi/novi123/35484
+#EXTINF:-1 group-title="NONTON",Indosiar
+https://nonton.site:8443/novi/novi123/1845
+#EXTINF:-1 group-title="NONTON",INEWS HD
+https://nonton.site:8443/novi/novi123/2459
+#EXTINF:-1 group-title="NONTON",Insert
+https://nonton.site:8443/novi/novi123/1763
+#EXTINF:-1 group-title="NONTON",Jak TV
+https://nonton.site:8443/novi/novi123/1210
+#EXTINF:-1 group-title="NONTON",JTV
+https://nonton.site:8443/novi/novi123/135
+#EXTINF:-1 group-title="NONTON",K Drama
+https://nonton.site:8443/novi/novi123/35769
+#EXTINF:-1 group-title="NONTON",K Plus
+https://nonton.site:8443/novi/novi123/18
+#EXTINF:-1 group-title="NONTON",KBS World HD
+https://nonton.site:8443/novi/novi123/15057
+#EXTINF:-1 group-title="NONTON",KIX HD
+https://nonton.site:8443/novi/novi123/8
+#EXTINF:-1 group-title="NONTON",Kompas TV
+https://nonton.site:8443/novi/novi123/30
+#EXTINF:-1 group-title="NONTON",Kontes Nyanyi
+https://nonton.site:8443/novi/novi123/36958
+#EXTINF:-1 group-title="NONTON",Kungfu TV
+https://nonton.site:8443/novi/novi123/29598
+#EXTINF:-1 group-title="NONTON",Life
+https://nonton.site:8443/novi/novi123/1772
+#EXTINF:-1 group-title="NONTON",LifeTime HD
+https://nonton.site:8443/novi/novi123/866
+#EXTINF:-1 group-title="NONTON",Lingua Channel
+https://nonton.site:8443/novi/novi123/14944
+#EXTINF:-1 group-title="NONTON",Love Nature 4K
+https://nonton.site:8443/novi/novi123/36767
+#EXTINF:-1 group-title="NONTON",Metro TV
+https://nonton.site:8443/novi/novi123/52
+#EXTINF:-1 group-title="NONTON",Metro TV HD
+https://nonton.site:8443/novi/novi123/1697
+#EXTINF:-1 group-title="NONTON",MTV
+https://nonton.site:8443/novi/novi123/281
+#EXTINF:-1 group-title="NONTON",MTV Dance
+https://nonton.site:8443/novi/novi123/288
+#EXTINF:-1 group-title="NONTON",MTV LIVE HD
+https://nonton.site:8443/novi/novi123/9110
+#EXTINF:-1 group-title="NONTON",MTV Music
+https://nonton.site:8443/novi/novi123/286
+#EXTINF:-1 group-title="NONTON",My Kidz
+https://nonton.site:8443/novi/novi123/1483
+#EXTINF:-1 group-title="NONTON",Nat Geo HD
+https://nonton.site:8443/novi/novi123/96
+#EXTINF:-1 group-title="NONTON",Nat Geo People HD
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:-1 group-title="NONTON",Nat Geo Wild HD
+https://nonton.site:8443/novi/novi123/97
+#EXTINF:-1 group-title="NONTON",NET TV
+https://nonton.site:8443/novi/novi123/24
+#EXTINF:-1 group-title="NONTON",NET TV FHD
+https://nonton.site:8443/novi/novi123/78
+#EXTINF:-1 group-title="NONTON",NHK World Japan
+https://nonton.site:8443/novi/novi123/785
+#EXTINF:-1 group-title="NONTON",Nick Jr 2
+https://nonton.site:8443/novi/novi123/341
+#EXTINF:-1 group-title="NONTON",Nick Jr ID
+https://nonton.site:8443/novi/novi123/522
+#EXTINF:-1 group-title="NONTON",Nick Toons
+https://nonton.site:8443/novi/novi123/335
+#EXTINF:-1 group-title="NONTON",Nickelodeon ID
+https://nonton.site:8443/novi/novi123/962
+#EXTINF:-1 group-title="NONTON",NRJ Hits TV
+https://nonton.site:8443/novi/novi123/29836
+#EXTINF:-1 group-title="NONTON",ONE African TV
+https://nonton.site:8443/novi/novi123/1731
+#EXTINF:-1 group-title="NONTON",Prambors TV
+https://nonton.site:8443/novi/novi123/1157
+#EXTINF:-1 group-title="NONTON",Rajawali TV
+https://nonton.site:8443/novi/novi123/37
+#EXTINF:-1 group-title="NONTON",Red By HBO HD
+https://nonton.site:8443/novi/novi123/4832
+#EXTINF:-1 group-title="NONTON",Ruang Terampil
+https://nonton.site:8443/novi/novi123/36731
+#EXTINF:-1 group-title="NONTON",Russia Today
+https://nonton.site:8443/novi/novi123/36765
+#EXTINF:-1 group-title="NONTON",S GEM HD
+https://nonton.site:8443/novi/novi123/770
+#EXTINF:-1 group-title="NONTON",SCTV
+https://nonton.site:8443/novi/novi123/32
+#EXTINF:-1 group-title="NONTON",SCTV HD
+https://nonton.site:8443/novi/novi123/931
+#EXTINF:-1 group-title="NONTON",Smithsonian Channel
+https://nonton.site:8443/novi/novi123/35998
+#EXTINF:-1 group-title="NONTON",Sony Max HD
+https://nonton.site:8443/novi/novi123/180
+#EXTINF:-1 group-title="NONTON",Sony ONE
+https://nonton.site:8443/novi/novi123/19
+#EXTINF:-1 group-title="NONTON",Star Chinese Movies HD
+https://nonton.site:8443/novi/novi123/780
+#EXTINF:-1 group-title="NONTON",Star Chinese Movies Legend
+https://nonton.site:8443/novi/novi123/1859
+#EXTINF:-1 group-title="NONTON",Star Jalsha
+https://nonton.site:8443/novi/novi123/2547
+#EXTINF:-1 group-title="NONTON",Star Vijay
+https://nonton.site:8443/novi/novi123/2545
+#EXTINF:-1 group-title="NONTON",Star World
+https://nonton.site:8443/novi/novi123/381
+#EXTINF:-1 group-title="NONTON",SUN Life
+https://nonton.site:8443/novi/novi123/2556
+#EXTINF:-1 group-title="NONTON",SUN Music
+https://nonton.site:8443/novi/novi123/2555
+#EXTINF:-1 group-title="NONTON",Thrill
+https://nonton.site:8443/novi/novi123/4
+#EXTINF:-1 group-title="NONTON",TLC English
+https://nonton.site:8443/novi/novi123/351
+#EXTINF:-1 group-title="NONTON",TLC HD
+https://nonton.site:8443/novi/novi123/352
+#EXTINF:-1 group-title="NONTON",Toonmax
+https://nonton.site:8443/novi/novi123/1116
+#EXTINF:-1 group-title="NONTON",Trans 7
+https://nonton.site:8443/novi/novi123/35
+#EXTINF:-1 group-title="NONTON",Trans 7 FHD
+https://nonton.site:8443/novi/novi123/930
+#EXTINF:-1 group-title="NONTON",Trans TV
+https://nonton.site:8443/novi/novi123/34
+#EXTINF:-1 group-title="NONTON",Trans TV FHD
+https://nonton.site:8443/novi/novi123/929
+#EXTINF:-1 group-title="NONTON",TV 5 Monde Asie
+https://nonton.site:8443/novi/novi123/786
+#EXTINF:-1 group-title="NONTON",TV Edukasi
+https://nonton.site:8443/novi/novi123/36732
+#EXTINF:-1 group-title="NONTON",TV ONE
+https://nonton.site:8443/novi/novi123/29
+#EXTINF:-1 group-title="NONTON",TVN ID
+https://nonton.site:8443/novi/novi123/767
+#EXTINF:-1 group-title="NONTON",tVN Movies HD
+https://nonton.site:8443/novi/novi123/927
+#EXTINF:-1 group-title="NONTON",TVRI
+https://nonton.site:8443/novi/novi123/36
+#EXTINF:-1 group-title="NONTON",U Channel
+https://nonton.site:8443/novi/novi123/1208
+#EXTINF:-1 group-title="NONTON",UTV Bindass
+https://nonton.site:8443/novi/novi123/2544
+#EXTINF:-1 group-title="NONTON",Waku Waku Japan HD
+https://nonton.site:8443/novi/novi123/717
+#EXTINF:-1 group-title="NONTON",Warner TV ID HD
+https://nonton.site:8443/novi/novi123/1533
+#EXTINF:-1 group-title="NONTON",XingXong
+https://nonton.site:8443/novi/novi123/36764
+#EXTINF:-1 group-title="NONTON",Zee Bioskop
+https://nonton.site:8443/novi/novi123/7
+#EXTINF:-1 group-title="NONTON",Zee Bollywood
+https://nonton.site:8443/novi/novi123/2541
+#EXTINF:-1 group-title="NONTON",Zee HD
+https://nonton.site:8443/novi/novi123/2559
+#EXTINF:-1 group-title="NONTON",Zing TV
+https://nonton.site:8443/novi/novi123/813
+#EXTINF:-1 group-title="NONTON",Zoo Moo HD
+https://nonton.site:8443/novi/novi123/14104

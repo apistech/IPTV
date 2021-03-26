@@ -11,6 +11,18 @@ https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="LOKAL",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="LOKAL",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 group-title="LOKAL",MetroTV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/index.m3u8
 #EXTINF:-1 group-title="LOKAL",CNN Indonesia HD
@@ -23,18 +35,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITASATU ENGLISH HD
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1 group-title="LOKAL",INDOSIAR HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="LOKAL",RTV HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="LOKAL",SCTV HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="LOKAL",NET. HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="LOKAL",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="LOKAL",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 group-title="LOKAL",MOLATV FREE HD
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF:-1 group-title="LOKAL",Biznet Adventure HD
@@ -43,390 +43,154 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w15086595_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="LOKAL",Biznet Lifestyle HD
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w1142476716_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="DENSTV",STYLE
-http://rr.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAWORLD
-http://rr.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
-http://rr.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KIX
-http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MOTORVISION
-http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANSTV
-http://rr.dens.tv/h/h11/01.m3u8
-#EXTINF:-1 group-title="DENSTV",METROTV
-http://rr.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",EGG NETWORK
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",LIFESTYLE
-http://rr.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",HITS
-http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AXN
-http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ELSHINTA TV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
 #EXTINF:-1 group-title="DENSTV",AL JAZEERA 1
 http://rr2.dens.tv/s/s16/01.m3u8
 #EXTINF:-1 group-title="DENSTV",AL JAZEERA 2
 http://rr2.dens.tv/s/s17/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANIMAX
+http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="DENSTV",AXN
+http://rr.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BALI TV
+http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",BLOOMBERG
+http://rr.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CCTV4
 http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TV5MONDE
-http://rr2.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CELESTIAL MOVIES
 http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="DENSTV",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="DENSTV",U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CGTN
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CINEMAWORLD
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="DENSTV",DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8
+#EXTINF:-1 group-title="DENSTV",DUBAI
+http://rr.dens.tv/h/h152/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",DWTV
+http://rr2.dens.tv/s/s26/01.m3u8
+#EXTINF:-1 group-title="DENSTV",EGG NETWORK
+http://rr.dens.tv/h/h22/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ELSHINTA TV
+http://rr2.dens.tv/s/s10/01.m3u8
+#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
+http://rr.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="DENSTV",FILMY
+http://rr.dens.tv/h/h154/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",FRANCE24
+http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="DENSTV",HITS
+http://rr.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="DENSTV",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="DENSTV",JTV
+http://rr3.dens.tv/s/s91/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",K+
+http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KIX
+http://rr.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KSA
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
 #EXTINF:-1 group-title="DENSTV",LEJEL
 http://rr2.dens.tv/s/s42/01.m3u8
+#EXTINF:-1 group-title="DENSTV",LIFESTYLE
+http://rr.dens.tv/h/h28/01.m3u8
+#EXTINF:-1 group-title="DENSTV",Live Streaming
+http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENSTV",METROTV
+http://rr.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="DENSTV",MKIDZ
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 group-title="DENSTV",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="DENSTV",MyCINEMA
+http://rr.dens.tv/h/h90/index.m3u8
 #EXTINF:-1 group-title="DENSTV",MyTV
 http://rr2.dens.tv/s/s46/01.m3u8
+#EXTINF:-1 group-title="DENSTV",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="DENSTV",NHK WORLD
+http://rr.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="DENSTV",PHOENIX
+http://rr2.dens.tv/s/s21/01.m3u8
+#EXTINF:-1 group-title="DENSTV",PHOENIX CHINESE
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",Quran TV
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RAI ITALIA
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",RODJATV
+http://rr2.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RT
+http://rr2.dens.tv/s/s23/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RTP
+http://rr2.dens.tv/s/s38/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",SONY GEM
+http://rr.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SONY ONE
+http://rr.dens.tv/h/h143/01.m3u8
+#EXTINF:-1 group-title="DENSTV",STAR
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",STYLE
+http://rr.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="DENSTV",Sunna TV
+http://rr2.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TBN
+http://rr2.dens.tv/s/s39/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TELENOVELA
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TOONMAX
 http://rr2.dens.tv/s/s50/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANS7
-http://rr3.dens.tv/s/s73/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVONE
-http://rr3.dens.tv/s/s81/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SCTV
-http://rr3.dens.tv/s/s83/01.m3u8
-#EXTINF:-1 group-title="DENSTV",INDOSIAR
-http://rr3.dens.tv/s/s84/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANTV
-http://rr3.dens.tv/s/s85/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KOMPAS TV
-http://rr3.dens.tv/s/s86/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr3.dens.tv/s/s87/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="DENSTV",Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s102/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s113/index.m3u8
-#EXTINF:-1 group-title="DENSTV",UA
-http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",TESTHD
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
+http://rr.dens.tv/h/h11/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRT WORLD
 http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",TV5MONDE
+http://rr2.dens.tv/s/s24/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",JTV
-http://rr3.dens.tv/s/s91/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="MAXSTREAM",Bali TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Channel 4U
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",DIGIONE MAXSTREAM
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Dunia Games TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Heroez Arena Jawa Bali
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Hi Indo
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",JAKTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",JTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Magna TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",MAX2U
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",MAXSTREAM Music
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",MCC
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",METRO TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",MTA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",MYTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",RODJA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Ruang Trampil
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",SEA TODAY
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",TechStorm
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",The Indonesia Channel
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",TV Edukasi
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",Usee Photo
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
-#EXTINF:-1 group-title="MAXSTREAM",UseePrime
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 group-title="VIDIO [CODAY]",ABC Australia
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c20bb2d9a50d5ac1f713f8b34d9aac5a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",AJWA TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Al Quran Al Kareem TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Aljazeera
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",BeritaSatu
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Champions TV 1
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Champions TV 2
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Champions TV 3
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Citra Bioskop
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Citra Dangdut
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Citra Drama
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Citra Entertainment
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Citra Muslim
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Da Vinci
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",DAAI TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",DW English
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Euro News
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",GTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Hip Hip Horee!
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Horee
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Indosiar
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",iNews
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Jaktv
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Kompas TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Love Nature
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Metro TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",MNC
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",MyTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",NET TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Nusantara TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Ochannel
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",OShop
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",RCTI
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Reformed 21 TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",RTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",SCTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Smithsonian
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",TRANS TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Trans7
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",TV Edukasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",TVN
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",TVRI
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",U-Channel TV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Vidio Entertainment
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Zee Bioskop
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",ZING
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VIDIO [CODAY]",Zoomoo
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 group-title="VOD [CODAY]",Bridge to Terabithia
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33e99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Calon Bini
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d62199c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Eiffel I'm in Love
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb699c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Generasi Micin vs. Kevin
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace81393399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Gerbang Neraka
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fda99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Get Married 5 – 99% Muhrim
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Kartini
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Kawin Kontrak
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529ab99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Kawin Kontrak 3
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa400270299c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Kawin Kontrak Lagi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9ac99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Laskar Pelangi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf1803348649299c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Ngenest
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d5999c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Orang Kaya Baru
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf59999c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Red Cobex
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a2e709146ef3fac9d94e090de6934f9099c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Sesuai Aplikasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Si Jago Merah
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fce99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Soekarno
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Stand By Me Doraemon
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Susah Sinyal
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Tanah Surga... Katanya
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=773b764edf78ca824aa88973530f022799c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Raid
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed5599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Raid 2: Berandal
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f3699c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Reef
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Tarix Jabrix
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Tarix Jabrix 2
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1c99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Tarix Jabrix 3
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Tarix Jabrix 3
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",The Underdogs
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5ae99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Train to Busan
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Warkop DKI - Bebas Aturan Main
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Warkop DKI - Godain Kita Dong
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Warkop DKI - Itu Bisa Diatur
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Warkop DKI - Malu Malu Mau
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Warkop DKI - Saya Suka Kamu Punya
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 group-title="VOD [CODAY]",Yowis Ben
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab39799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 group-title="DENSTV",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TVRI SPORT
+http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="DENSTV",U CHANNEL
+http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="DENSTV",UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",WION
+http://rr.dens.tv/h/h91/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="VOD MIX",A Shaun the Sheep Movie: Farmageddon (2019)
 https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
 #EXTINF:-1 group-title="VOD MIX",Abominable (2019)

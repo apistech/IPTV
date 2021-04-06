@@ -1,15 +1,15 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="LOKAL",RCTI HD
+#EXTINF:-1 group-title="LOKAL",RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="LOKAL",MNCTV HD
+#EXTINF:-1 group-title="LOKAL",MNCTV
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="LOKAL",GTV HD
+#EXTINF:-1 group-title="LOKAL",GTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="LOKAL",iNEWS HD
+#EXTINF:-1 group-title="LOKAL",iNEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANSTV HD
+#EXTINF:-1 group-title="LOKAL",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS7 HD
+#EXTINF:-1 group-title="LOKAL",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
@@ -23,29 +23,29 @@ http://rr2.dens.tv/s/s08/01.m3u8
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 group-title="LOKAL",ANTV
 http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="LOKAL",MetroTV HD
+#EXTINF:-1 group-title="LOKAL",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/index.m3u8
-#EXTINF:-1 group-title="LOKAL",CNN Indonesia HD
+#EXTINF:-1 group-title="LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",CNBC Indonesia HD
+#EXTINF:-1 group-title="LOKAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL",BERITASATU HD
+#EXTINF:-1 group-title="LOKAL",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 group-title="LOKAL",BERITASATU WORLD HD
+#EXTINF:-1 group-title="LOKAL",BERITASATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="LOKAL",BERITASATU ENGLISH HD
+#EXTINF:-1 group-title="LOKAL",BERITASATU ENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1 group-title="LOKAL",MOLATV FREE HD
+#EXTINF:-1 group-title="LOKAL",MOLATV FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
-#EXTINF:-1 group-title="LOKAL",Biznet Adventure HD
+#EXTINF:-1 group-title="LOKAL",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w174775220_b5256000_slen.m3u8
-#EXTINF:-1 group-title="LOKAL",Biznet Kids HD
+#EXTINF:-1 group-title="LOKAL",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w15086595_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="LOKAL",Biznet Lifestyle HD
+#EXTINF:-1 group-title="LOKAL",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w1142476716_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="DENSTV",AL JAZEERA 1
+#EXTINF:-1 group-title="DENSTV",AL JAZEERA ARABIC
 http://rr2.dens.tv/s/s16/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AL JAZEERA 2
+#EXTINF:-1 group-title="DENSTV",AL JAZEERA ENGLISH
 http://rr2.dens.tv/s/s17/01.m3u8
 #EXTINF:-1 group-title="DENSTV",ANIMAX
 http://rr1.dens.tv/h/h144/01.m3u8
@@ -100,7 +100,7 @@ http://rr.dens.tv/h/h154/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",FRANCE24
 http://rr2.dens.tv/s/s22/01.m3u8
 #EXTINF:-1 group-title="DENSTV",HITS
-http://rr.dens.tv/h/h37/01.m3u8
+http://rr1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 group-title="DENSTV",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 group-title="DENSTV",JTV
@@ -114,13 +114,13 @@ http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
+http://rr3.dens.tv/s/s36/index.m3u8
 #EXTINF:-1 group-title="DENSTV",LEJEL
 http://rr2.dens.tv/s/s42/01.m3u8
 #EXTINF:-1 group-title="DENSTV",LIFESTYLE
-http://rr.dens.tv/h/h28/01.m3u8
+http://rr1.dens.tv/h/h28/01.m3u8
 #EXTINF:-1 group-title="DENSTV",Live Streaming
-http://rr3.dens.tv/s/s37/index2.m3u8
+http://rr3.dens.tv/s/s37/index.m3u8
 #EXTINF:-1 group-title="DENSTV",METROTV
 http://rr.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 group-title="DENSTV",MKIDZ
@@ -165,6 +165,8 @@ http://rr.dens.tv/h/h143/01.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="DENSTV",STYLE
+http://rr.dens.tv/h/h01/index.m3u8
 #EXTINF:-1 group-title="DENSTV",Sunna TV
 http://rr2.dens.tv/s/s27/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TBN
@@ -195,6 +197,8 @@ http://rr2.dens.tv/s/s107/01.m3u8
 http://rr2.dens.tv/s/s41/01.m3u8
 #EXTINF:-1 group-title="DENSTV",UA
 http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",WION
+http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="VOD MIX",A Shaun the Sheep Movie: Farmageddon (2019)

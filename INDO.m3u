@@ -82,8 +82,6 @@ http://rr2.dens.tv/s/s30/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",DEMO
 http://rr2.dens.tv/s/s31/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
 http://rr3.dens.tv/s/s113/index.m3u8
 #EXTINF:-1 group-title="DENSTV",DUBAI
 http://rr.dens.tv/h/h152/index2.m3u8
@@ -114,13 +112,15 @@ http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
+http://rr.dens.tv/h/h97/index.m3u8
 #EXTINF:-1 group-title="DENSTV",LEJEL
 http://rr2.dens.tv/s/s42/01.m3u8
 #EXTINF:-1 group-title="DENSTV",LIFESTYLE
 http://rr1.dens.tv/h/h28/01.m3u8
 #EXTINF:-1 group-title="DENSTV",Live Streaming
 http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENSTV",MCA
+http://rr.dens.tv/h/h93/index.m3u8
 #EXTINF:-1 group-title="DENSTV",METROTV
 http://rr.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 group-title="DENSTV",MKIDZ
@@ -165,8 +165,6 @@ http://rr.dens.tv/h/h143/01.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",STYLE
 http://rr.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="DENSTV",STYLE
-http://rr.dens.tv/h/h01/index.m3u8
 #EXTINF:-1 group-title="DENSTV",Sunna TV
 http://rr2.dens.tv/s/s27/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TBN
@@ -180,13 +178,17 @@ http://rr2.dens.tv/s/s50/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANSTV
-http://rr.dens.tv/h/h11/01.m3u8
+http://rr3.dens.tv/s/s72/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRT WORLD
 http://rr.dens.tv/h/h156/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",TV5MONDE
 http://rr2.dens.tv/s/s24/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",tvN
+http://rr1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 group-title="DENSTV",tvN MOVIES
+http://rr1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVRI
@@ -197,8 +199,6 @@ http://rr2.dens.tv/s/s107/01.m3u8
 http://rr2.dens.tv/s/s41/01.m3u8
 #EXTINF:-1 group-title="DENSTV",UA
 http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",WION
-http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="VOD MIX",A Shaun the Sheep Movie: Farmageddon (2019)

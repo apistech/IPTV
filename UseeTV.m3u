@@ -23,8 +23,6 @@ rtp://@239.1.2.104:9526
 rtp://@239.1.1.128:9218
 #EXTINF:-1 group-title="UseeTV",ANTV
 rtp://@239.1.1.15:8064
-#EXTINF:-1 group-title="UseeTV",ARIRANG
-rtp://@239.1.1.147:8856
 #EXTINF:-1 group-title="UseeTV",Asian Food Network
 rtp://@239.1.2.12:8046
 #EXTINF:-1 group-title="UseeTV",Asian Food Network HD
@@ -53,7 +51,7 @@ rtp://@239.1.1.183:9072
 rtp://@239.1.1.226:9332
 #EXTINF:-1 group-title="UseeTV",BLOOMBERG
 rtp://@239.1.1.199:9168
-#EXTINF:-1 group-title="UseeTV",BLUE ANT  ENTERTAINMENT
+#EXTINF:-1 group-title="UseeTV",BLUE ANT ENTERTAINMENT
 rtp://@239.1.1.141:8820
 #EXTINF:-1 group-title="UseeTV",BLUE ANT ENTERTAINMENT HD
 rtp://@239.1.2.76:9310
@@ -63,14 +61,18 @@ rtp://@239.1.1.134:8778
 rtp://@239.1.1.112:8646
 #EXTINF:-1 group-title="UseeTV",BOOMERANG
 rtp://@239.1.1.73:8412
+#EXTINF:-1 group-title="UseeTV",BOOMERANG HD
+rtp://@239.1.1.163:8084
+#EXTINF:-1 group-title="UseeTV",BTV
+rtp://@239.1.4.97:1234
 #EXTINF:-1 group-title="UseeTV",CARTOON NETWORK
 rtp://@239.1.1.123:8712
+#EXTINF:-1 group-title="UseeTV",CARTOON NETWORK HD
+rtp://@239.1.2.81:8083
 #EXTINF:-1 group-title="UseeTV",CCTV4
 rtp://@239.1.1.115:8664
-#EXTINF:-1 group-title="UseeTV",CELESTIAL MOVIE
+#EXTINF:-1 group-title="UseeTV",CELESTIAL MOVIES
 rtp://@239.1.1.97:8556
-#EXTINF:-1 group-title="UseeTV",CGTN DOCUMENTARY
-rtp://@239.1.1.121:8700
 #EXTINF:-1 group-title="UseeTV",CGTN DOCUMENTARY HD
 rtp://@239.1.2.4:7998
 #EXTINF:-1 group-title="UseeTV",CHAMPIONS TV 1
@@ -147,12 +149,8 @@ rtp://@239.1.1.139:8808
 rtp://@239.1.1.234:9222
 #EXTINF:-1 group-title="UseeTV",DREAMWORKS HD
 rtp://@239.1.2.123:8082
-#EXTINF:-1 group-title="UseeTV",DREAMWORKS HD
-rtp://@239.1.2.195:8009
 #EXTINF:-1 group-title="UseeTV",DRTV
 rtp://@239.1.4.3:1234
-#EXTINF:-1 group-title="UseeTV",DUCK TV
-rtp://@239.1.1.63:8352
 #EXTINF:-1 group-title="UseeTV",Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 group-title="UseeTV",Dunia Lain
@@ -169,10 +167,6 @@ rtp://@239.1.1.50:8274
 rtp://@239.1.2.196:9406
 #EXTINF:-1 group-title="UseeTV",EURONEWS
 rtp://@239.1.1.193:9132
-#EXTINF:-1 group-title="UseeTV",FASHION ONE
-rtp://@239.1.1.127:8736
-#EXTINF:-1 group-title="UseeTV",FASHION ONE HD
-rtp://@239.1.1.14:8058
 #EXTINF:-1 group-title="UseeTV",FASHION TV
 rtp://@239.1.1.79:8448
 #EXTINF:-1 group-title="UseeTV",FASHION TV HD
@@ -189,8 +183,6 @@ rtp://@239.1.1.239:9276
 rtp://@239.1.2.198:9386
 #EXTINF:-1 group-title="UseeTV",FOX
 rtp://@239.1.1.43:8232
-#EXTINF:-1 group-title="UseeTV",FOX HD
-rtp://@239.1.1.247:9440
 #EXTINF:-1 group-title="UseeTV",FOX ACTION MOVIES
 rtp://@239.1.1.125:8724
 #EXTINF:-1 group-title="UseeTV",FOX ACTION MOVIES HD
@@ -203,6 +195,8 @@ rtp://@239.1.2.225:9318
 rtp://@239.1.1.175:9024
 #EXTINF:-1 group-title="UseeTV",FOX FAMILY MOVIES HD
 rtp://@239.1.1.237:9396
+#EXTINF:-1 group-title="UseeTV",FOX HD
+rtp://@239.1.1.247:9440
 #EXTINF:-1 group-title="UseeTV",FOX LIFE
 rtp://@239.1.1.171:9000
 #EXTINF:-1 group-title="UseeTV",FOX LIFE HD
@@ -235,16 +229,12 @@ rtp://@239.1.1.136:8790
 rtp://@239.1.2.240:9390
 #EXTINF:-1 group-title="UseeTV",GALAXY PREMIUM HD
 rtp://@239.1.2.100:9518
-#EXTINF:-1 group-title="UseeTV",GEM
-rtp://@239.1.1.86:8154
 #EXTINF:-1 group-title="UseeTV",GEM HD
 rtp://@239.1.2.18:8082
 #EXTINF:-1 group-title="UseeTV",GOLF +
 rtp://@239.1.1.140:8814
 #EXTINF:-1 group-title="UseeTV",GOLF + HD
 rtp://@239.1.2.214:9214
-#EXTINF:-1 group-title="UseeTV",HBO
-rtp://@239.1.1.95:8544
 #EXTINF:-1 group-title="UseeTV",HBO FAMILY
 rtp://@239.1.1.89:8508
 #EXTINF:-1 group-title="UseeTV",HBO FAMILY HD
@@ -255,8 +245,6 @@ rtp://@239.1.2.202:9176
 rtp://@239.1.1.203:9192
 #EXTINF:-1 group-title="UseeTV",HBO HD DOLBY
 rtp://@239.1.2.114:9428
-#EXTINF:-1 group-title="UseeTV",HBO HITS
-rtp://@239.1.1.91:8520
 #EXTINF:-1 group-title="UseeTV",HBO HITS HD
 rtp://@239.1.1.215:9264
 #EXTINF:-1 group-title="UseeTV",HBO HITS HD DOLBY
@@ -309,6 +297,8 @@ rtp://@239.1.2.33:8172
 rtp://@239.1.2.208:9202
 #EXTINF:-1 group-title="UseeTV",INDOSIAR
 rtp://@239.1.1.17:8076
+#EXTINF:-1 group-title="UseeTV",iNews
+rtp://@239.1.1.212:8967
 #EXTINF:-1 group-title="UseeTV",JAK TV
 rtp://@239.1.1.107:8616
 #EXTINF:-1 group-title="UseeTV",JITV
@@ -323,6 +313,8 @@ rtp://@239.1.2.212:9208
 rtp://@239.1.1.6:8010
 #EXTINF:-1 group-title="UseeTV",JTV Surabaya
 rtp://@239.1.2.129:8088
+#EXTINF:-1 group-title="UseeTV",JTV Surabaya
+rtp://@239.1.2.193:8008
 #EXTINF:-1 group-title="UseeTV",K PLUS
 rtp://@239.1.1.242:9426
 #EXTINF:-1 group-title="UseeTV",K PLUS HD
@@ -353,6 +345,8 @@ rtp://@239.1.2.90:9500
 rtp://@239.1.1.19:8088
 #EXTINF:-1 group-title="UseeTV",Metro TV HD
 rtp://@239.1.2.2:7986
+#EXTINF:-1 group-title="UseeTV",MNC NEWS
+rtp://@239.1.1.146:7985
 #EXTINF:-1 group-title="UseeTV",MNC SHOP 1
 rtp://@239.1.2.54:8298
 #EXTINF:-1 group-title="UseeTV",MNC SHOP 2
@@ -375,8 +369,6 @@ rtp://@239.1.1.254:9338
 rtp://@239.1.1.169:8988
 #EXTINF:-1 group-title="UseeTV",NAT GEO CHANNEL
 rtp://@239.1.2.121:8080
-#EXTINF:-1 group-title="UseeTV",NAT GEO CHANNEL
-rtp://@239.1.2.193:8008
 #EXTINF:-1 group-title="UseeTV",NAT GEO CHANNEL HD
 rtp://@239.1.1.243:9432
 #EXTINF:-1 group-title="UseeTV",NAT GEO PEOPLE
@@ -387,8 +379,6 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.1.35:8184
 #EXTINF:-1 group-title="UseeTV",NAT GEO WILD HD
 rtp://@239.1.1.207:9216
-#EXTINF:-1 group-title="UseeTV",NAT GEO WILD HD
-rtp://@239.1.2.28:8064
 #EXTINF:-1 group-title="UseeTV",NBA HD
 rtp://@239.1.1.49:8268
 #EXTINF:-1 group-title="UseeTV",NBA HD
@@ -407,19 +397,21 @@ rtp://@239.1.1.165:8964
 rtp://@239.1.1.174:9018
 #EXTINF:-1 group-title="UseeTV",NICK JR
 rtp://@239.1.1.159:8928
+#EXTINF:-1 group-title="UseeTV",NICK JR HD
+rtp://@239.1.4.96:1234
 #EXTINF:-1 group-title="UseeTV",NICKELODEON
 rtp://@239.1.1.41:8220
+#EXTINF:-1 group-title="UseeTV",NICKELODEON HD
+rtp://@239.1.4.95:1234
 #EXTINF:-1 group-title="UseeTV",NUSANTARA TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 group-title="UseeTV",Panda TV HD
 rtp://@239.1.1.208:9502
 #EXTINF:-1 group-title="UseeTV",PRAMBORS
 rtp://@239.1.1.227:9336
-#EXTINF:-1 group-title="UseeTV",R Channel
-rtp://@239.1.2.86:8304
-#EXTINF:-1 group-title="UseeTV",RED
+#EXTINF:-1 group-title="UseeTV",RED by HBO
 rtp://@239.1.1.114:8658
-#EXTINF:-1 group-title="UseeTV",RED HD
+#EXTINF:-1 group-title="UseeTV",RED by HBO HD
 rtp://@239.1.1.133:8772
 #EXTINF:-1 group-title="UseeTV",Rodja TV
 rtp://@239.1.1.224:9320
@@ -431,6 +423,8 @@ rtp://@239.1.1.69:8388
 rtp://@239.1.1.126:8730
 #EXTINF:-1 group-title="UseeTV",Ruang Terampil HD
 rtp://@239.1.1.111:8640
+#EXTINF:-1 group-title="UseeTV",S GEM
+rtp://@239.1.1.86:8154
 #EXTINF:-1 group-title="UseeTV",S ONE
 rtp://@239.1.1.172:9006
 #EXTINF:-1 group-title="UseeTV",S ONE HD
@@ -443,6 +437,8 @@ rtp://@239.1.1.21:8100
 rtp://@239.1.2.58:8324
 #EXTINF:-1 group-title="UseeTV",SEA TODAY
 rtp://@239.1.2.68:8384
+#EXTINF:-1 group-title="UseeTV",SEA TODAY HD
+rtp://@239.1.1.127:8704
 #EXTINF:-1 group-title="UseeTV",SEA TODAY HD
 rtp://@239.1.2.70:8396
 #EXTINF:-1 group-title="UseeTV",Shenzen International
@@ -487,6 +483,8 @@ rtp://@239.1.1.55:8300
 rtp://@239.1.1.150:8874
 #EXTINF:-1 group-title="UseeTV",TV9 Nusantara
 rtp://@239.1.2.131:8090
+#EXTINF:-1 group-title="UseeTV",TV9 Nusantara
+rtp://@239.1.2.195:8009
 #EXTINF:-1 group-title="UseeTV",TVBS
 rtp://@239.1.2.118:9410
 #EXTINF:-1 group-title="UseeTV",tvN

@@ -64,7 +64,7 @@ rtp://@239.1.1.73:8412
 #EXTINF:-1 group-title="UseeTV",BOOMERANG HD
 rtp://@239.1.1.163:8084
 #EXTINF:-1 group-title="UseeTV",BTV
-rtp://@239.1.4.97:1234
+rtp://@239.1.1.12:7984
 #EXTINF:-1 group-title="UseeTV",CARTOON NETWORK
 rtp://@239.1.1.123:8712
 #EXTINF:-1 group-title="UseeTV",CARTOON NETWORK HD
@@ -229,8 +229,6 @@ rtp://@239.1.1.136:8790
 rtp://@239.1.2.240:9390
 #EXTINF:-1 group-title="UseeTV",GALAXY PREMIUM HD
 rtp://@239.1.2.100:9518
-#EXTINF:-1 group-title="UseeTV",GEM HD
-rtp://@239.1.2.18:8082
 #EXTINF:-1 group-title="UseeTV",GOLF +
 rtp://@239.1.1.140:8814
 #EXTINF:-1 group-title="UseeTV",GOLF + HD
@@ -271,7 +269,7 @@ rtp://@239.1.1.68:8382
 rtp://@239.1.2.222:9256
 #EXTINF:-1 group-title="UseeTV",i Konser HD
 rtp://@239.1.2.221:9250
-#EXTINF:-1 group-title="UseeTV",IDX HD
+#EXTINF:-1 group-title="UseeTV",IDX
 rtp://@239.1.2.248:9398
 #EXTINF:-1 group-title="UseeTV",IMC
 rtp://@239.1.2.20:8094
@@ -398,11 +396,11 @@ rtp://@239.1.1.174:9018
 #EXTINF:-1 group-title="UseeTV",NICK JR
 rtp://@239.1.1.159:8928
 #EXTINF:-1 group-title="UseeTV",NICK JR HD
-rtp://@239.1.4.96:1234
+rtp://@239.1.1.162:7983
 #EXTINF:-1 group-title="UseeTV",NICKELODEON
 rtp://@239.1.1.41:8220
 #EXTINF:-1 group-title="UseeTV",NICKELODEON HD
-rtp://@239.1.4.95:1234
+rtp://@239.1.1.14:7982
 #EXTINF:-1 group-title="UseeTV",NUSANTARA TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 group-title="UseeTV",Panda TV HD
@@ -425,6 +423,8 @@ rtp://@239.1.1.126:8730
 rtp://@239.1.1.111:8640
 #EXTINF:-1 group-title="UseeTV",S GEM
 rtp://@239.1.1.86:8154
+#EXTINF:-1 group-title="UseeTV",S GEM HD
+rtp://@239.1.2.18:8082
 #EXTINF:-1 group-title="UseeTV",S ONE
 rtp://@239.1.1.172:9006
 #EXTINF:-1 group-title="UseeTV",S ONE HD

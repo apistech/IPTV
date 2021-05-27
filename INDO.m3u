@@ -1,4 +1,84 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="LOKAL",ABC AUSTRALIA [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7150_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",AJWA TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7464_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ALJAZEERA [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6410_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITASATU [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",CITRA BIOSKOP [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",CITRA DANGDUT [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",CITRA DRAMA [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",CITRA ENTERTANTMENT [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6402_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",CITRA MUSLIM [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",DA VINCI [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6549_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",DAAI TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",DW [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",EURONEWS [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6412_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",HIP HIP HOREE! [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",HOREE! [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",INEWS [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",JAKTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",KOMPASTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",LOVE NATURE [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6635_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",METROTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MOLA TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6840_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MYTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",NET. [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",NUSANTARA TV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7432_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",O-CHANNEL [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_1561_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",SMITHSONIAN [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7 [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANSTV [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TV EDUKASI [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",tvN [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ZEE BIOSKOP [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ZING [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL",ZOO MOO [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6533_720p/index.m3u8
 #EXTINF:-1 group-title="LOKAL",RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="LOKAL",MNCTV

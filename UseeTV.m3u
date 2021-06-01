@@ -149,8 +149,6 @@ rtp://@239.1.1.139:8808
 rtp://@239.1.1.234:9222
 #EXTINF:-1 group-title="UseeTV",DREAMWORKS HD
 rtp://@239.1.2.123:8082
-#EXTINF:-1 group-title="UseeTV",DRTV
-rtp://@239.1.4.3:1234
 #EXTINF:-1 group-title="UseeTV",Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 group-title="UseeTV",Dunia Lain
@@ -233,6 +231,8 @@ rtp://@239.1.2.100:9518
 rtp://@239.1.1.140:8814
 #EXTINF:-1 group-title="UseeTV",GOLF + HD
 rtp://@239.1.2.214:9214
+#EXTINF:-1 group-title="UseeTV",HBO
+rtp://@239.1.1.95:8544
 #EXTINF:-1 group-title="UseeTV",HBO FAMILY
 rtp://@239.1.1.89:8508
 #EXTINF:-1 group-title="UseeTV",HBO FAMILY HD
@@ -243,6 +243,8 @@ rtp://@239.1.2.202:9176
 rtp://@239.1.1.203:9192
 #EXTINF:-1 group-title="UseeTV",HBO HD DOLBY
 rtp://@239.1.2.114:9428
+#EXTINF:-1 group-title="UseeTV",HBO HITS
+rtp://@239.1.1.91:8520
 #EXTINF:-1 group-title="UseeTV",HBO HITS HD
 rtp://@239.1.1.215:9264
 #EXTINF:-1 group-title="UseeTV",HBO HITS HD DOLBY
@@ -269,7 +271,7 @@ rtp://@239.1.1.68:8382
 rtp://@239.1.2.222:9256
 #EXTINF:-1 group-title="UseeTV",i Konser HD
 rtp://@239.1.2.221:9250
-#EXTINF:-1 group-title="UseeTV",IDX
+#EXTINF:-1 group-title="UseeTV",IDX HD
 rtp://@239.1.2.248:9398
 #EXTINF:-1 group-title="UseeTV",IMC
 rtp://@239.1.2.20:8094
@@ -299,8 +301,6 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.212:8967
 #EXTINF:-1 group-title="UseeTV",JAK TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 group-title="UseeTV",JITV
-rtp://@239.1.1.238:9400
 #EXTINF:-1 group-title="UseeTV",JOWO CHANNEL
 rtp://@239.1.2.6:8000
 #EXTINF:-1 group-title="UseeTV",JOWO CHANNEL HD
@@ -469,8 +469,6 @@ rtp://@239.1.1.27:8136
 rtp://@239.1.1.194:9138
 #EXTINF:-1 group-title="UseeTV",TRT WORLD
 rtp://@239.1.2.84:8296
-#EXTINF:-1 group-title="UseeTV",TTV
-rtp://@239.1.3.251:1234
 #EXTINF:-1 group-title="UseeTV",TV EDUKASI
 rtp://@239.1.1.39:8208
 #EXTINF:-1 group-title="UseeTV",TV Muhammadiyah

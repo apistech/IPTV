@@ -127,16 +127,12 @@ http://rr1.dens.tv/h/h144/01.m3u8
 http://rr1.dens.tv/h/h02/01.m3u8
 #EXTINF:-1 group-title="DENSTV",ANTV
 http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANTV
-http://rr3.dens.tv/s/s85/01.m3u8
 #EXTINF:-1 group-title="DENSTV",AXN
-http://rr.dens.tv/h/h141/01.m3u8
+http://rr1.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 group-title="DENSTV",BALI TV
 http://rr.dens.tv/h/h159/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr3.dens.tv/s/s87/01.m3u8
+http://rr1.dens.tv/h/h03/01.m3u8
 #EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
 http://rr1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
@@ -152,7 +148,7 @@ http://rr.dens.tv/h/h29/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
 http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CINEMAWORLD
-http://rr.dens.tv/h/h04/01.m3u8
+http://rr1.dens.tv/h/h04/01.m3u8
 #EXTINF:-1 group-title="DENSTV",DAAI TV
 http://rr2.dens.tv/s/s13/01.m3u8
 #EXTINF:-1 group-title="DENSTV",DEMO
@@ -160,7 +156,7 @@ http://rr2.dens.tv/s/s30/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",DEMO
 http://rr2.dens.tv/s/s31/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s113/index.m3u8
+http://rr3.dens.tv/s/s35/index.m3u8
 #EXTINF:-1 group-title="DENSTV",DUBAI
 http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",DWTV
@@ -175,34 +171,30 @@ http://rr.dens.tv/h/h05/01.m3u8
 http://rr.dens.tv/h/h154/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",FRANCE24
 http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="DENSTV",GOLF
+http://rr1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="DENSTV",HITS
 http://rr1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 group-title="DENSTV",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",INDOSIAR
-http://rr3.dens.tv/s/s84/01.m3u8
+#EXTINF:-1 group-title="DENSTV",JAKTV
+http://rr3.dens.tv/s/s46/index.m3u8
 #EXTINF:-1 group-title="DENSTV",JTV
 http://rr3.dens.tv/s/s91/index.m3u8
 #EXTINF:-1 group-title="DENSTV",K+
 http://rr.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KIX
-http://rr.dens.tv/h/h07/01.m3u8
+http://rr1.dens.tv/h/h07/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KOMPAS TV
 http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",Learning&Knowledge
 http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="DENSTV",LEJEL
-http://rr2.dens.tv/s/s42/01.m3u8
 #EXTINF:-1 group-title="DENSTV",LIFESTYLE
 http://rr1.dens.tv/h/h28/01.m3u8
 #EXTINF:-1 group-title="DENSTV",Live Streaming
 http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MCA
-http://rr.dens.tv/h/h93/index.m3u8
 #EXTINF:-1 group-title="DENSTV",METROTV
 http://rr.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 group-title="DENSTV",MKIDZ
@@ -235,8 +227,6 @@ http://rr2.dens.tv/s/s38/01.m3u8
 http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:-1 group-title="DENSTV",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SCTV
-http://rr3.dens.tv/s/s83/01.m3u8
 #EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
 http://rr2.dens.tv/s/s29/01.m3u8
 #EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
@@ -261,8 +251,6 @@ http://rr2.dens.tv/s/s34/01.m3u8
 http://rr2.dens.tv/s/s50/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANS7
-http://rr3.dens.tv/s/s73/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANSTV
 http://rr3.dens.tv/s/s72/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRT WORLD
@@ -277,8 +265,6 @@ http://rr1.dens.tv/h/h20/01.m3u8
 http://rr1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVONE
 http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVONE
-http://rr3.dens.tv/s/s81/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVRI
 http://rr2.dens.tv/s/s11/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVRI SPORT

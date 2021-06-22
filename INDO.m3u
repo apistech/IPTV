@@ -233,104 +233,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
 #EXTINF:-1 group-title="MAXSTREAM",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 group-title="Fptplay", Animal Plannet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Arirang
-https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", BBC World News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Fptplay", BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Channel Newsasia
-https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Channel V
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Davinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Discovery Channel
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", DW
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Sports 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Fptplay", Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", France24
-https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", National Geographic Chanel - NGC
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", NHK World Japan
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", TV5 Monde
-https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", An Ninh
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Quốc Phòng VN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", Nhân Dân
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fptplay", VOV TV
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO
-https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Family
-https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Hits
-https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Signature
-https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
-#EXTINF:-1 group-title="PREMIUM",CINEMAX
-https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8
-#EXTINF:-1 group-title="PREMIUM",RED by HBO
-https://raw.githubusercontent.com/apistech/IPTV/master/red.m3u8
-#EXTINF:-1 group-title="PREMIUM",Discovery Channel
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo People
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="PREMIUM",Animal Planet
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Celestial Classic Movies
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Celestial Movies
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",FOX ACTION MOVIES
@@ -343,69 +253,73 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",FOX MOVIES
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Sport 1
+#EXTINF:-1 group-title="PREMIUM",FOX SPORT 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Sport 2
+#EXTINF:-1 group-title="PREMIUM",FOX SPORT 2
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Sport 3
+#EXTINF:-1 group-title="PREMIUM",FOX SPORT 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Family
+http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HGTV
+http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",History Channel
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Hits
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Hits Movie
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",iQiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Lifetime
+http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",OH!K
+http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",S One
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",THRILL
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Celestial
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Celestial CCM
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro AOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Awani
-http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Ceria
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Huahee
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Quanjia
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Shuangxing
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",ASTRO SUPER SPORT 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",ASTRO SUPER SPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",ASTRO SUPER SPORT 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",ASTRO SUPER SPORT 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Astro Xiaotaiyang
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Boo
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Hello
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",iQiyi
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV8
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",TVB Xinhe
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",tvN
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO
+https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Family
+https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Hits
+https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
+https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
+#EXTINF:-1 group-title="PREMIUM",CINEMAX
+https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8
+#EXTINF:-1 group-title="PREMIUM",RED by HBO
+https://raw.githubusercontent.com/apistech/IPTV/master/red.m3u8
+#EXTINF:-1 group-title="PREMIUM",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="PREMIUM",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="PREMIUM",Discovery Channel
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="PREMIUM",Nat Geo
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="PREMIUM",Nat Geo People
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0

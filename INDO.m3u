@@ -119,8 +119,6 @@ https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-1561
 #EXTINF:-1 group-title="VIDIO",SCTV
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-204
-#EXTINF:-1 group-title="VIDIO",SEA TODAY
-https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-7687
 #EXTINF:-1 group-title="VIDIO",SMITHSONIAN
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-6550
 #EXTINF:-1 group-title="VIDIO",TRANS7
@@ -439,7 +437,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",National Geographic Chanel - NGC
+#EXTINF:-1 group-title="PREMIUM",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
@@ -461,14 +459,6 @@ https://raw.githubusercontent.com/apistech/IPTV/master/red.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",Discovery Channel
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="PREMIUM",Nat Geo People
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #EXTINF:-1 group-title="SPORT",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",Astro Supersport 2
@@ -477,6 +467,8 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",Astro Supersport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",EURO 2020
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 group-title="SPORT",FOX SPORT 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",FOX SPORT 2

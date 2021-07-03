@@ -343,12 +343,20 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 group-title="PREMIUM",Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",ANIMAX
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Asia Food Network
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Celestial Classic Movies
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Celestial Movies
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Disney Junior
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Disney XD
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",FOX ACTION MOVIES
@@ -369,26 +377,20 @@ http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Disney XD
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Disney Junior
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Nickelodeon
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Nick Jr
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Hello
 http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HGTV
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",History Channel
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Hits
+#EXTINF:-1 group-title="PREMIUM",HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Hits Movie
+#EXTINF:-1 group-title="PREMIUM",HITS Movie
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",iQiyi
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",KBS
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",KiX
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Lifetime
@@ -397,12 +399,16 @@ http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Nat Geo Wild
-http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",National Geographic
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Nick Jr
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",OH!K
 http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",S One
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",S One
 http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",THRILL
@@ -411,6 +417,8 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",tvN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",tvN Movie
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Warner TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Animal Planet

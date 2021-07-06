@@ -47,7 +47,7 @@ https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/index
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
 #EXTINF:-1 group-title="FREE TO AIR",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",METRO TV 
+#EXTINF:-1 group-title="FREE TO AIR",METRO TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
 #EXTINF:-1 group-title="FREE TO AIR",NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/index.m3u8
@@ -59,40 +59,18 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/index.m
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/904cb9e0-ed59-457d-8cc0-4d9a919e7fc1/3.m3u8
 #EXTINF:-1 group-title="FREE TO AIR",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="VIDIO",ABC AUSTRALIA
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7150.m3u8
 #EXTINF:-1 group-title="VIDIO",AJWA TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7464.m3u8
 #EXTINF:-1 group-title="VIDIO",AL QURAN AL KAREEM
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6852.m3u8
-#EXTINF:-1 group-title="VIDIO",ALJAZEERA
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6410.m3u8
 #EXTINF:-1 group-title="VIDIO",BERITASATU
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
-#EXTINF:-1 group-title="VIDIO",CITRA BIOSKOP
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6684.m3u8
-#EXTINF:-1 group-title="VIDIO",CITRA DANGDUT
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6587.m3u8
-#EXTINF:-1 group-title="VIDIO",CITRA DRAMA
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6401.m3u8
-#EXTINF:-1 group-title="VIDIO",CITRA ENTERTANTMENT
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6402.m3u8
-#EXTINF:-1 group-title="VIDIO",CITRA MUSLIM
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6678.m3u8
-#EXTINF:-1 group-title="VIDIO",DA VINCI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6549.m3u8
 #EXTINF:-1 group-title="VIDIO",DAAI TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
 #EXTINF:-1 group-title="VIDIO",DW
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
-#EXTINF:-1 group-title="VIDIO",EURONEWS
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6412.m3u8
 #EXTINF:-1 group-title="VIDIO",GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
-#EXTINF:-1 group-title="VIDIO",HIP HIP HOREE!
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7052.m3u8
-#EXTINF:-1 group-title="VIDIO",HOREE!
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6397.m3u8
 #EXTINF:-1 group-title="VIDIO",INDOSIAR
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 #EXTINF:-1 group-title="VIDIO",INEWS
@@ -101,48 +79,156 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
 #EXTINF:-1 group-title="VIDIO",KOMPASTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
-#EXTINF:-1 group-title="VIDIO",LOVE NATURE
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6635.m3u8
 #EXTINF:-1 group-title="VIDIO",METROTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
 #EXTINF:-1 group-title="VIDIO",MNCTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
-#EXTINF:-1 group-title="VIDIO",MOLA TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6840.m3u8
 #EXTINF:-1 group-title="VIDIO",MYTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 #EXTINF:-1 group-title="VIDIO",NET.
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
-#EXTINF:-1 group-title="VIDIO",NUSANTARA TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
 #EXTINF:-1 group-title="VIDIO",O-CHANNEL
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
 #EXTINF:-1 group-title="VIDIO",O-SHOP
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
 #EXTINF:-1 group-title="VIDIO",RCTI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
-#EXTINF:-1 group-title="VIDIO",RTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 #EXTINF:-1 group-title="VIDIO",SCTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
-#EXTINF:-1 group-title="VIDIO",SMITHSONIAN
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6550.m3u8
 #EXTINF:-1 group-title="VIDIO",TRANS7
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 #EXTINF:-1 group-title="VIDIO",TRANSTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
 #EXTINF:-1 group-title="VIDIO",TV EDUKASI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
-#EXTINF:-1 group-title="VIDIO",tvN
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6362.m3u8
 #EXTINF:-1 group-title="VIDIO",TVRI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-#EXTINF:-1 group-title="VIDIO",ZEE BIOSKOP
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6399.m3u8
-#EXTINF:-1 group-title="VIDIO",ZING
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6747.m3u8
-#EXTINF:-1 group-title="VIDIO",ZOO MOO
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6533.m3u8
+#EXTINF:-1 group-title="GPC",ABC AUSTRALIA
+http://gpc.my.id/usee/abcaustralia.m3u8
+#EXTINF:-1 group-title="GPC",CCTV4
+http://gpc.my.id/usee/cctv4.m3u8
+#EXTINF:-1 group-title="GPC",CGTN DOCUMENTARY
+http://gpc.my.id/usee/cgtndocumentary.m3u8
+#EXTINF:-1 group-title="GPC",DWTV ASIA
+http://gpc.my.id/usee/dwtv.m3u8
+#EXTINF:-1 group-title="GPC",France24
+http://gpc.my.id/usee/france24.m3u8
+#EXTINF:-1 group-title="GPC",JTV
+http://gpc.my.id/usee/jtv.m3u8
+#EXTINF:-1 group-title="GPC",MNC NEWS
+http://gpc.my.id/usee/mncnews.m3u8
+#EXTINF:-1 group-title="GPC",MUI TV
+http://gpc.my.id/usee/muitv.m3u8
+#EXTINF:-1 group-title="GPC",My Kidz
+http://gpc.my.id/usee/mykids.m3u8
+#EXTINF:-1 group-title="GPC",NHK World
+http://gpc.my.id/usee/nhkworld.m3u8
+#EXTINF:-1 group-title="GPC",Outdoor Channel
+http://gpc.my.id/usee/outdoor.m3u8
+#EXTINF:-1 group-title="GPC",PRAMBORS
+http://gpc.my.id/usee/pramborstv.m3u8
+#EXTINF:-1 group-title="GPC",Rodja TV
+http://gpc.my.id/usee/rodjatv.m3u8
+#EXTINF:-1 group-title="GPC",RRI Net
+http://gpc.my.id/usee/rrinet.m3u8
+#EXTINF:-1 group-title="GPC",SEA TODAY
+http://gpc.my.id/usee/seatoday.m3u8
+#EXTINF:-1 group-title="GPC",Tawaf TV
+http://gpc.my.id/usee/tawaftv.m3u8
+#EXTINF:-1 group-title="GPC",TRT WORLD
+http://gpc.my.id/usee/trtworld.m3u8
+#EXTINF:-1 group-title="GPC",U Channel
+http://gpc.my.id/usee/uchannel.m3u8
+#EXTINF:-1 group-title="GPC",Usee Info
+http://gpc.my.id/usee/useeinfo.m3u8
+#EXTINF:-1 group-title="GPC",Usee Photo
+http://gpc.my.id/usee/useephoto.m3u8
+#EXTINF:-1 group-title="GPC",Usee Prime
+http://gpc.my.id/usee/useeprime.m3u8
+#EXTINF:-1 group-title="GPC",AJWA TV
+http://gpc.my.id/vidio/ajwa-tv.m3u8
+#EXTINF:-1 group-title="GPC",BERITASATU
+http://gpc.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 group-title="GPC",Champion TV 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 group-title="GPC",Champion TV 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:-1 group-title="GPC",Champion TV 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+#EXTINF:-1 group-title="GPC",CITRA BIOSKOP
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 group-title="GPC",CITRA DANGDUT
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 group-title="GPC",CITRA DRAMA
+http://gpc.my.id/vidio/citra-drama.m3u8
+#EXTINF:-1 group-title="GPC",CITRA ENTERTANTMENT
+http://gpc.my.id/vidio/citra-entertainment.m3u8
+#EXTINF:-1 group-title="GPC",DA VINCI
+http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 group-title="GPC",DAAI TV
+http://gpc.my.id/vidio/daai-tv.m3u8
+#EXTINF:-1 group-title="GPC",DW
+http://gpc.my.id/vidio/dw-english.m3u8
+#EXTINF:-1 group-title="GPC",GTV
+http://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 group-title="GPC",HIP HIP HOREE!
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 group-title="GPC",HOREE!
+http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 group-title="GPC",INDOSIAR
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 group-title="GPC",INEWS
+http://gpc.my.id/vidio/inews.m3u8
+#EXTINF:-1 group-title="GPC",JAKTV
+http://gpc.my.id/vidio/jaktv.m3u8
+#EXTINF:-1 group-title="GPC",KOMPASTV
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 group-title="GPC",LOVE NATURE
+http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 group-title="GPC",MAGNATV
+http://gpc.my.id/vidio/magna-tv.m3u8
+#EXTINF:-1 group-title="GPC",METROTV
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 group-title="GPC",MNCTV
+http://gpc.my.id/vidio/mnc.m3u8
+#EXTINF:-1 group-title="GPC",MOLA TV
+http://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-1 group-title="GPC",MUSICA
+http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 group-title="GPC",MYTV
+http://gpc.my.id/vidio/mytv.m3u8
+#EXTINF:-1 group-title="GPC",NET.
+http://gpc.my.id/vidio/net-tv.m3u8
+#EXTINF:-1 group-title="GPC",NUSANTARA TV
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+#EXTINF:-1 group-title="GPC",O-CHANNEL
+http://gpc.my.id/vidio/ochannel.m3u8
+#EXTINF:-1 group-title="GPC",RCTI
+http://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 group-title="GPC",RTV
+http://gpc.my.id/vidio/rtv.m3u8
+#EXTINF:-1 group-title="GPC",SCTV
+http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 group-title="GPC",SEA TODAY
+http://gpc.my.id/vidio/sea-today.m3u8
+#EXTINF:-1 group-title="GPC",SMITHSONIAN
+http://gpc.my.id/vidio/smithsonian.m3u8
+#EXTINF:-1 group-title="GPC",TRANSTV
+http://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 group-title="GPC",TRANS7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 group-title="GPC",TV EDUKASI
+http://gpc.my.id/vidio/tv-edukasi.m3u8
+#EXTINF:-1 group-title="GPC",tvN
+http://gpc.my.id/vidio/tvn.m3u8
+#EXTINF:-1 group-title="GPC",TVRI
+http://gpc.my.id/vidio/tvri.m3u8
+#EXTINF:-1 group-title="GPC",ZEE BIOSKOP
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+#EXTINF:-1 group-title="GPC",ZING
+http://gpc.my.id/vidio/zing.m3u8
+#EXTINF:-1 group-title="GPC",ZOO MOO
+http://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 group-title="DENSTV",AL JAZEERA ARABIC
 http://rr2.dens.tv/s/s16/01.m3u8
 #EXTINF:-1 group-title="DENSTV",AL JAZEERA ENGLISH
@@ -475,14 +561,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 group-title="SPORT",Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Astro Supersport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Astro Supersport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Astro Supersport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",EURO 2020
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 group-title="SPORT",FOX SPORT 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",FOX SPORT 2

@@ -283,8 +283,12 @@ http://gpc.my.id/vidio/citra-dangdut.m3u8
 http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 group-title="VIDIO",CITRA ENTERTANTMENT
 http://gpc.my.id/vidio/citra-entertainment.m3u8
+#EXTINF:-1 group-title="VIDIO",CITRA MUSLIM
+http://gpc.my.id/vidio/citra-muslim.m3u8
 #EXTINF:-1 group-title="VIDIO",DA VINCI
 http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 group-title="VIDIO",DAAI TV
+http://gpc.my.id/vidio/daai-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",DW
 http://gpc.my.id/vidio/dw-english.m3u8
 #EXTINF:-1 group-title="VIDIO",GTV
@@ -319,6 +323,8 @@ http://gpc.my.id/vidio/net-tv.m3u8
 http://gpc.my.id/vidio/nusantara-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",O-CHANNEL
 http://gpc.my.id/vidio/ochannel.m3u8
+#EXTINF:-1 group-title="VIDIO",O-SHOP
+http://gpc.my.id/vidio/oshop.m3u8
 #EXTINF:-1 group-title="VIDIO",RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 group-title="VIDIO",RTV
@@ -329,10 +335,10 @@ http://gpc.my.id/vidio/sctv.m3u8
 http://gpc.my.id/vidio/sea-today.m3u8
 #EXTINF:-1 group-title="VIDIO",SMITHSONIAN
 http://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:-1 group-title="VIDIO",TRANSTV
-http://gpc.my.id/vidio/trans-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",TRANS7
 http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 group-title="VIDIO",TRANSTV
+http://gpc.my.id/vidio/trans-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",TV EDUKASI
 http://gpc.my.id/vidio/tv-edukasi.m3u8
 #EXTINF:-1 group-title="VIDIO",tvN

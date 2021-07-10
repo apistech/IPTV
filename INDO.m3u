@@ -267,6 +267,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 group-title="VIDIO",AJWA TV
 http://gpc.my.id/vidio/ajwa-tv.m3u8
+#EXTINF:-1 group-title="VIDIO",AL QURAN AL KAREEM
+http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",BERITASATU
 http://gpc.my.id/vidio/beritasatu.m3u8
 #EXTINF:-1 group-title="VIDIO",Champions TV 1
@@ -313,8 +315,6 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 group-title="VIDIO",MOLA TV
 http://gpc.my.id/vidio/mola-tv-free.m3u8
-#EXTINF:-1 group-title="VIDIO",MUSICA
-http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 group-title="VIDIO",MYTV
 http://gpc.my.id/vidio/mytv.m3u8
 #EXTINF:-1 group-title="VIDIO",NET.

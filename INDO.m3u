@@ -1,226 +1,64 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="FREE TO AIR",RCTI
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/rcti.png",RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MNCTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/mnctv.png",MNCTV
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",GTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/gtv.png",GTV
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",iNEWS
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/inews.png",iNEWS
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000=2.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANSTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/transtv.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANS7
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/trans7.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MetroTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/metrotv.png",MetroTV
 https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS9dUgqlmzAqfHi7zMgBu26k)/dm/3/x75p70w/d/live-3.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",CNN Indonesia
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/cnninternational.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",CNBC Indonesia
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/cnbcasia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",BERITASATU
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/bs.png",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",BERITASATU WORLD
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/bs.png",BERITASATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",BERITASATU ENGLISH
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/bs.png",BERITASATU ENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MAGNA TV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",MAGNA Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Biznet Adventure
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Biznet Kids
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w15086595_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Biznet Lifestyle
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w1142476716_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",RCTI
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/rcti.png",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MNCTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/mnctv.png",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",GTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/gtv.png",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",iNEWS
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/inews.png",iNEWS
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANSTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/transtv.png",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANS7
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/trans7.png",TRANS7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",ANTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/antv.png",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",INDOSIAR
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/indosiar.png",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",METRO TV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/metrotv.png",METRO TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",NET.
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/net.png",NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",SCTV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/sctv.png",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVONE
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="http://kamiselaluada.com/img/tvone.png",TVONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",FailArmy
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723",FailArmy
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/904cb9e0-ed59-457d-8cc0-4d9a919e7fc1/3.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",Redbull TV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://brandeps.com/logo-download/R/Red-Bull-TV-logo-vector-01.svg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="DENSTV",AL JAZEERA ARABIC
-http://rr2.dens.tv/s/s16/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AL JAZEERA ENGLISH
-http://rr2.dens.tv/s/s17/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AXN
-http://rr1.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",BLOOMBERG
-http://rr1.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CCTV4
-http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CINEMAWORLD
-http://rr1.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="DENSTV",DEMO
-http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DEMO
-http://rr2.dens.tv/s/s31/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENSTV",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="DENSTV",EGG NETWORK
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ELSHINTA TV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
-http://rr3.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="DENSTV",GOLF
-http://rr1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 group-title="DENSTV",HITS
-http://rr1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="DENSTV",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",JAKTV
-http://rr3.dens.tv/s/s46/index.m3u8
-#EXTINF:-1 group-title="DENSTV",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
-#EXTINF:-1 group-title="DENSTV",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KIX
-http://rr1.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="DENSTV",KSA
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENSTV",LIFESTYLE
-http://rr1.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="DENSTV",METROTV
-http://rr3.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MOTORVISION
-http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA ASIA
-http://rr.dens.tv/h/h93/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyTV
-http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="DENSTV",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="DENSTV",PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="DENSTV",STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",STYLE
-http://rr1.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="DENSTV",Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TOONMAX
-http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",TV5MONDE
-http://rr1.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",tvN
-http://rr1.dens.tv/h/h20/01.m3u8
-#EXTINF:-1 group-title="DENSTV",tvN MOVIES
-http://rr1.dens.tv/h/h21/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 group-title="DENSTV",U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
-#EXTINF:-1 group-title="DENSTV",UA
-http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",WION
-http://rr.dens.tv/h/h91/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Channel 4U
@@ -351,13 +189,13 @@ http://gpc.my.id/vidio/zee-bioskop.m3u8
 http://gpc.my.id/vidio/zing.m3u8
 #EXTINF:-1 group-title="VIDIO",ZOO MOO
 http://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://kamiselaluada.com/img/hbo.png",HBO
 https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Family
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://kamiselaluada.com/img/hbofamily.png",HBO Family
 https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Hits
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://kamiselaluada.com/img/hbohits.png",HBO Hits
 https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Signature
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://kamiselaluada.com/img/hbosig.png",HBO Signature
 https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
 #EXTINF:-1 group-title="PREMIUM",CINEMAX
 https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8

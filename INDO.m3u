@@ -45,7 +45,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aljazeera&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png",Animax
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel//logo_aniplus_small1.png",Aniplus
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel//logo_aniplus_small1.png",ANIPlus
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png",AXN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
@@ -55,7 +55,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png",Blue Ant Entertainmet
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png",Blue Ant Entertainment
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png",Blue Ant Extreme
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
@@ -63,11 +63,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&s
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png",Cartoon Network
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movie
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movies
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",Champion TV 1
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",Champions TV 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champion TV 2
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champions TV 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
@@ -75,13 +75,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png",CNN Indonesia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cnnindonesia&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png",CTI Asia
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png",CTI
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png",Da Vinci Learning
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png",Dunia anak
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png",Dunia Anak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png",Dunia Lain
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
@@ -91,25 +91,27 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_formosa_small.png",Formosa
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=formosa&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png",Fox Sport 1
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png",FOX Sports 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png",Fox Sport 2
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png",FOX Sports 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png",Fox Sport 3
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png",FOX Sports 3
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png",Galaxy
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",Golf+
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=golfplus&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png",Horee
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png",IMC
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",Kix
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",KIX
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=kix&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png",Nat Geo
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png",Nat Geo Channel
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png",Nat Geo People
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
@@ -121,11 +123,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans7
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=trans7&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png",TV5Monde
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=tv5monde&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",TVN
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",tvN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvn&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",TVN Movies
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",tvN Movies
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvnmovies&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png",Usee Sports 1
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
@@ -135,7 +135,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png",Warner TV
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png",ZBioskop
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png",Zee Bioskop
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
 #EXTINF:-1 group-title="MAXSTREAM",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8

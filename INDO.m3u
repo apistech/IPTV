@@ -235,6 +235,8 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 group-title="VIDIO",MOLA TV
 http://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-1 group-title="VIDIO",MUSICA
+http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 group-title="VIDIO",MYTV
 http://gpc.my.id/vidio/mytv.m3u8
 #EXTINF:-1 group-title="VIDIO",NET.
@@ -281,8 +283,6 @@ https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
 https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax
 https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",RED by HBO
-https://raw.githubusercontent.com/apistech/IPTV/master/red.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax

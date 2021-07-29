@@ -81,8 +81,6 @@ rtp://@239.1.2.4:7998
 rtp://@239.1.2.217:9232
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",Champions TV 1 HD
 rtp://@239.1.2.216:9226
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",Champions TV 1 HD
-rtp://@239.1.4.56:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champions TV 2
 rtp://@239.1.2.219:9244
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champions TV 2 HD
@@ -101,9 +99,9 @@ rtp://@239.1.1.173:9012
 rtp://@239.1.2.235:9342
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png",Chinese Drama HD
 rtp://@239.1.2.10:8306
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",CinemaWorld
 rtp://@239.1.1.189:9108
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",CinemaWorld HD
 rtp://@239.1.2.80:8578
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CINEMAX
 rtp://@239.1.1.87:8496
@@ -187,6 +185,8 @@ rtp://@239.1.1.239:9276
 rtp://@239.1.2.198:9386
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.png",FOX
 rtp://@239.1.1.43:8232
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.png",FOX HD
+rtp://@239.1.1.247:9440
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.png",FOX Action Movies
 rtp://@239.1.1.125:8724
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.png",FOX Action Movies HD
@@ -199,8 +199,6 @@ rtp://@239.1.2.225:9318
 rtp://@239.1.1.175:9024
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_410.png",FOX Family Movies HD
 rtp://@239.1.1.237:9396
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_437.png",FOX HD
-rtp://@239.1.1.247:9440
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_439.png",FOX Life
 rtp://@239.1.1.171:9000
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_439.png",FOX Life HD
@@ -233,22 +231,22 @@ rtp://@239.1.1.136:8790
 rtp://@239.1.2.240:9390
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium HD
 rtp://@239.1.2.100:9518
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF +
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+
 rtp://@239.1.1.140:8814
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF + HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+ HD
 rtp://@239.1.2.214:9214
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
 rtp://@239.1.1.95:8544
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HD DOLBY
+rtp://@239.1.2.114:9428
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family
 rtp://@239.1.1.89:8508
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family HD
 rtp://@239.1.2.245:9366
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family HD DOLBY
 rtp://@239.1.2.202:9176
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HD
-rtp://@239.1.1.203:9192
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HD DOLBY
-rtp://@239.1.2.114:9428
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits
 rtp://@239.1.1.91:8520
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits HD

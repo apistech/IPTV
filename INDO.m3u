@@ -20,7 +20,7 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET.
 http://gpc.my.id/vidio/net-tv.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+http://gpc.my.id/vidio/rtv.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png",JakTV
 http://gpc.my.id/vidio/jaktv.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png",KOMPAS TV
@@ -67,6 +67,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
 http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png",Bloomberg
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bloomberg1&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png",Blue Ant Entertainment
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png",Blue Ant Extreme
@@ -87,7 +89,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png",Chinese Drama
 http://dituduhmaling.xyz/US33T4/chinesedrama.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",CinemaWorld
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png",Citra Dangdut
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
@@ -108,7 +110,7 @@ http://dituduhmaling.xyz/US33T4/daaitv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png",DreamWorks
-http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamworks-1&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png",Dunia Anak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png",Dunia Lain
@@ -141,14 +143,12 @@ http://dituduhmaling.xyz/US33T4/france24.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF +
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=golfplus&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png",HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History
 http://dituduhmaling.xyz/US33T4/history.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png",Horee
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png",I-Konser
@@ -171,6 +171,8 @@ http://dituduhmaling.xyz/US33T4/jtv.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=kix&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png",Kompas TV
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png",Lifetime
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime-1&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png",Lingua
 http://dituduhmaling.xyz/US33T4/lingua.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
@@ -221,6 +223,8 @@ http://dituduhmaling.xyz/US33T4/sctv.m3u8
 http://dituduhmaling.xyz/US33T4/seatoday.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png",Tawaf TV
 http://dituduhmaling.xyz/US33T4/tawaftv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png",Thrill
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=thrill-1&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans7
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=trans7&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
@@ -231,8 +235,6 @@ http://dituduhmaling.xyz/US33T4/trtworld.m3u8
 http://dituduhmaling.xyz/US33T4/tvedukasi.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png",TV MUI
 http://dituduhmaling.xyz/US33T4/muitv.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png",TV5 Monde
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=tv5monde&bandwidth=default&sync=0
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png",TV9 NU
 http://dituduhmaling.xyz/US33T4/tv9.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",tvN
@@ -305,8 +307,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 http://gpc.my.id/vidio/ajwa-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",Berita Satu
 http://gpc.my.id/vidio/beritasatu.m3u8
-#EXTINF:-1 group-title="VIDIO",Citra Bioskop
-http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 group-title="VIDIO",Citra Dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 group-title="VIDIO",Citra Drama
@@ -317,46 +317,32 @@ http://gpc.my.id/vidio/citra-entertainment.m3u8
 http://gpc.my.id/vidio/citra-muslim.m3u8
 #EXTINF:-1 group-title="VIDIO",Da Vinci Learning
 http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 group-title="VIDIO",DAAI TV
-http://gpc.my.id/vidio/daai-tv.m3u8
-#EXTINF:-1 group-title="VIDIO",DW Asia
-http://gpc.my.id/vidio/dw-english.m3u8
-#EXTINF:-1 group-title="VIDIO",GTV
-http://gpc.my.id/vidio/gtv.m3u8
-#EXTINF:-1 group-title="VIDIO",HIP HIP Horee
-http://gpc.my.id/vidio/hip-hip-horee.m3u8
 #EXTINF:-1 group-title="VIDIO",Horee
 http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 group-title="VIDIO",Indosiar
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 group-title="VIDIO",iNews
+http://gpc.my.id/vidio/inews.m3u8
 #EXTINF:-1 group-title="VIDIO",JakTV
 http://gpc.my.id/vidio/jaktv.m3u8
 #EXTINF:-1 group-title="VIDIO",Kompas TV
 http://gpc.my.id/vidio/kompas-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",Love Nature
 http://gpc.my.id/vidio/love-nature.m3u8
-#EXTINF:-1 group-title="VIDIO",Metro TV
-http://gpc.my.id/vidio/metro-tv.m3u8
 #EXTINF:-1 group-title="VIDIO",MNC TV
 http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 group-title="VIDIO",MOLA TV
 http://gpc.my.id/vidio/mola-tv-free.m3u8
-#EXTINF:-1 group-title="VIDIO",Musica
-http://gpc.my.id/vidio/musica.m3u8
-#EXTINF:-1 group-title="VIDIO",MYTV
-http://gpc.my.id/vidio/mytv.m3u8
 #EXTINF:-1 group-title="VIDIO",NET.
 http://gpc.my.id/vidio/net-tv.m3u8
-#EXTINF:-1 group-title="VIDIO",Nusantara TV
-http://gpc.my.id/vidio/nusantara-tv.m3u8
-#EXTINF:-1 group-title="VIDIO",O-Shop
-http://gpc.my.id/vidio/oshop.m3u8
 #EXTINF:-1 group-title="VIDIO",RCTI
 http://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 group-title="VIDIO",RTV
+http://gpc.my.id/vidio/rtv.m3u8
 #EXTINF:-1 group-title="VIDIO",SCTV
 http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 group-title="VIDIO",SEA Today
 http://gpc.my.id/vidio/sea-today.m3u8
-#EXTINF:-1 group-title="VIDIO",Smithsonian Channel
-http://gpc.my.id/vidio/smithsonian.m3u8
 #EXTINF:-1 group-title="VIDIO",Trans7
 http://gpc.my.id/vidio/trans7.m3u8
 #EXTINF:-1 group-title="VIDIO",TransTV
@@ -371,8 +357,6 @@ http://gpc.my.id/vidio/tvri.m3u8
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 group-title="VIDIO",Zing
 http://gpc.my.id/vidio/zing.m3u8
-#EXTINF:-1 group-title="VIDIO",Zoo Moo
-http://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
 https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family

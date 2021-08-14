@@ -1,7 +1,8 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 http://gpc.my.id/vidio/rcti.m3u8
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
 http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 http://gpc.my.id/vidio/gtv.m3u8
@@ -43,13 +44,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png",ABC Australia
 http://dituduhmaling.xyz/US33T4/abcaustralia.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera English
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aljazeera
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png",Al Quran Kareem
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png",AlQuran Kareem
 http://dituduhmaling.xyz/US33T4/alquran.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png",Animax
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=animax
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel//logo_aniplus_small1.png",ANIPlus
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel//logo_aniplus_small1.png",AniPlus
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aniplus
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png",Antara TV
 http://dituduhmaling.xyz/US33T4/antara.m3u8
@@ -71,7 +72,7 @@ http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png",Bloomberg
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bloomberg
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png",Blue Ant Entertainment
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png",Blue Ant
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png",Blue Ant Extreme
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
@@ -119,7 +120,7 @@ http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png",Dunia Lain
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png",DW Asia
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png",DW-TV
 http://dituduhmaling.xyz/US33T4/dwtv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png",Eat & Go
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=eatgo
@@ -143,13 +144,13 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png",FOX Sports 3
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png",France24
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png",France 24
 http://dituduhmaling.xyz/US33T4/france24.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png",Galaxy
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF+
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png",GOLF
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=golfplus
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png",HGTV
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
@@ -175,7 +176,7 @@ http://dituduhmaling.xyz/US33T4/inews.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png",JakTV
 http://dituduhmaling.xyz/US33T4/jaktv.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png",JTV Surabaya
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png",JTV
 http://dituduhmaling.xyz/US33T4/jtv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",KIX
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=kix
@@ -195,7 +196,7 @@ http://dituduhmaling.xyz/US33T4/mncnews.m3u8
 http://dituduhmaling.xyz/US33T4/mqtv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png",MShop Signature
 http://dituduhmaling.xyz/US33T4/mncshop.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png",MTA TV
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png",MTATV
 http://dituduhmaling.xyz/US33T4/mtatv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png",MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
@@ -229,9 +230,9 @@ http://dituduhmaling.xyz/US33T4/rrinet.m3u8
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png",Ruang Trampil
 http://dituduhmaling.xyz/US33T4/useeinfo.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png",S GEM
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png",SGEM
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png",S ONE
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png",SONE
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sone
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV
 http://dituduhmaling.xyz/US33T4/sctv.m3u8
@@ -255,9 +256,9 @@ http://dituduhmaling.xyz/US33T4/muitv.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tv5monde
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png",TV9 NU
 http://dituduhmaling.xyz/US33T4/tv9.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",tvN
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",TVN
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvn
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",tvN Movies
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",TVN Movies
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png",TVRI
 http://dituduhmaling.xyz/US33T4/tvri.m3u8
@@ -289,7 +290,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-#EXTINF:-1 group-title="MAXSTREAM",JTV Surabaya
+#EXTINF:-1 group-title="MAXSTREAM",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -301,7 +302,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-#EXTINF:-1 group-title="MAXSTREAM",MTA TV
+#EXTINF:-1 group-title="MAXSTREAM",MTATV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",MYTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
@@ -325,9 +326,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 http://dituduhmaling.xyz/V11710/abc_australia.m3u8
 #EXTINF:-1 group-title="VIDIO",Ajwa TV
 http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
-#EXTINF:-1 group-title="VIDIO",Al Jazeera
+#EXTINF:-1 group-title="VIDIO",Al Jazeera English
 http://dituduhmaling.xyz/V11710/Aljazeera.m3u8
-#EXTINF:-1 group-title="VIDIO",Al Quran Kareem
+#EXTINF:-1 group-title="VIDIO",AlQuran Kareem
 http://dituduhmaling.xyz/V11710/Alquranalkareemtv.m3u8
 #EXTINF:-1 group-title="VIDIO",Berita Satu
 http://dituduhmaling.xyz/V11710/Beritasatu.m3u8
@@ -351,7 +352,7 @@ http://dituduhmaling.xyz/V11710/CitraMuslim.m3u8
 http://dituduhmaling.xyz/V11710/Davinci.m3u8
 #EXTINF:-1 group-title="VIDIO",DAAI TV
 http://dituduhmaling.xyz/V11710/DAAI_TV.m3u8
-#EXTINF:-1 group-title="VIDIO",DW Asia
+#EXTINF:-1 group-title="VIDIO",DW-TV
 http://dituduhmaling.xyz/V11710/dw-english.m3u8
 #EXTINF:-1 group-title="VIDIO",Euronews
 http://dituduhmaling.xyz/V11710/EuroNews.m3u8
@@ -373,7 +374,7 @@ http://dituduhmaling.xyz/V11710/Kompas.m3u8
 http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
 #EXTINF:-1 group-title="VIDIO",Metro TV
 http://dituduhmaling.xyz/V11710/Metrotv.m3u8
-#EXTINF:-1 group-title="VIDIO",MNC TV
+#EXTINF:-1 group-title="VIDIO",MNCTV
 http://dituduhmaling.xyz/V11710/MNC.m3u8
 #EXTINF:-1 group-title="VIDIO",Musica
 http://dituduhmaling.xyz/V11710/musica.m3u8
@@ -403,7 +404,7 @@ http://dituduhmaling.xyz/V11710/Trans7.m3u8
 http://dituduhmaling.xyz/V11710/Transtv.m3u8
 #EXTINF:-1 group-title="VIDIO",TV Edukasi
 http://dituduhmaling.xyz/V11710/TVEdukasi.m3u8
-#EXTINF:-1 group-title="VIDIO",tvN
+#EXTINF:-1 group-title="VIDIO",TVN
 http://dituduhmaling.xyz/V11710/TVN.m3u8
 #EXTINF:-1 group-title="VIDIO",TVRI
 http://dituduhmaling.xyz/V11710/TVRI.m3u8

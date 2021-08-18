@@ -44,7 +44,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png",ABC Australia
 http://dituduhmaling.xyz/US33T4/abcaustralia.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera English
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Aljazeera
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=aljazeera
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png",AlQuran Kareem
 http://dituduhmaling.xyz/US33T4/alquran.m3u8
@@ -112,7 +112,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ctiasia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=davinci
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png",DAAI TV
 http://dituduhmaling.xyz/US33T4/daaitv.m3u8
-#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel
+#EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
 #EXTINF:-1 group-title="UseeTV FTA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png",DreamWorks
 http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
@@ -286,16 +286,18 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Dunia Games TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
-#EXTINF:-1 group-title="MAXSTREAM",Heroez Arena Jawa Bali
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 group-title="MAXSTREAM",Kplus
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1 group-title="MAXSTREAM",MAX2U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Maxstream Music
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",MCC
@@ -304,8 +306,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",MTATV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
-#EXTINF:-1 group-title="MAXSTREAM",MYTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",RTV
@@ -326,7 +326,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 http://dituduhmaling.xyz/V11710/abc_australia.m3u8
 #EXTINF:-1 group-title="VIDIO",Ajwa TV
 http://dituduhmaling.xyz/V11710/Ajwatv.m3u8
-#EXTINF:-1 group-title="VIDIO",Al Jazeera English
+#EXTINF:-1 group-title="VIDIO",Aljazeera
 http://dituduhmaling.xyz/V11710/Aljazeera.m3u8
 #EXTINF:-1 group-title="VIDIO",AlQuran Kareem
 http://dituduhmaling.xyz/V11710/Alquranalkareemtv.m3u8

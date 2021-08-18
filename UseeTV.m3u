@@ -3,9 +3,9 @@
 rtp://@239.1.3.247:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png",ABC Australia
 rtp://@239.1.1.33:8172
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera English
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Aljazeera
 rtp://@239.1.1.195:9144
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera English HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Aljazeera HD
 rtp://@239.1.2.8:8022
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png",AlQuran Kareem
 rtp://@239.1.1.185:9084
@@ -89,14 +89,6 @@ rtp://@239.1.2.218:9238
 rtp://@239.1.1.173:9012
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_272.jpg",Channel [V] HD
 rtp://@239.1.2.235:9342
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Channel Jowo
-rtp://@239.1.2.6:8000
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Channel Jowo HD
-rtp://@239.1.2.212:9208
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png",Channel News Asia
-rtp://@239.1.1.65:8364
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png",Channel News Asia HD
-rtp://@239.1.2.23:8112
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png",Chinese Drama HD
 rtp://@239.1.2.10:8306
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World
@@ -135,9 +127,9 @@ rtp://@239.1.2.200:9168
 rtp://@239.1.1.99:8568
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png",DAAI TV
 rtp://@239.1.1.179:9048
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery
 rtp://@239.1.2.30:8154
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery HD
 rtp://@239.1.2.78:7984
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/DC_LGO_E_CYN_RGB_150x150.jpg",Disney Channel
 rtp://@239.1.1.45:8244
@@ -297,10 +289,14 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.212:8967
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png",Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.tvchinese.net/uploads/tv/ipanda.jpg",iPanda Channel HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.tvchinese.net/uploads/tv/ipanda.jpg",iPanda HD
 rtp://@239.1.1.208:9502
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png",JakTV
 rtp://@239.1.1.107:8616
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Jowo Channel
+rtp://@239.1.2.6:8000
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Jowo Channel HD
+rtp://@239.1.2.212:9208
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png",JTV
 rtp://@239.1.1.6:8010
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png",KBS World
@@ -363,12 +359,16 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.1.35:8184
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png",Nat Geo Wild HD
 rtp://@239.1.1.207:9216
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png",NBA HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png",NBA-TV HD
 rtp://@239.1.1.49:8268
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET
 rtp://@239.1.1.119:8688
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET HD
 rtp://@239.1.1.158:8922
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png",News Asia
+rtp://@239.1.1.65:8364
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png",News Asia HD
+rtp://@239.1.2.23:8112
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png",NHK World
 rtp://@239.1.1.236:9390
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png",NHK World HD
@@ -419,11 +419,11 @@ rtp://@239.1.1.172:9006
 rtp://@239.1.2.21:8100
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673516-.png",Star Chinese
 rtp://@239.1.1.153:8892
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg",STAR Chinese Movies
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg",Star Chinese Movies
 rtp://@239.1.1.131:8760
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg",STAR Chinese Movies HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg",Star Chinese Movies HD
 rtp://@239.1.2.231:9336
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png",STAR Chinese Movies Legend
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png",Star Chinese Movies Legend
 rtp://@239.1.1.151:8880
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png",Tawaf TV
 rtp://@239.1.2.236:9366

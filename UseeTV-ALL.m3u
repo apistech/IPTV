@@ -157,6 +157,8 @@ rtp://@239.1.1.129:8748
 rtp://@239.1.1.131:8760
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indikids_small.png",IndiKids
 rtp://@239.1.1.132:8384
+#EXTINF:-1 group-title="UseeTV",Channel Tono
+rtp://@239.1.1.133:8768
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png",Blue Ant Extreme
 rtp://@239.1.1.134:8778
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",TVN
@@ -227,6 +229,8 @@ rtp://@239.1.1.173:9012
 rtp://@239.1.1.174:9018
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_410.png",FOX Family Movies
 rtp://@239.1.1.175:9024
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indonesianatutup_small.png",Indonesiana TV HD
+rtp://@239.1.1.176:9197
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sport
 rtp://@239.1.1.177:9036
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png",DAAI TV
@@ -267,6 +271,8 @@ rtp://@239.1.1.202:9186
 rtp://@239.1.1.203:9192
 #EXTINF:-1 group-title="UseeTV",Channel Sarah
 rtp://@239.1.1.205:9204
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indonesianatutup_small.png",Indonesiana TV
+rtp://@239.1.1.206:9199
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png",Nat Geo Wild HD
 rtp://@239.1.1.207:9216
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.tvchinese.net/uploads/tv/ipanda.jpg",iPanda HD
@@ -643,6 +649,8 @@ rtp://@239.1.3.223:1234
 rtp://@239.1.3.227:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png",I-Konser
 rtp://@239.1.3.228:1234
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champions TV 2
+rtp://@239.1.3.227:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvbsnews_small.png",TVBS News
 rtp://@239.1.3.235:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586681002-.png",Hope Channel
@@ -659,7 +667,7 @@ rtp://@239.1.3.244:1234
 rtp://@239.1.3.245:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png",Tawaf TV
 rtp://@239.1.3.246:1234
-#EXTINF:-1 group-title="UseeTV",4K Demo Channel
+#EXTINF:-1 group-title="UseeTV",Usee 4K Demo Channel
 rtp://@239.1.3.247:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ebcasia_small.png",EBC Asia
 rtp://@239.1.3.251:1234
@@ -667,6 +675,8 @@ rtp://@239.1.3.251:1234
 rtp://@239.1.3.253:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png",Bali TV
 rtp://@239.1.3.254:1234
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_formosa_small.png",Formosa
+rtp://@239.1.3.253:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://scontent-sin6-3.xx.fbcdn.net/v/t1.18169-9/35786_131796970176443_3753290_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEma7iedXE6NZO5yZ97qDrDU8DU6MmV8ZBTwNToyZXxkJtGiq4xlzZT75fiIOnwF3I&_nc_ohc=BWeTOvWhTeEAX_lqXzZ&_nc_ht=scontent-sin6-3.xx&oh=bae4de5b364dfd35f06d3d6da20e5918&oe=612871A0",DRTV
 rtp://@239.1.4.3:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Jowo Channel
@@ -675,6 +685,10 @@ rtp://@239.1.4.4:1234
 rtp://@239.1.4.8:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png",SEA Today HD
 rtp://@239.1.4.11:1234
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indonesianatutup_small.png",Indonesiana TV
+rtp://@239.1.4.13:1234
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indonesianatutup_small.png",Indonesiana TV HD
+rtp://@239.1.4.18:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans7 HD
 rtp://@239.1.4.19:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV HD
@@ -715,7 +729,7 @@ rtp://@239.1.4.60:1234
 rtp://@239.1.4.61:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png",Indihome Shopping HD
 rtp://@239.1.4.63:1234
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png",FOX Sports 3 HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans7 HD
 rtp://@239.1.4.69:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png",Blue Ant Extreme HD
 rtp://@239.1.4.70:1234

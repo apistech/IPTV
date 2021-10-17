@@ -1,9 +1,14 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg" url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
+#EXTM3U x-tvg-url="http://nonton.site:8888/xmltv.php?username=epg&password=epg" url-tvg="http://nonton.site:8888/xmltv.php?username=epg&password=epg" refresh="3600"
+
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_small.png",ABC Australia
 rtp://@239.1.1.33:8172
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_small1.png",Aljazeera
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_small1.png",Aljazeera English
 rtp://@239.1.1.195:9144
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_small1.png",Aljazeera HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_small1.png",Aljazeera English HD
 rtp://@239.1.2.8:8022
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_alquran_small1.png",AlQuran Kareem
 rtp://@239.1.1.185:9084
@@ -19,7 +24,7 @@ rtp://@239.1.2.104:9526
 rtp://@239.1.1.128:9218
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 rtp://@239.1.1.15:8064
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_arirang_small.png",Arirang
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_arirang_small.png",Arirang World
 rtp://@239.1.1.147:8856
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_afc_small.png",Asian Food Network
 rtp://@239.1.2.12:8046
@@ -35,13 +40,13 @@ rtp://@239.1.1.245:9436
 rtp://@239.1.1.157:8916
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_balitv_small1.png",Bali TV
 rtp://@239.1.1.72:8406
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",beIN Sport 1
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",BeIn Sports 1
 rtp://@239.1.1.217:9204
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",beIN Sport 1 HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein1_small1.png",BeIn Sports 1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein2_small1.png",beIN SPORT 2
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein2_small1.png",BeIn Sports 2
 rtp://@239.1.1.221:9300
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein2_small1.png",beIN SPORT 2 HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_bein2_small1.png",BeIn Sports 2 HD
 rtp://@239.1.1.249:9496
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png",Berita Satu
 rtp://@239.1.1.183:9072
@@ -53,7 +58,7 @@ rtp://@239.1.1.199:9168
 rtp://@239.1.1.73:8412
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_boomerang_small.png",Boomerang HD
 rtp://@239.1.1.163:8084
-#EXTINF:-1 group-title="UseeTV",BTV
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1627872776-.png",Berkah Shop
 rtp://@239.1.1.12:7984
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_cartoonnetwork_small.png",Cartoon Network
 rtp://@239.1.1.123:8712

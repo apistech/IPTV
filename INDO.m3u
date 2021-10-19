@@ -95,6 +95,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 group-title="MAXSTREAM",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax Asia
+https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
 https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family Asia
@@ -103,5 +105,3 @@ https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
 https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax
-https://raw.githubusercontent.com/apistech/IPTV/master/max.m3u8

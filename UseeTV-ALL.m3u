@@ -18,7 +18,7 @@ rtp://@239.1.1.9:8028
 rtp://@239.1.1.10:8034
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_new-paramount_small.png",Paramount Network
 rtp://@239.1.1.11:8040
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1627872776-.png",Berkah Shop
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berkah-shop-tv-id.png",Berkah Shop
 rtp://@239.1.1.12:7984
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_kbsworld_small.png",KBS World HD
 rtp://@239.1.1.13:8052
@@ -136,7 +136,7 @@ rtp://@239.1.1.111:8640
 rtp://@239.1.1.112:8646
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_insert_small1.png",Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS Asia
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",TVBS Asia
 rtp://@239.1.1.114:8658
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_cctv4_small1.png",CCTV-4 Asia
 rtp://@239.1.1.115:8664
@@ -194,11 +194,11 @@ rtp://@239.1.1.151:8880
 rtp://@239.1.1.152:8886
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673516-.png",Star Chinese Channel
 rtp://@239.1.1.153:8892
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://filmspb.tv/wp-content/uploads/2017/09/240x240-M8s.jpg",Zhejiang TV HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang_tv_cn_international.png",Zhejiang TV HD
 rtp://@239.1.1.154:8898
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_cnbcasias_small.png",CNBC Asia-Pacific
 rtp://@239.1.1.155:8904
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.globalfromasia.com/reviews/wp-content/uploads/sites/5/2018/10/shenzhen-tv.jpeg",Shenzen TV
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shenzhen-tv-cn.png",Shenzhen TV
 rtp://@239.1.1.156:8910
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_small.png",Baby First
 rtp://@239.1.1.157:8916
@@ -730,9 +730,9 @@ rtp://@239.1.4.93:1234
 rtp://@239.1.4.95:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_nickjr_small.png",Nick Jr Asia HD
 rtp://@239.1.4.96:1234
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1627872776-.png",Berkah Shop
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berkah-shop-tv-id.png",Berkah Shop
 rtp://@239.1.4.97:1234
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS Asia
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png",TVBS Asia
 rtp://@239.1.4.98:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_sone_small.png",ONE HD
 rtp://@239.1.4.230:1234

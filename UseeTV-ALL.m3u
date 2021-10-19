@@ -140,7 +140,7 @@ rtp://@239.1.1.113:8652
 rtp://@239.1.1.114:8658
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_cctv4_small1.png",CCTV-4 Asia
 rtp://@239.1.1.115:8664
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages//logo_aniplus_small1.png",AniPlus
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aniplus_small1.png",AniPlus
 rtp://@239.1.1.117:8676
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png",NET
 rtp://@239.1.1.119:8688
@@ -426,7 +426,7 @@ rtp://@239.1.2.98:9514
 rtp://@239.1.2.100:9518
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_nusantaratv_small.png",Nusantara TV
 rtp://@239.1.2.102:9522
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages//logo_aniplus_small1.png",AniPlus HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aniplus_small1.png",AniPlus HD
 rtp://@239.1.2.104:9526
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia HD DOLBY
 rtp://@239.1.2.114:9428
@@ -632,7 +632,7 @@ rtp://@239.1.3.251:1234
 rtp://@239.1.3.253:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_balitv_small1.png",Bali TV
 rtp://@239.1.3.254:1234
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://scontent-sin6-3.xx.fbcdn.net/v/t1.18169-9/35786_131796970176443_3753290_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEma7iedXE6NZO5yZ97qDrDU8DU6MmV8ZBTwNToyZXxkJtGiq4xlzZT75fiIOnwF3I&_nc_ohc=BWeTOvWhTeEAX_lqXzZ&_nc_ht=scontent-sin6-3.xx&oh=bae4de5b364dfd35f06d3d6da20e5918&oe=612871A0",DRTV
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSuQu1ZHobd9zoZrXua_pfLKd9SNuEBir2T0gsR=s88-c-k-c0x00ffffff-no-rj",DRTV
 rtp://@239.1.4.3:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png",Jowo Channel
 rtp://@239.1.4.4:1234
@@ -706,7 +706,7 @@ rtp://@239.1.4.77:1234
 rtp://@239.1.4.78:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png",Flik
 rtp://@239.1.4.79:1234
-#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages//logo_aniplus_small1.png",AniPlus HD
+#EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_aniplus_small1.png",AniPlus HD
 rtp://@239.1.4.80:1234
 #EXTINF:-1 group-title="UseeTV" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small1.png",Galaxy HD
 rtp://@239.1.4.81:1234

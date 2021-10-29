@@ -163,3 +163,7 @@ https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
 https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
+
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
+https://raw.githubusercontent.com/apistech/IPTV/master/max_hbo.m3u8

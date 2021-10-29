@@ -164,6 +164,8 @@ https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",UChannel
 https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
+#EXTINF:-1 group-title="MALAYSIA",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Animal Planet Southeast Asia
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Astro AEC
@@ -180,8 +182,6 @@ http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Astro IQIYI
-http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Astro Prima
@@ -198,12 +198,18 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA",Celestial Classic Movies
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA",Celestial Movies
+http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",HGTV Asia
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA",Iqiyi
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",National Geographic Wild Asia
@@ -228,17 +234,9 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV 3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV 8
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV IKLIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TVB Classic
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",天映电影50
-http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",星河频道
-http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8

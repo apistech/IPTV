@@ -105,6 +105,155 @@ https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
 
+#EXTINF:-1 group-title="UseeTV FTA",Animax Asia
+http://iptvid.my.id/ch/animax.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",AniPlus
+http://iptvid.my.id/ch/aniplus.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Antara
+http://iptvid.my.id/ch/antara.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Asian Food Network
+http://iptvid.my.id/ch/afc.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",ATV
+http://iptvid.my.id/ch/atv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",AXN East Asia
+http://iptvid.my.id/ch/axn.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Bali TV
+http://iptvid.my.id/ch/balitv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Bioskop Indonesia
+http://iptvid.my.id/ch/biosid.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Bloomberg TV Asia
+http://iptvid.my.id/ch/bloomberg.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Cartoon Network Asia
+http://iptvid.my.id/ch/cn.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Celestial Movies Indonesia
+http://iptvid.my.id/ch/clstl.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Chinese Drama
+http://iptvid.my.id/ch/chinesedrm.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Cinema World
+http://iptvid.my.id/ch/cnmwrld.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Da Vinci Learning
+http://iptvid.my.id/ch/davinci.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",DAAI TV
+http://iptvid.my.id/ch/daai.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Discovery Channel Southeast Asia
+http://iptvid.my.id/ch/dsc.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Dunia Anak
+http://iptvid.my.id/ch/duniaanak.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Dunia Lain
+http://iptvid.my.id/ch/dnln.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Flik
+http://iptvid.my.id/ch/flik.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Formosa
+http://iptvid.my.id/ch/formosa.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Galaxy
+http://iptvid.my.id/ch/glx.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Galaxy Premium
+http://iptvid.my.id/ch/glxprem.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",GEM
+http://iptvid.my.id/ch/sgem.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",History Asia
+http://iptvid.my.id/ch/history.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",HITS
+http://iptvid.my.id/ch/hits.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",HITS Movies
+http://iptvid.my.id/ch/hitsmovie.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Horee
+http://iptvid.my.id/ch/horee.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",I-Konser
+http://iptvid.my.id/ch/ikonser.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",IMC
+http://iptvid.my.id/ch/imc.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Indonesiana TV
+http://iptvid.my.id/ch/indonesiana.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Indosiar
+http://iptvid.my.id/ch/indosiar.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",iNews
+http://iptvid.my.id/ch/inews.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Insert
+http://iptvid.my.id/ch/insert.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",iPanda
+http://iptvid.my.id/ch/pandatv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Jak TV
+http://iptvid.my.id/ch/jaktv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",JTV
+http://iptvid.my.id/ch/jtv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",KBS World
+http://iptvid.my.id/ch/kbsw.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",KIX
+http://iptvid.my.id/ch/kix.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Kompas TV
+http://iptvid.my.id/ch/kompas.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Kplus
+http://iptvid.my.id/ch/kplus.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Kungfu TV
+http://iptvid.my.id/ch/kungfutv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Lingua
+http://iptvid.my.id/ch/lingua.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",MTV South East Asia
+http://iptvid.my.id/ch/mtv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",My Cinema
+http://iptvid.my.id/ch/mycn.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",My Cinema Asia
+http://iptvid.my.id/ch/myca.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",My Cinema Europe
+http://iptvid.my.id/ch/c_europe.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",My Family Channel
+http://iptvid.my.id/ch/myfc.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",My TV
+http://iptvid.my.id/ch/mytv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",National Geographic Asia
+http://iptvid.my.id/ch/natgeo.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",National Geographic Wild Asia
+http://iptvid.my.id/ch/ngwild.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",NET
+http://iptvid.my.id/ch/net.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",NHK World Japan
+http://iptvid.my.id/ch/nhkw.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Nick Jr Asia
+http://iptvid.my.id/ch/nickjr.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Nickelodeon South East Asia
+http://iptvid.my.id/ch/nickelodeon.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Nusantara TV
+http://iptvid.my.id/ch/nusantara.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",ONE
+http://iptvid.my.id/ch/sone.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Outdoor Channel
+http://iptvid.my.id/ch/outdoor.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Paramount Network
+http://iptvid.my.id/ch/paramount.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Prambors
+http://iptvid.my.id/ch/prambors.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Quran TV
+http://iptvid.my.id/ch/alquran.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Rock Entertainment
+http://iptvid.my.id/ch/rock.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Rock Extreme
+http://iptvid.my.id/ch/rockext.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",RRI Net
+http://iptvid.my.id/ch/rrinet.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",RTV
+http://iptvid.my.id/ch/rtv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",SCTV
+http://iptvid.my.id/ch/sctv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Sinema Indonesia
+http://iptvid.my.id/ch/c_indonesia.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",TechStorm
+http://iptvid.my.id/ch/t_storm.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",TLC Southeast Asia
+http://iptvid.my.id/ch/tlc.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Trans 7
+http://iptvid.my.id/ch/trans7.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Trans TV
+http://iptvid.my.id/ch/transtv.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",TVN Movies Indonesia
+http://iptvid.my.id/ch/tvnmovie.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",TVN Premium Indonesia
+http://iptvid.my.id/ch/tvn.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Warner TV Southeast Asia
+http://iptvid.my.id/ch/wrnr.m3u8
+#EXTINF:-1 group-title="UseeTV FTA",Zee Bioskop
+http://iptvid.my.id/ch/zeeb.m3u8
+
 #EXTINF:-1 group-title="VIDIO",Berita Satu News
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",DAAI TV
@@ -133,8 +282,6 @@ https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",O-Shop
 https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
-#EXTINF:-1 group-title="VIDIO",RCTI
-https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",SCTV
@@ -145,16 +292,20 @@ https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",TVRI Nasional
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
-#EXTINF:-1 group-title="VIDIO",TV Edukasi
-https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
+#EXTINF:-1 group-title="VIDIO",Musica
+https://iptv.mwafa.net/vidio/7619/index.m3u8?token=1999
+#EXTINF:-1 group-title="VIDIO",Rans Channel
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",DW English
 https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",SEA Today
 https://iptv.mwafa.net/vidio/7687/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",TV Tempo
 https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
-#EXTINF:-1 group-title="VIDIO",Musica
-https://iptv.mwafa.net/vidio/7619/index.m3u8?token=1999
+#EXTINF:-1 group-title="VIDIO",Mentari TV
+https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
+#EXTINF:-1 group-title="VIDIO",TV Edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",Ajwa TV
 https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",Quran TV

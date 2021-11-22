@@ -94,16 +94,172 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 #EXTINF:-1 group-title="MAXSTREAM",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbomax.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
+#EXTINF:-1 group-title="DENS.TV",Aljazeera Arabic
+http://rr2.dens.tv/s/s16/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Aljazeera English
+http://rr2.dens.tv/s/s17/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Animax Asia
+http://rr1.dens.tv/h/h144/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",AniPlus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",AXN East Asia
+http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Bali TV
+http://rr.dens.tv/h/h159/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Bloomberg TV Asia
+http://rr1.dens.tv/h/h03/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",CCTV-4 Asia
+http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Celestial Classic Movies
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Celestial Movies Indonesia
+http://rr2.dens.tv/s/s33/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Cinema World
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",CNA
+http://rr.dens.tv/h/h29/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",DAAI TV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",DENS Play
+http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",DENS ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",DUBAI International
+http://rr.dens.tv/h/h152/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",DW English
+http://rr2.dens.tv/s/s26/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",eGG Network
+http://rr.dens.tv/h/h22/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",ElShinta TV
+http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Fight Sports
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",FILMY
+http://rr.dens.tv/h/h154/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",France 24 English
+http://rr2.dens.tv/s/s22/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",GEM
+http://rr.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",GOLF
+http://rr1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",HITS
+http://rr1.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Jak TV
+http://rr3.dens.tv/s/s46/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",JTV
+http://rr3.dens.tv/s/s91/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Kompas TV
+http://rr2.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",KSA
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Learning & Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Lifestyle
+http://rr1.dens.tv/h/h28/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Motorvision
+http://rr.dens.tv/h/h09/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Cinema
+http://rr.dens.tv/h/h90/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Kidz
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My TV
+http://rr2.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",My TV
+http://rr3.dens.tv/s/s88/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",NET
+http://rr2.dens.tv/s/s08/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",NHK World Japan
+http://rr.dens.tv/h/h23/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Phoenix
+http://rr2.dens.tv/s/s21/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Phoenix Chinese
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Quran TV
+http://rr2.dens.tv/s/s28/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",RAI Italia
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Rodja TV
+http://rr2.dens.tv/s/s14/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",RT English
+http://rr3.dens.tv/s/s23/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",RT English
+http://rr3.dens.tv/s/s23/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",RTP
+http://rr2.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",RTV
+http://rr2.dens.tv/s/s12/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Shanghai Dragon
+http://rr3.dens.tv/s/s29/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Shanghai Dragon
+http://rr3.dens.tv/s/s29/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Sinema Indonesia
+http://rr.dens.tv/h/h155/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Style
+http://rr1.dens.tv/h/h01/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Sunna TV
+http://rr2.dens.tv/s/s27/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Telenovela
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",ToonMax
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Trans 7
+http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Trans TV
+http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TRT World
+http://rr.dens.tv/h/h156/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",TV5 Monde
+http://rr1.dens.tv/s/s24/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TVN Premium Indonesia
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",tvOne
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TVRI Nasional
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",TVRI Sport
+http://rr2.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",UChannel
+http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",WION
+http://rr.dens.tv/h/h91/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Xing Kong TV
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
 
 #EXTINF:-1 group-title="VIDIO",Berita Satu News
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999

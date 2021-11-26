@@ -127,7 +127,7 @@ http://rr2.dens.tv/s/s13/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DENS Play
 http://rr3.dens.tv/s/s37/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DENS ShowBiz
-http://rr3.dens.tv/s/s35/index.m3u8
+http://rr3.dens.tv/s/s113/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DUBAI International
 http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",DW English
@@ -136,6 +136,8 @@ http://rr2.dens.tv/s/s26/index.m3u8
 http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",ElShinta TV
 http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",EuroNews English
+http://rr3.dens.tv/s/s72/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Fight Sports
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",FILMY
@@ -171,13 +173,13 @@ http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema
-http://rr.dens.tv/h/h90/index.m3u8
+http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Kidz
-http://rr.dens.tv/h/h98/index.m3u8
+http://rr.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My TV
 http://rr2.dens.tv/s/s46/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",My TV
@@ -204,8 +206,6 @@ http://rr1.dens.tv/h/h15/index.m3u8
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",RT English
 http://rr3.dens.tv/s/s23/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",RT English
-http://rr3.dens.tv/s/s23/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",RTP
 http://rr2.dens.tv/s/s38/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",RTV
@@ -214,8 +214,6 @@ http://rr2.dens.tv/s/s12/index.m3u8
 http://rr2.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Shanghai Dragon
 http://rr3.dens.tv/s/s29/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Shanghai Dragon
-http://rr3.dens.tv/s/s29/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Sinema Indonesia
 http://rr.dens.tv/h/h155/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Style

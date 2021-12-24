@@ -18,12 +18,8 @@ https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transfor
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV HD
-https://www.dailymotion.com/cdn/live/video/x75p70w.m3u8?sec=_f3C4i3Q4bGY11FZ98y14RliKO7I6x8OP1ZVZENhzcCC0t6jgnv7BQ4iR0-mMhTCJFeH-TjOoV9lPLfQuDk0QA&dmTs=60586&dmV1st=C7F03DE256926A59267AEF7E81714811
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET HD
-https://www.youtube.com/watch?v=JYhn33UbxbE
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel

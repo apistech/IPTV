@@ -138,10 +138,14 @@ http://rr1.dens.tv/h/h04/index.m3u8
 http://rr.dens.tv/h/h29/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",DENS Play
-http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Dens Food Channel
+http://rr3.dens.tv/s/s50/live.m3u8
+#EXTINF:-1 group-title="DENS.TV",DENS ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DENS ShowBiz
 http://rr3.dens.tv/s/s113/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",DensPlay
+http://rr3.dens.tv/s/s37/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DUBAI International
 http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",DW English
@@ -187,21 +191,21 @@ http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema
-http://rr.dens.tv/h/h192/index.m3u8
+http://rr.dens.tv/h/h90/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My TV
 http://rr2.dens.tv/s/s46/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV",My TV
-http://rr3.dens.tv/s/s88/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",NET
 http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",NHK World Japan
 http://rr.dens.tv/h/h23/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",O Channel
+http://rr3.dens.tv/s/s73/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",ONE
 http://rr.dens.tv/h/h143/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Phoenix
@@ -260,8 +264,6 @@ http://rr1.dens.tv/h/h20/index.m3u8
 http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",TVRI Nasional
 http://rr2.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",TVRI Sport
-http://rr2.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",UA
 http://rr.dens.tv/h/h101/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",UChannel

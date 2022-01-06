@@ -96,7 +96,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 #EXTINF:-1 group-title="MAXSTREAM",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 group-title="DENS.TV",Aljazeera Arabic
+#EXTINF:-1 group-title="DENS.TV",Aljazeera Channel
 http://rr2.dens.tv/s/s16/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Aljazeera English
 http://rr2.dens.tv/s/s17/index.m3u8
@@ -112,14 +112,12 @@ http://rr1.dens.tv/h/h141/index.m3u8
 http://rr.dens.tv/h/h159/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Bloomberg TV Asia
 http://rr1.dens.tv/h/h03/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",CCTV-4 Asia
+#EXTINF:-1 group-title="DENS.TV",CCTV 4 Asia
 http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Celestial Classic Movies
 http://rr2.dens.tv/s/s31/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Celestial Movies Indonesia
 http://rr1.dens.tv/h/h14/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",CinemaWorld
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",CNA
@@ -128,10 +126,14 @@ http://rr.dens.tv/h/h29/index.m3u8
 http://rr2.dens.tv/s/s13/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Dens Food Channel
 http://rr3.dens.tv/s/s50/live.m3u8
-#EXTINF:-1 group-title="DENS.TV",DENS ShowBiz
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",DensPlay
+#EXTINF:-1 group-title="DENS.TV",Dens Lifestyle
+http://rr1.dens.tv/h/h28/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Dens Play
 http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Dens ShowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",Dragon TV
+http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",DUBAI International
 http://rr.dens.tv/h/h152/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",DW English
@@ -169,23 +171,25 @@ http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Learning & Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Lifestyle
-http://rr1.dens.tv/h/h28/index.m3u8
+http://rr3.dens.tv/s/s36/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema
-http://rr.dens.tv/h/h90/index.m3u8
+http://rr.dens.tv/h/h99/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 group-title="DENS.TV",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Kidz
-http://rr.dens.tv/h/h98/index.m3u8
+http://rr.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My TV
-http://rr2.dens.tv/s/s46/index2.m3u8
+http://rr3.dens.tv/s/s88/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",NET
 http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",NHK World Japan
@@ -194,13 +198,13 @@ http://rr.dens.tv/h/h23/index.m3u8
 http://rr3.dens.tv/s/s73/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",ONE
 http://rr.dens.tv/h/h143/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Phoenix
-http://rr2.dens.tv/s/s21/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Phoenix Chinese
 http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="DENS.TV",Phoenix InfoNews Channel
+http://rr2.dens.tv/s/s21/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Quran TV
 http://rr2.dens.tv/s/s28/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",RAI Italia
+#EXTINF:-1 group-title="DENS.TV",Rai Italia Asia
 http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Rajawali TV
 http://rr2.dens.tv/s/s12/index.m3u8
@@ -212,25 +216,23 @@ http://rr1.dens.tv/h/h15/index.m3u8
 http://rr2.dens.tv/s/s14/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",RT English
 http://rr3.dens.tv/s/s23/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",RTP
+#EXTINF:-1 group-title="DENS.TV",RTP International Asia
 http://rr2.dens.tv/s/s38/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Shanghai Dragon
-http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Sinema Indonesia
 http://rr.dens.tv/h/h155/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Style
 http://rr1.dens.tv/h/h01/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Sunna TV
 http://rr2.dens.tv/s/s27/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",TBN
+#EXTINF:-1 group-title="DENS.TV",TBN Asia
 http://rr2.dens.tv/s/s39/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",Telenovela
+#EXTINF:-1 group-title="DENS.TV",TeleNovela Channel
 http://rr.dens.tv/h/h153/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Thrill
 http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",ToonMax
+#EXTINF:-1 group-title="DENS.TV",Toonmax TV
 http://rr2.dens.tv/s/s50/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Trans 7
 http://rr.dens.tv/h/h11/index.m3u8
@@ -240,7 +242,7 @@ http://rr2.dens.tv/s/s05/index.m3u8
 http://rr.dens.tv/h/h156/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",TV5Monde Asie
 http://rr1.dens.tv/s/s24/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",TVE
+#EXTINF:-1 group-title="DENS.TV",TVE International Asia
 http://rr.dens.tv/h/h158/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",TVN Movies Indonesia
 http://rr1.dens.tv/h/h21/index.m3u8
@@ -250,7 +252,7 @@ http://rr1.dens.tv/h/h20/index.m3u8
 http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",TVRI Nasional
 http://rr2.dens.tv/s/s11/index.m3u8
-#EXTINF:-1 group-title="DENS.TV",UA
+#EXTINF:-1 group-title="DENS.TV",UA TV
 http://rr.dens.tv/h/h101/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",UChannel
 http://rr2.dens.tv/s/s41/index.m3u8
@@ -317,3 +319,76 @@ https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",UChannel
 https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="TransVision",ABC Australia Asia
+https://cubmu.nomaden.tv:8279/ABCAUSTRALIA/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Aljazeera English
+https://cubmu.nomaden.tv:8279/ALJAZEERA/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Arirang World
+https://cubmu.nomaden.tv:8279/ARIRANG/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",AXN East Asia
+https://cubmu.nomaden.tv:8279/AXN/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Berita Satu News
+https://cubmu.nomaden.tv:8279/BERITASATU/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Bioskop Indonesia
+https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Boomerang South East Asia
+https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Cartoon Network Asia
+https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",CNBC Indonesia
+https://cubmu.nomaden.tv:8279/CNBCIND/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",CNN Indonesia
+https://cubmu.nomaden.tv:8279/CNNINDONESIA/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Da Ai TV Indonesia
+https://cubmu.nomaden.tv:8279/DAAI/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Da Vinci Asia
+https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Discovery Channel Southeast Asia
+https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Dunia Anak
+https://cubmu.nomaden.tv:8279/DUNIAANAK/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Dunia Lain
+https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Eat N Go
+https://cubmu.nomaden.tv:8279/EATNGO/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",GTV
+https://cubmu.nomaden.tv:8279/GLOBALTV/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",HITS Movies
+https://cubmu.nomaden.tv:8279/HITMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Indosiar
+https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Insert
+https://cubmu.nomaden.tv:8279/INSERT/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",KBS World
+https://cubmu.nomaden.tv:8279/KBSWORLD/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Kompas TV
+https://cubmu.nomaden.tv:8279/KOMPASTV/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",MNC TV
+https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",MTV South East Asia
+https://cubmu.nomaden.tv:8279/MTVLIVE/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Musik Indonesia
+https://cubmu.nomaden.tv:8279/MUSIKINDO/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",NET
+https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Nickelodeon South East Asia
+https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",ONE
+https://cubmu.nomaden.tv:8279/ONE/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Paramount Network Asia
+https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",RCTI
+https://cubmu.nomaden.tv:8279/RCTI/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",SCTV
+https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",T Musik
+https://cubmu.nomaden.tv:8279/TMUSIC/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",TechStorm
+https://cubmu.nomaden.tv:8279/TECHSTORM/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Trans 7
+https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Trans TV
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+#EXTINF:-1 group-title="TransVision",Warner TV Southeast Asia
+https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8

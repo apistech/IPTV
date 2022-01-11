@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, http://nonton.site:8888/xmltv.php?username=epg&password=epg, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -313,76 +313,3 @@ https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",UChannel
 https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
-
-#EXTINF:-1 group-title="TransVision",ABC Australia Asia
-https://cubmu.nomaden.tv:8279/ABCAUSTRALIA/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Aljazeera English
-https://cubmu.nomaden.tv:8279/ALJAZEERA/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Arirang World
-https://cubmu.nomaden.tv:8279/ARIRANG/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",AXN East Asia
-https://cubmu.nomaden.tv:8279/AXN/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Berita Satu News
-https://cubmu.nomaden.tv:8279/BERITASATU/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Bioskop Indonesia
-https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Boomerang South East Asia
-https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Cartoon Network Asia
-https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",CNBC Indonesia
-https://cubmu.nomaden.tv:8279/CNBCIND/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",CNN Indonesia
-https://cubmu.nomaden.tv:8279/CNNINDONESIA/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Da Ai TV Indonesia
-https://cubmu.nomaden.tv:8279/DAAI/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Da Vinci Asia
-https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Discovery Channel Southeast Asia
-https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Dunia Anak
-https://cubmu.nomaden.tv:8279/DUNIAANAK/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Dunia Lain
-https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Eat N Go
-https://cubmu.nomaden.tv:8279/EATNGO/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",GTV
-https://cubmu.nomaden.tv:8279/GLOBALTV/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",HITS Movies
-https://cubmu.nomaden.tv:8279/HITMOVIES/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Indosiar
-https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Insert
-https://cubmu.nomaden.tv:8279/INSERT/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",KBS World
-https://cubmu.nomaden.tv:8279/KBSWORLD/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Kompas TV
-https://cubmu.nomaden.tv:8279/KOMPASTV/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",MNC TV
-https://cubmu.nomaden.tv:8279/MNCTV/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",MTV South East Asia
-https://cubmu.nomaden.tv:8279/MTVLIVE/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Musik Indonesia
-https://cubmu.nomaden.tv:8279/MUSIKINDO/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",NET
-https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Nickelodeon South East Asia
-https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",ONE
-https://cubmu.nomaden.tv:8279/ONE/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Paramount Network Asia
-https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",RCTI
-https://cubmu.nomaden.tv:8279/RCTI/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",SCTV
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",T Musik
-https://cubmu.nomaden.tv:8279/TMUSIC/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",TechStorm
-https://cubmu.nomaden.tv:8279/TECHSTORM/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Trans 7
-https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Trans TV
-https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
-#EXTINF:-1 group-title="TransVision",Warner TV Southeast Asia
-https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
